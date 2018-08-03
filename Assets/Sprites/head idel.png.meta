@@ -1,0 +1,2674 @@
+fileFormatVersion: 2
+guid: 65db825351f0c6148aaf2d8ba6838ab6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head idel_0
+    21300002: head idel_1
+    21300004: head idel_2
+    21300006: head idel_3
+    21300008: head idel_4
+    21300010: head idel_5
+    21300012: head idel_6
+    21300014: head idel_7
+    21300016: head idel_8
+    21300018: head idel_9
+    21300020: head idel_10
+    21300022: head idel_11
+    21300024: head idel_12
+    21300026: head idel_13
+    21300028: head idel_14
+    21300030: head idel_15
+    21300032: head idel_16
+    21300034: head idel_17
+    21300036: head idel_18
+    21300038: head idel_19
+    21300040: head idel_20
+    21300042: head idel_21
+    21300044: head idel_22
+    21300046: head idel_23
+    21300048: head idel_24
+    21300050: head idel_25
+    21300052: head idel_26
+    21300054: head idel_27
+    21300056: head idel_28
+    21300058: head idel_29
+    21300060: head idel_30
+    21300062: head idel_31
+    21300064: head idel_32
+    21300066: head idel_33
+    21300068: head idel_34
+    21300070: head idel_35
+    21300072: head idel_36
+    21300074: head idel_37
+    21300076: head idel_38
+    21300078: head idel_39
+    21300080: head idel_40
+    21300082: head idel_41
+    21300084: head idel_42
+    21300086: head idel_43
+    21300088: head idel_44
+    21300090: head idel_45
+    21300092: head idel_46
+    21300094: head idel_47
+    21300096: head idel_48
+    21300098: head idel_49
+    21300100: head idel_50
+    21300102: head idel_51
+    21300104: head idel_52
+    21300106: head idel_53
+    21300108: head idel_54
+    21300110: head idel_55
+    21300112: head idel_56
+    21300114: head idel_57
+    21300116: head idel_58
+    21300118: head idel_59
+    21300120: head idel_60
+    21300122: head idel_61
+    21300124: head idel_62
+    21300126: head idel_63
+    21300128: head idel_64
+    21300130: head idel_65
+    21300132: head idel_66
+    21300134: head idel_67
+    21300136: head idel_68
+    21300138: head idel_69
+    21300140: head idel_70
+    21300142: head idel_71
+    21300144: head idel_72
+    21300146: head idel_73
+    21300148: head idel_74
+    21300150: head idel_75
+    21300152: head idel_76
+    21300154: head idel_77
+    21300156: head idel_78
+    21300158: head idel_79
+    21300160: head idel_80
+    21300162: head idel_81
+    21300164: head idel_82
+    21300166: head idel_83
+    21300168: head idel_84
+    21300170: head idel_85
+    21300172: head idel_86
+    21300174: head idel_87
+    21300176: head idel_88
+    21300178: head idel_89
+    21300180: head idel_90
+    21300182: head idel_91
+    21300184: head idel_92
+    21300186: head idel_93
+    21300188: head idel_94
+    21300190: head idel_95
+    21300192: head idel_96
+    21300194: head idel_97
+    21300196: head idel_98
+    21300198: head idel_99
+    21300200: head idel_100
+    21300202: head idel_101
+    21300204: head idel_102
+    21300206: head idel_103
+    21300208: head idel_104
+    21300210: head idel_105
+    21300212: head idel_106
+    21300214: head idel_107
+    21300216: head idel_108
+    21300218: head idel_109
+    21300220: head idel_110
+    21300222: head idel_111
+    21300224: head idel_112
+    21300226: head idel_113
+    21300228: head idel_114
+    21300230: head idel_115
+    21300232: head idel_116
+    21300234: head idel_117
+    21300236: head idel_118
+    21300238: head idel_119
+    21300240: head idel_120
+    21300242: head idel_121
+    21300244: head idel_122
+    21300246: head idel_123
+    21300248: head idel_124
+    21300250: head idel_125
+    21300252: head idel_126
+    21300254: head idel_127
+    21300256: head idel_128
+    21300258: head idel_129
+    21300260: head idel_130
+    21300262: head idel_131
+    21300264: head idel_132
+    21300266: head idel_133
+    21300268: head idel_134
+    21300270: head idel_135
+    21300272: head idel_136
+    21300274: head idel_137
+    21300276: head idel_138
+    21300278: head idel_139
+    21300280: head idel_140
+    21300282: head idel_141
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head idel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cacda2d51db764e859174f9541c3cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a5f2b71d9e6d4893575c559dfdf20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b482b1b22355140b9bafe0bc5ee9a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_3
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bb1ec197bf92647a85a546e2a0ee80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_4
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576fa32a6f41ae843bc36216a442bc73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_5
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd10aed34245474296f140f9197f433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_6
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4db390edddf4d4f8e3a45dfa0349fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_7
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf4a4d9813e7cc42999290a441f07de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_8
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345e6e2e7fa16e04daa16cf24f3c806c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_9
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb2ef3789d804a41a32bc5fcea9813e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_10
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d759af49209100544abb3aa668123667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_11
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d96a59fbb0bae429efa2a5cf6e9f5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_12
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2902540519e531747967e2558cd2bd7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_13
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 7674
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da562437467c1b48940fba36d193a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610ff4e9a35b57940a884bdabc326cba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_15
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d36bc3922ad57a4ab79e2515bbf7cbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_16
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2676ddec3ac6d874d9437baac50b116c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_17
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cbda99fa3d1b847867b55a6e65a68c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_18
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d3f78f7a742448928ff0b9ca4c6f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_19
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a2cf7be6c5b44d88b2075ec6840cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_20
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4c21fea15471469b81e42efd4da7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_21
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac1cbdcb610e644b815e4a73aa698da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_22
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf3ab9899fb1cb40bfc7905d5dfc010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_23
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d70ed024fee78a4cbdbc17c9f7ce6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_24
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7180faa38199b32439e99ab5e0120b76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_25
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38daa6f95f0194294e6d2cfeee1b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_26
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88084d1f7022794e814dbc8da025230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_27
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 7156
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb0eccca80e037428ae8fd9a4515bde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9f5de5295f3664ba8a8621f38cea19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_29
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db405980837da9448f44c670a025fb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_30
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bb9c59285468f478dacf14efd34db5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_31
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8590be1124fa14cb5ee128d55255d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_32
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525bc74f10908c244a2bf1b90b5089e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_33
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dfcb4309512c844bf44cef41c47d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_34
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416715e6352710d4eb8acdc6f9688ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_35
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a5cbeb418e93b4fbfb8523e41b50ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_36
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81df329ec5ae08646bbcf3c00d0bac0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_37
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1a0fbdc4b294348b044abb0e19da2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_38
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35783da14cb23784aaacc67a85c1ec4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_39
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee5fd273372b84d9d345d707eb79c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_40
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5678c4d524ff324b9c0ca76ac6b403e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_41
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 6638
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4c4dee682f34840a812e47752ad06a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be2a398d7bd43549922cdfb910b6122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_43
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b986ac5b94c6be46b2698213b16dcf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_44
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589a1d492373f34c96110b6d96c4af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_45
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e321c06a917c3140a487a61cdce6bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_46
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eddfcc2d7b0835488de24161d44f2b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_47
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0104ba0fe97847241a086a714181ecfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_48
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74583af1670b2224696c79cfec5e6b10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_49
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5735a7ed4ebd40a7c377de2d15cad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_50
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f853cad3dfd2014fb845dcbe967a4d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_51
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2f3be6de5a004299ed6f1d826cd2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_52
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d4a337edb107744a5578551f9b864a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_53
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856ae985f47b66c4fbf11a2b2da7444c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_54
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571aaa0b6aed72444a3660f7ff992302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_55
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 6120
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad410c917c83e794b8fc8398bdd3d4c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41c642248e2b3d448e99e1c766ea743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_57
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36aca4c22b5436489258ed3c2fc0571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_58
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f97bdece2c5b74f98880a7bc09a8f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_59
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281d922249eaca40b671c4d490cf418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_60
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed5d879c2f2fb4e8320dd2221f4435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_61
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1e154aba1afc44ab0478de2fe534f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_62
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519bcbcd530531f4380c78c58cda55e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_63
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133232907291d434b8b9e4cb9b43fcf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_64
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ab66fcd98ebe448206d9d4257570f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_65
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a85bf10c93f3246bd156286b9b0ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_66
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2c8213d9c9f14b82470ddc23c500c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_67
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8c3ebaf99f04147b44de2491de7ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_68
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773bf7011914de548a095655c29b59b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_69
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 5602
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44030b83e2d24824bb7e06e8b62ded13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca534470036ead4c8f8c62288458c9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_71
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebe5ca368b998b44a09c2ac6b346885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_72
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575a54b8d21a30a418f7d5f4b5f92b38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_73
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6733219d6adf3e40a2d1020ddff800b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_74
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d17c4afa3e424dad270af04615e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_75
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2255ea2b5fabcc2488343cdaa91198e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_76
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa723891ea79d4f8c076a45376e4f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_77
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25232ae5281b404f8b0b02332056df7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_78
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fd72f17357bbe498a4beaf043148bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_79
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c1961de8a1e8443a335d46d7c0a69f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_80
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990fd49a52e88474695dfee0cfeb04e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_81
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fe3696733fc284fbcbb6d289855d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_82
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19f6d666ef897043953057fc9a51344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_83
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 5084
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5372a06a9a40f45b4e1e20acb7006e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d56f5888737af4797fdc3d88c42224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_85
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9535898e3939be549b1ca17bbdc1f006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_86
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c002b2bd0c0b75740aad153d131bcae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_87
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b70e12b1dbaa14dae28a5b18a71b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_88
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e4d7fddd8735649b4b720682ad40d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_89
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da28576c6a730524fa6d13dc825c72c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_90
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fee921ed204c7439c05ee6a99ce0c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_91
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea7a2f46f4f324bafb761bf0528664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_92
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f85bdb5a1d3a4a438362c15b297db9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_93
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c989771a5cb9394dbf42846aefa45b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_94
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4bdcb6e44635d4e9985337a432f191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_95
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af29af12c6dd984d94946e3785dd79a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_96
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0970dd198748c640a04aba2d3a17207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_97
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 4566
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45971019cc21e7b4794cb554bf1b7a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ee678d2e99ffd41ac994c8b454a73b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_99
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c73a5aabb075b243a4585093e643abc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_100
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc3d61a1a77ee74aa29c6b00e7aeee3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_101
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aa8d2b0dbc29d4aa089d83ca21a019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_102
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3133caff2444f6f4dbc8fc9cf85550f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_103
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fba6edf74a53e4db859cccdab2ef77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_104
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d029400f1525ba24ea86ad11efa57a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_105
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1232f9119129314f9f886380ae26ff1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_106
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84cba61b5faa1241b746074e6303296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_107
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879d2fdc6ffac924cbf415e1fdeea8ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_108
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc964e47789ee645805b7ae6562bdcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_109
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8a125028944cb40a215e276051eefa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_110
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2834edb370df4ba4abbd2dd8f115925d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_111
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 4048
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e513bfa664c69e24995978691558846b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3530
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3718667edd9784e8891bcb66d24bbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_113
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3530
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c628802289f6e248af4c7a804e10dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_114
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3530
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68262a174c423f48974103e08afb84b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_115
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3530
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8523582c28e947a44974cc30301dcd4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_116
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 3530
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e179b2fee3926e84aba830d1f850c9ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_117
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 3530
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0345ec748170f674c865be37d6fdd201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_118
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 3530
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3fdc5ef056a3544aeafcccea43712f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head idel_119
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 3530
+        width: 548
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f982ae2293fa534b82575cd529a609a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03215c2b7f1ed144fa63d36d76da1cce
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

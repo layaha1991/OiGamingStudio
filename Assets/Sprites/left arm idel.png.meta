@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: 0bc8e39e1c8d49941a05913efff1787f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: left arm idel_0
+    21300002: left arm idel_1
+    21300004: left arm idel_2
+    21300006: left arm idel_3
+    21300008: left arm idel_4
+    21300010: left arm idel_5
+    21300012: left arm idel_6
+    21300014: left arm idel_7
+    21300016: left arm idel_8
+    21300018: left arm idel_9
+    21300020: left arm idel_10
+    21300022: left arm idel_11
+    21300024: left arm idel_12
+    21300026: left arm idel_13
+    21300028: left arm idel_14
+    21300030: left arm idel_15
+    21300032: left arm idel_16
+    21300034: left arm idel_17
+    21300036: left arm idel_18
+    21300038: left arm idel_19
+    21300040: left arm idel_20
+    21300042: left arm idel_21
+    21300044: left arm idel_22
+    21300046: left arm idel_23
+    21300048: left arm idel_24
+    21300050: left arm idel_25
+    21300052: left arm idel_26
+    21300054: left arm idel_27
+    21300056: left arm idel_28
+    21300058: left arm idel_29
+    21300060: left arm idel_30
+    21300062: left arm idel_31
+    21300064: left arm idel_32
+    21300066: left arm idel_33
+    21300068: left arm idel_34
+    21300070: left arm idel_35
+    21300072: left arm idel_36
+    21300074: left arm idel_37
+    21300076: left arm idel_38
+    21300078: left arm idel_39
+    21300080: left arm idel_40
+    21300082: left arm idel_41
+    21300084: left arm idel_42
+    21300086: left arm idel_43
+    21300088: left arm idel_44
+    21300090: left arm idel_45
+    21300092: left arm idel_46
+    21300094: left arm idel_47
+    21300096: left arm idel_48
+    21300098: left arm idel_49
+    21300100: left arm idel_50
+    21300102: left arm idel_51
+    21300104: left arm idel_52
+    21300106: left arm idel_53
+    21300108: left arm idel_54
+    21300110: left arm idel_55
+    21300112: left arm idel_56
+    21300114: left arm idel_57
+    21300116: left arm idel_58
+    21300118: left arm idel_59
+    21300120: left arm idel_60
+    21300122: left arm idel_61
+    21300124: left arm idel_62
+    21300126: left arm idel_63
+    21300128: left arm idel_64
+    21300130: left arm idel_65
+    21300132: left arm idel_66
+    21300134: left arm idel_67
+    21300136: left arm idel_68
+    21300138: left arm idel_69
+    21300140: left arm idel_70
+    21300142: left arm idel_71
+    21300144: left arm idel_72
+    21300146: left arm idel_73
+    21300148: left arm idel_74
+    21300150: left arm idel_75
+    21300152: left arm idel_76
+    21300154: left arm idel_77
+    21300156: left arm idel_78
+    21300158: left arm idel_79
+    21300160: left arm idel_80
+    21300162: left arm idel_81
+    21300164: left arm idel_82
+    21300166: left arm idel_83
+    21300168: left arm idel_84
+    21300170: left arm idel_85
+    21300172: left arm idel_86
+    21300174: left arm idel_87
+    21300176: left arm idel_88
+    21300178: left arm idel_89
+    21300180: left arm idel_90
+    21300182: left arm idel_91
+    21300184: left arm idel_92
+    21300186: left arm idel_93
+    21300188: left arm idel_94
+    21300190: left arm idel_95
+    21300192: left arm idel_96
+    21300194: left arm idel_97
+    21300196: left arm idel_98
+    21300198: left arm idel_99
+    21300200: left arm idel_100
+    21300202: left arm idel_101
+    21300204: left arm idel_102
+    21300206: left arm idel_103
+    21300208: left arm idel_104
+    21300210: left arm idel_105
+    21300212: left arm idel_106
+    21300214: left arm idel_107
+    21300216: left arm idel_108
+    21300218: left arm idel_109
+    21300220: left arm idel_110
+    21300222: left arm idel_111
+    21300224: left arm idel_112
+    21300226: left arm idel_113
+    21300228: left arm idel_114
+    21300230: left arm idel_115
+    21300232: left arm idel_116
+    21300234: left arm idel_117
+    21300236: left arm idel_118
+    21300238: left arm idel_119
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: left arm idel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecbed3f25453d14ab7df8c686a5ccc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc65e5e26750ae4897d09b6b4aa96d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_2
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd8744a0a4567040a2609c72fac6b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_3
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99d4bb4cc9c93944aed9771ff426ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_4
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d180a0387f81074e800b0fd4eaf6ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_5
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55823cf7085a8074994acbb508540214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_6
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e3857366ce8c4d8553be35d16a909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_7
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756a0ff1d5034794ea686a41090170fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_8
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ee48cca40f8ba469f7e41f12c173bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_9
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 7771
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd08597a1cda842918afa8579ee994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2cce3583927949adb4a155f31c1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7dcb3936fab2e45b6581f1c92765f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b1e66f64fa684c8c829e20f279e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_13
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1774b749fc3e17f4ab0a1220894d66bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_14
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73f98e801a55c847a61673994acd4d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_15
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa33a724fb016546a79c8a76f166cae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_16
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a3c53de731d5647a1ab6f079d8e553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_17
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7153fd6e796011d44a9c3990f5269e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_18
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c3c46755c656a4aa8287706f879fe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_19
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 7350
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d2e66e2916024b945cf1186d31aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ddfaace5d7a84d9c06537e06451d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b42c0e10fb6fe44b5e2d9e250c7439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_22
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82576a9c44c42a541b8e7281f9a22639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_23
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624664150cb83a44a9a802a12683c2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_24
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a613841ebf9e8de4c9c459a440225a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_25
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff46945e10b04240b55ecdf2b51b2e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_26
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83979b32464baa44a86ede21f4b500a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_27
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c622109ec7ccbe41b8d39777bf6a7f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_28
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349cd3af3b7daf64086bc122b136f9f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_29
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 6929
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b0876195d8f84db6a17a81890bf73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a001a80bae319747bc02cba472dc194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_31
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1450483d5dd83540998e690f9cd3635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_32
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0692e411ede894c95279fd74434e6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_33
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fbceafc4c3fe14a8d026af3dfdecd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_34
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb555e00d8de44344b55dd3439d07d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_35
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e719f30e896731f48ba754b9cd4c1c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_36
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0305bea723046844bf87663062ad2d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_37
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe6f75e9e511764c99b57940f7e9b1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_38
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fe54fd30237c64ba45c50699e74152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_39
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 6508
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e340caab2d61fda4691765525fd9b26d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa14563c9992a424d91c9a9bf8a27354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_41
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa146e322b12e84fab05540e6fb2fa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_42
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10584ca6eebe18f4685e6db8ec292bce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_43
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb54e54a65cf944398cc4e60066b620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_44
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08f928cd659bf4c9a687bc461ceb7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_45
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dc1bc07d1c1334ca43f385383220ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_46
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc275e38f69f01469159f3ff8203ec4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_47
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4456ae0e602360840a334c280ff32ff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_48
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a951ffabe57194fabe402818b7dc5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_49
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 6087
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97224d4419a1e6f4d90b4aada0d6c7fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d54109e70a93f54fbd01214ac7851c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_51
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7cdbd4689d3d044a0437f7a13f29b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_52
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81663385bb227844993be6d4b51c831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_53
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aca289de0ae0e84ea21e6fae6d1af74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_54
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c46aad7d0da5aa47b9e7036a30e5be5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_55
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808807a7e1213e1418f9a080fa89e267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_56
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4ca652b8e63743ba8e4fea6b6421b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_57
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c1598af31391a4f9a3bf32231c20ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_58
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e933a11a2b792d4d90c745595ed052f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_59
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 5666
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1244e13911e58554e9216dce6bbeecd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96cfd0c72c15ce4a84756b54847da52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_61
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157d88c8b6428d942a267eda892625fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_62
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319023afe81e774d92dd6a593352390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_63
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b82cd7d32c64449e4065acba62faa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_64
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfaf436f277d148aafb18e3c1751f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_65
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f4061e8a3a4974e8515ab6c676b273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_66
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f39d1ff07af9044895e3c8cf134d9b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_67
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183497caca7e74641b57fbb553ca1d67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_68
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d569107768db4581586e70cfd69b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_69
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 5245
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d07c0f76f4ae4597272b5114ca6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2479d45088831c45aa65982f4063f96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_71
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81967e0588dd40242825c18ec42c763e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_72
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13249ec8f33b7bd4582b463b8b86ab99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_73
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f88e7f77cbefe428e376f25437a818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_74
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d61ed330bb6f74c8cc1c7c05699564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_75
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7328587834187d546a47bb500d0d7f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_76
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a42264d9ba3a64daaf0a50dfcc8706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_77
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a548bd26ef17504a8050fdb018d81ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_78
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49fcfb561d8fb042ac75048ac4981dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_79
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 4824
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dabcebb84889d444842ad0a1ab0f8fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d89dbba01fdff49970210fa1d864f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_81
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e4469521509ba46a0541033b3e9413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_82
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0399a78618cba5742af16094b721ba7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_83
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f460b0c4630743a786c894852aa89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_84
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c5348a9a6511b4e8bc395e835e6048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_85
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fc687a881a47c4da8709496a298a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_86
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0ac36bf34f21469147c194a416f55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_87
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac0ff6c1d2ae14ab044db6f5ae9fc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_88
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2032fe138af50429e4bc97cf8a5bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_89
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 4403
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ebe043bb33d7e4d9d8e0f937d75b30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1199f79073cb6974284dd34f00f03e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_91
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2068e34456b2344aa74db3b3ad03b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_92
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5830fc8306c69ed4290edf9060eab31d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_93
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ea653addd104489c0f78ad73f1f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_94
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b692ca12d69e947bedf5d2d5064226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_95
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c03399bccec60f4ba13c23b2bcd9f8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_96
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3ad216a9c8d914387803fb88a4fc45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_97
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acaae02f1ba2ed479f13b7e7a43dc8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_98
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fafd77cb70952648bc8493c2c350e2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_99
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 3982
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c7fcfedd434e4d9bc389f244d8a2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca4a2819bb5d64e810831959e78a6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_101
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfbca27f6568af408ebf8eaa3a1ece8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_102
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37968d8aa77741b469c7beb718677d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_103
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3be7b045e5ed844b34deb1bf3dec4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_104
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2b3e3b73176b543b98524d73b742ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_105
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0930891f6f6a17468b97dcaac9d38a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_106
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c1d98046d4ce345a88d31e9fa448c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_107
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d3b892b124244b9faba1bb75f2981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_108
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e979f41e15be6cf4f8aabfc5b185c4f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_109
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 3561
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fa08dee04892459038c0946805c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1251e756d94fe5c4da08300d844e3360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_111
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0843b4fd83e7a478ae73c1b34ddf22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_112
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4bdb7b6d3a1cd4296521c04158f09e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_113
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b98fc313d9c53c4e80e37c7aa717026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_114
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8773843b2dd97f4f97d8d12522d73e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_115
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48386d3df5b7c0e4bb2e2a2827452749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_116
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3f5e85977e194f901e598d7da1862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_117
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cfe7b5b9f8a64e92ab64651d840b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_118
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757079d5f93216b45827066164d359f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left arm idel_119
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 3140
+        width: 397
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97858a05feac2dc4ea15cc38240e8c7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e17ab9a964c0e1c43947e99a58825746
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

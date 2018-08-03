@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: 7a98528fca6592b4c90e86d99f5fb3cf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: right leg idel_0
+    21300002: right leg idel_1
+    21300004: right leg idel_2
+    21300006: right leg idel_3
+    21300008: right leg idel_4
+    21300010: right leg idel_5
+    21300012: right leg idel_6
+    21300014: right leg idel_7
+    21300016: right leg idel_8
+    21300018: right leg idel_9
+    21300020: right leg idel_10
+    21300022: right leg idel_11
+    21300024: right leg idel_12
+    21300026: right leg idel_13
+    21300028: right leg idel_14
+    21300030: right leg idel_15
+    21300032: right leg idel_16
+    21300034: right leg idel_17
+    21300036: right leg idel_18
+    21300038: right leg idel_19
+    21300040: right leg idel_20
+    21300042: right leg idel_21
+    21300044: right leg idel_22
+    21300046: right leg idel_23
+    21300048: right leg idel_24
+    21300050: right leg idel_25
+    21300052: right leg idel_26
+    21300054: right leg idel_27
+    21300056: right leg idel_28
+    21300058: right leg idel_29
+    21300060: right leg idel_30
+    21300062: right leg idel_31
+    21300064: right leg idel_32
+    21300066: right leg idel_33
+    21300068: right leg idel_34
+    21300070: right leg idel_35
+    21300072: right leg idel_36
+    21300074: right leg idel_37
+    21300076: right leg idel_38
+    21300078: right leg idel_39
+    21300080: right leg idel_40
+    21300082: right leg idel_41
+    21300084: right leg idel_42
+    21300086: right leg idel_43
+    21300088: right leg idel_44
+    21300090: right leg idel_45
+    21300092: right leg idel_46
+    21300094: right leg idel_47
+    21300096: right leg idel_48
+    21300098: right leg idel_49
+    21300100: right leg idel_50
+    21300102: right leg idel_51
+    21300104: right leg idel_52
+    21300106: right leg idel_53
+    21300108: right leg idel_54
+    21300110: right leg idel_55
+    21300112: right leg idel_56
+    21300114: right leg idel_57
+    21300116: right leg idel_58
+    21300118: right leg idel_59
+    21300120: right leg idel_60
+    21300122: right leg idel_61
+    21300124: right leg idel_62
+    21300126: right leg idel_63
+    21300128: right leg idel_64
+    21300130: right leg idel_65
+    21300132: right leg idel_66
+    21300134: right leg idel_67
+    21300136: right leg idel_68
+    21300138: right leg idel_69
+    21300140: right leg idel_70
+    21300142: right leg idel_71
+    21300144: right leg idel_72
+    21300146: right leg idel_73
+    21300148: right leg idel_74
+    21300150: right leg idel_75
+    21300152: right leg idel_76
+    21300154: right leg idel_77
+    21300156: right leg idel_78
+    21300158: right leg idel_79
+    21300160: right leg idel_80
+    21300162: right leg idel_81
+    21300164: right leg idel_82
+    21300166: right leg idel_83
+    21300168: right leg idel_84
+    21300170: right leg idel_85
+    21300172: right leg idel_86
+    21300174: right leg idel_87
+    21300176: right leg idel_88
+    21300178: right leg idel_89
+    21300180: right leg idel_90
+    21300182: right leg idel_91
+    21300184: right leg idel_92
+    21300186: right leg idel_93
+    21300188: right leg idel_94
+    21300190: right leg idel_95
+    21300192: right leg idel_96
+    21300194: right leg idel_97
+    21300196: right leg idel_98
+    21300198: right leg idel_99
+    21300200: right leg idel_100
+    21300202: right leg idel_101
+    21300204: right leg idel_102
+    21300206: right leg idel_103
+    21300208: right leg idel_104
+    21300210: right leg idel_105
+    21300212: right leg idel_106
+    21300214: right leg idel_107
+    21300216: right leg idel_108
+    21300218: right leg idel_109
+    21300220: right leg idel_110
+    21300222: right leg idel_111
+    21300224: right leg idel_112
+    21300226: right leg idel_113
+    21300228: right leg idel_114
+    21300230: right leg idel_115
+    21300232: right leg idel_116
+    21300234: right leg idel_117
+    21300236: right leg idel_118
+    21300238: right leg idel_119
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right leg idel_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7691
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998582f791b75dd44af2c77be96989ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 7691
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28056ed55b8e4c4195f62da0e6ebe42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 7691
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6a71d5f17b56840b036500b1c78b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 7691
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c81d0e59b96cd45ba6c46d5fe4fc7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_4
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 7691
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923a87b819897934999ce7317eba8a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7691
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956bdb0aeb7e68a42b3490e9fa375041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_6
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 7691
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064166e0923ec5d458e341d18ca78664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_7
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 7691
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15f66588ea6a1439289440c2dac9cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7170
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc18659f668be3e4f8a681423f0a390c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 7170
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf820db971952640993cd243f7c98ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 7170
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccecd01723913ac479bfdd2ed9db7387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 7170
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e57734a10b02474888e86de2417f050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 7170
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81e79fb1c77c649b64e63b6cb9ee94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7170
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa53599453091243b4052c2225ae533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_14
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 7170
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1e375b3049b774b9bb5ec34bedc99c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_15
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 7170
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d808b1a76d3f98b478f231a9f527aac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6649
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1f081193bc1e24ebf7e3e5a883056c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 6649
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa84973781ef58429508d6cb5e7a90b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 6649
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa4bc9d03c7c564ba5edf57a9a9e34c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_19
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 6649
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698c671669c9919489063486bc5a36e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_20
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 6649
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b0b2396f1fa845b89a5e5941ea109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6649
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30d5d1633013fe4c978c04f86edd46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_22
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 6649
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dc55b55cdd5b44aa058aed18b721de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_23
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 6649
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42accc86a67fd10499fad6c92778f683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6128
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593436f5fb56e15408b153e2651a8600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 6128
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb59a1520d1eb44b9ba5f3bbef97387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 6128
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec6a730f777ce6459fea27a1134a8ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_27
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 6128
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d904d16eefeae49ad5862a5e370289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_28
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 6128
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69014dc763f875429e9842e773dca84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6128
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ba576a7154df41bc8b4c1cb3e8f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_30
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 6128
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62a0a961db10c14daad3d27f9f24e1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_31
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 6128
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab12bbc2e6b3f418cb17c2778a19c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5607
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e4c89d4bcb05540a157e8906e9b347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5607
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579b8cc89dcc7b946b18cf485ff6b048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_34
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 5607
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3771a1f250f9878429eb2ddd6e180d78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_35
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 5607
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97c8d1a96a1e949b78cfb87925d426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_36
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 5607
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93398253de11eba4fb23cc6d1d61ffd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5607
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e955f94bcdb7d04fa4304b1ae201160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_38
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 5607
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bbc834b15350b4999e3f0c6ef7f73f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_39
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 5607
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f766cdcafda54fb2b90f7ed4eb28f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5086
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177c7752accbcf4596f34eeed85cee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5086
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3301618aff53834478d0bd34f0200414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_42
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 5086
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a5174a459ca5f49983e915c5cb0d08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_43
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 5086
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec95cec42659bd4c8b0b83c5961ed9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_44
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 5086
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec3997c7f1358f428442e002ee62cc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5086
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb352c9a3dac840b8d2d63fc924820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_46
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 5086
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b36f034802077408063f5fe5af2384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_47
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 5086
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67afcc51870b9746a441f2c055766f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4565
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b001317cb9e2428f0f3fc6f9e5eb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4565
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1caf61eda68f242887e92a5664a29d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_50
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4565
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b020d254e4c813c41b39f291eb54965d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_51
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 4565
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503446dcb18c324d88d015fc52d1a74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_52
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 4565
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243ec308ccafe4d498f465efa737d805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_53
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4565
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efef8f03b683a654e9a6005be5d2eb76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_54
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 4565
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75279a01e0f1845ac1e95db6843376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_55
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 4565
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272437b84bd54ef4cb70398a03862411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4044
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ed4e18cb6b6594db78f5c7f76e99a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4044
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b29ddec11cb65e4aa3fa834b9ec9547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_58
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4044
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aade9247c9977449a9e9f500c676d3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_59
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 4044
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6673ef02e1fc14ba465b0209ef25da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_60
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 4044
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba2547ae0ce87243bb28d6f39c9c87d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_61
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4044
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da7d8f943cd8364fba1b3dcf6c5823c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_62
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 4044
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09837588e2b8ba34881f52c847ad06d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_63
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 4044
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636aede950f485d47a9944fb78c0eb85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3523
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e994d0a42caa5ee4cbac5b19c6bd45e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3523
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc723f48de7e114abbaeb95fd7eca3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_66
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3523
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c415fe38bcd7a14dbce1b9433f9a1ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_67
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3523
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c653b45502c7845a0491220ea65d7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_68
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 3523
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431e881584d1c74c80c84367d3fe595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3523
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02607551e7f32df4ea26c72a57b972be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_70
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3523
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5c198c73e5ea642ae8dc0aef542399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_71
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3523
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29049bc0a679ed84e89108669cbe9e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3002
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa32afd6038f34788fdd84e159a96a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_73
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3002
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1f8468a362ee8418eb3f44b9d72342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_74
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3002
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9074d54535bf20543aeb493896327db5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_75
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3002
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c5633042f5cfa428b9aee471ec6bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_76
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 3002
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf71fb919cf663b48be38d3cbe932805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_77
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3002
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19977bc609854c14a976fd7630828bcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_78
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3002
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4106b4abe8da84498511b56cf72ba29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_79
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3002
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f1d1bca31eda245bf0de80c57b9414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2481
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071a24e70cec094f9fc394aa3c32115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_81
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2481
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af96e3d06f6483448185a5cdf89e008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_82
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2481
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718a611e3647e4b4d95ab575e44a89af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_83
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2481
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f614a25d330c748469207e2724c1b807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_84
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2481
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d98edbadd88b042ae4fdbab4584c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_85
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2481
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3f718446f866047be03f1313cbeca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_86
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2481
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec19436f1b7a2c428d527c1813435ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_87
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2481
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f666827b33b54abcb0d3cb348731f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_88
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1960
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d294181833aecf408936324b703fc4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1960
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40e0789456883b4ea3c4dade67d15f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_90
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1960
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd8b23d04e94a1498aed0b02a01442e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_91
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1960
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8474a790576bb0419bd7497818ad59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_92
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1960
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bad41f9c70b4748834d8d044af9770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_93
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1960
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07afce36f3f653743899b251ca9767f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_94
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1960
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14fa9111e2acdc44b8ada51f9b090a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_95
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1960
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6a7e3cb6012b4b935cd75655fd0da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1439
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda7a2cb0d982c6418f825c7e0314674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_97
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1439
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2612d9a637f2ee478e0334636775a7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_98
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1439
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4475888e52c4ab4283b10de8d273f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_99
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1439
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9788a6e8b5446cc4a984291f1c1bc51d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_100
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1439
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f16b82262d41e43a8a4b59012476bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_101
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1439
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27247f385f8541b46ba06bdfd5b644a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_102
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1439
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e70c4fb430a29d46969cfc0084cc8fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_103
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1439
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cfd730787d2c54aa4ef237a63e6dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_104
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 918
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab347471c06effd43b13f4f76bafe950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 918
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b03b053165ae94bb07dfa273a8396e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 918
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44db3315835925941a01f7939cdf9dad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_107
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 918
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c32e0bfbcdb1e4b91d70ea15ba9e87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_108
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 918
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b6c01e35cb0584caccbf3d33f1e14d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_109
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 918
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3fd2a731c2c304ea26e69d47189bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_110
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 918
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19e5f97b44ebe4a83b74b9bb811e90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_111
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 918
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585146c768d875c40b867a74f2fc9860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_112
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 397
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e39f6becc30004db5ff761040ec18a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_113
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 397
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcf4a85bf132bd47abf06ba0697377b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_114
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 397
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032b720fa734ec04ba49a557e8793390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_115
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 397
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13436185a674f3043b16297d2f66cfb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_116
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 397
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071e51df044ba24f8384660c1dd00c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_117
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 397
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6d5df7565ce96458825395070ab86d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_118
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 397
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a693a92143a5841b34581b019da1de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right leg idel_119
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 397
+        width: 160
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50920b4e9ca93c14093f6b272145aa3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e587e7ec8643fe4fa46ea8257a06a92
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

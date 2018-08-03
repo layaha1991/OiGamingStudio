@@ -1,0 +1,2773 @@
+fileFormatVersion: 2
+guid: 2f7bba45c014e0b4783b38a3db6dc55c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chest hair Idle Animation_0
+    21300002: chest hair Idle Animation_1
+    21300004: chest hair Idle Animation_2
+    21300006: chest hair Idle Animation_3
+    21300008: chest hair Idle Animation_4
+    21300010: chest hair Idle Animation_5
+    21300012: chest hair Idle Animation_6
+    21300014: chest hair Idle Animation_7
+    21300016: chest hair Idle Animation_8
+    21300018: chest hair Idle Animation_9
+    21300020: chest hair Idle Animation_10
+    21300022: chest hair Idle Animation_11
+    21300024: chest hair Idle Animation_12
+    21300026: chest hair Idle Animation_13
+    21300028: chest hair Idle Animation_14
+    21300030: chest hair Idle Animation_15
+    21300032: chest hair Idle Animation_16
+    21300034: chest hair Idle Animation_17
+    21300036: chest hair Idle Animation_18
+    21300038: chest hair Idle Animation_19
+    21300040: chest hair Idle Animation_20
+    21300042: chest hair Idle Animation_21
+    21300044: chest hair Idle Animation_22
+    21300046: chest hair Idle Animation_23
+    21300048: chest hair Idle Animation_24
+    21300050: chest hair Idle Animation_25
+    21300052: chest hair Idle Animation_26
+    21300054: chest hair Idle Animation_27
+    21300056: chest hair Idle Animation_28
+    21300058: chest hair Idle Animation_29
+    21300060: chest hair Idle Animation_30
+    21300062: chest hair Idle Animation_31
+    21300064: chest hair Idle Animation_32
+    21300066: chest hair Idle Animation_33
+    21300068: chest hair Idle Animation_34
+    21300070: chest hair Idle Animation_35
+    21300072: chest hair Idle Animation_36
+    21300074: chest hair Idle Animation_37
+    21300076: chest hair Idle Animation_38
+    21300078: chest hair Idle Animation_39
+    21300080: chest hair Idle Animation_40
+    21300082: chest hair Idle Animation_41
+    21300084: chest hair Idle Animation_42
+    21300086: chest hair Idle Animation_43
+    21300088: chest hair Idle Animation_44
+    21300090: chest hair Idle Animation_45
+    21300092: chest hair Idle Animation_46
+    21300094: chest hair Idle Animation_47
+    21300096: chest hair Idle Animation_48
+    21300098: chest hair Idle Animation_49
+    21300100: chest hair Idle Animation_50
+    21300102: chest hair Idle Animation_51
+    21300104: chest hair Idle Animation_52
+    21300106: chest hair Idle Animation_53
+    21300108: chest hair Idle Animation_54
+    21300110: chest hair Idle Animation_55
+    21300112: chest hair Idle Animation_56
+    21300114: chest hair Idle Animation_57
+    21300116: chest hair Idle Animation_58
+    21300118: chest hair Idle Animation_59
+    21300120: chest hair Idle Animation_60
+    21300122: chest hair Idle Animation_61
+    21300124: chest hair Idle Animation_62
+    21300126: chest hair Idle Animation_63
+    21300128: chest hair Idle Animation_64
+    21300130: chest hair Idle Animation_65
+    21300132: chest hair Idle Animation_66
+    21300134: chest hair Idle Animation_67
+    21300136: chest hair Idle Animation_68
+    21300138: chest hair Idle Animation_69
+    21300140: chest hair Idle Animation_70
+    21300142: chest hair Idle Animation_71
+    21300144: chest hair Idle Animation_72
+    21300146: chest hair Idle Animation_73
+    21300148: chest hair Idle Animation_74
+    21300150: chest hair Idle Animation_75
+    21300152: chest hair Idle Animation_76
+    21300154: chest hair Idle Animation_77
+    21300156: chest hair Idle Animation_78
+    21300158: chest hair Idle Animation_79
+    21300160: chest hair Idle Animation_80
+    21300162: chest hair Idle Animation_81
+    21300164: chest hair Idle Animation_82
+    21300166: chest hair Idle Animation_83
+    21300168: chest hair Idle Animation_84
+    21300170: chest hair Idle Animation_85
+    21300172: chest hair Idle Animation_86
+    21300174: chest hair Idle Animation_87
+    21300176: chest hair Idle Animation_88
+    21300178: chest hair Idle Animation_89
+    21300180: chest hair Idle Animation_90
+    21300182: chest hair Idle Animation_91
+    21300184: chest hair Idle Animation_92
+    21300186: chest hair Idle Animation_93
+    21300188: chest hair Idle Animation_94
+    21300190: chest hair Idle Animation_95
+    21300192: chest hair Idle Animation_96
+    21300194: chest hair Idle Animation_97
+    21300196: chest hair Idle Animation_98
+    21300198: chest hair Idle Animation_99
+    21300200: chest hair Idle Animation_100
+    21300202: chest hair Idle Animation_101
+    21300204: chest hair Idle Animation_102
+    21300206: chest hair Idle Animation_103
+    21300208: chest hair Idle Animation_104
+    21300210: chest hair Idle Animation_105
+    21300212: chest hair Idle Animation_106
+    21300214: chest hair Idle Animation_107
+    21300216: chest hair Idle Animation_108
+    21300218: chest hair Idle Animation_109
+    21300220: chest hair Idle Animation_110
+    21300222: chest hair Idle Animation_111
+    21300224: chest hair Idle Animation_112
+    21300226: chest hair Idle Animation_113
+    21300228: chest hair Idle Animation_114
+    21300230: chest hair Idle Animation_115
+    21300232: chest hair Idle Animation_116
+    21300234: chest hair Idle Animation_117
+    21300236: chest hair Idle Animation_118
+    21300238: chest hair Idle Animation_119
+    21300240: chest hair Idle Animation_120
+    21300242: chest hair Idle_0
+    21300244: chest hair Idle_1
+    21300246: chest hair Idle_2
+    21300248: chest hair Idle_3
+    21300250: chest hair Idle_4
+    21300252: chest hair Idle_5
+    21300254: chest hair Idle_6
+    21300256: chest hair Idle_7
+    21300258: chest hair Idle_8
+    21300260: chest hair Idle_9
+    21300262: chest hair Idle_10
+    21300264: chest hair Idle_11
+    21300266: chest hair Idle_12
+    21300268: chest hair Idle_13
+    21300270: chest hair Idle_14
+    21300272: chest hair Idle_15
+    21300274: chest hair Idle_16
+    21300276: chest hair Idle_17
+    21300278: chest hair Idle_18
+    21300280: chest hair Idle_19
+    21300282: chest hair Idle_20
+    21300284: chest hair Idle_21
+    21300286: chest hair Idle_22
+    21300288: chest hair Idle_23
+    21300290: chest hair Idle_24
+    21300292: chest hair Idle_25
+    21300294: chest hair Idle_26
+    21300296: chest hair Idle_27
+    21300298: chest hair Idle_28
+    21300300: chest hair Idle_29
+    21300302: chest hair Idle_30
+    21300304: chest hair Idle_31
+    21300306: chest hair Idle_32
+    21300308: chest hair Idle_33
+    21300310: chest hair Idle_34
+    21300312: chest hair Idle_35
+    21300314: chest hair Idle_36
+    21300316: chest hair Idle_37
+    21300318: chest hair Idle_38
+    21300320: chest hair Idle_39
+    21300322: chest hair Idle_40
+    21300324: chest hair Idle_41
+    21300326: chest hair Idle_42
+    21300328: chest hair Idle_43
+    21300330: chest hair Idle_44
+    21300332: chest hair Idle_45
+    21300334: chest hair Idle_46
+    21300336: chest hair Idle_47
+    21300338: chest hair Idle_48
+    21300340: chest hair Idle_49
+    21300342: chest hair Idle_50
+    21300344: chest hair Idle_51
+    21300346: chest hair Idle_52
+    21300348: chest hair Idle_53
+    21300350: chest hair Idle_54
+    21300352: chest hair Idle_55
+    21300354: chest hair Idle_56
+    21300356: chest hair Idle_57
+    21300358: chest hair Idle_58
+    21300360: chest hair Idle_59
+    21300362: chest hair Idle_60
+    21300364: chest hair Idle_61
+    21300366: chest hair Idle_62
+    21300368: chest hair Idle_63
+    21300370: chest hair Idle_64
+    21300372: chest hair Idle_65
+    21300374: chest hair Idle_66
+    21300376: chest hair Idle_67
+    21300378: chest hair Idle_68
+    21300380: chest hair Idle_69
+    21300382: chest hair Idle_70
+    21300384: chest hair Idle_71
+    21300386: chest hair Idle_72
+    21300388: chest hair Idle_73
+    21300390: chest hair Idle_74
+    21300392: chest hair Idle_75
+    21300394: chest hair Idle_76
+    21300396: chest hair Idle_77
+    21300398: chest hair Idle_78
+    21300400: chest hair Idle_79
+    21300402: chest hair Idle_80
+    21300404: chest hair Idle_81
+    21300406: chest hair Idle_82
+    21300408: chest hair Idle_83
+    21300410: chest hair Idle_84
+    21300412: chest hair Idle_85
+    21300414: chest hair Idle_86
+    21300416: chest hair Idle_87
+    21300418: chest hair Idle_88
+    21300420: chest hair Idle_89
+    21300422: chest hair Idle_90
+    21300424: chest hair Idle_91
+    21300426: chest hair Idle_92
+    21300428: chest hair Idle_93
+    21300430: chest hair Idle_94
+    21300432: chest hair Idle_95
+    21300434: chest hair Idle_96
+    21300436: chest hair Idle_97
+    21300438: chest hair Idle_98
+    21300440: chest hair Idle_99
+    21300442: chest hair Idle_100
+    21300444: chest hair Idle_101
+    21300446: chest hair Idle_102
+    21300448: chest hair Idle_103
+    21300450: chest hair Idle_104
+    21300452: chest hair Idle_105
+    21300454: chest hair Idle_106
+    21300456: chest hair Idle_107
+    21300458: chest hair Idle_108
+    21300460: chest hair Idle_109
+    21300462: chest hair Idle_110
+    21300464: chest hair Idle_111
+    21300466: chest hair Idle_112
+    21300468: chest hair Idle_113
+    21300470: chest hair Idle_114
+    21300472: chest hair Idle_115
+    21300474: chest hair Idle_116
+    21300476: chest hair Idle_117
+    21300478: chest hair Idle_118
+    21300480: chest hair Idle_119
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chest hair Idle_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3905
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d062e757d113e54c828386e0331e3c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3905
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b065e3716e2ab5444ab7a54d65c114e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3905
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44232a90ceb5ce4d9bb9d25361ebcde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_3
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3905
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb0aa7f8167984c9b7147777b06b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3905
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf054eb3c8da414a9904a96569c702a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3905
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727ff1657d29ff64db5d880b69ab26fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3905
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68971b8488e6ed94d92f2e39f2e17a7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 3905
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a851e9607dc2ff24e94ffa71c86d058f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3694
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462e2e256ca0fd747823d132f24257c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3694
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3acd6fe481c55d49bbb0dd6768d4156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3694
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd5bc42fa137bb4a84d15822ddd1111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_11
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3694
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994bcd47f7c6054db52669f62b049cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3694
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c970aa2d4691d40a826ec95f621462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3694
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed898340a81694392d55c86aa391be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3694
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5530a001965f4c9ba56c813cfbb4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 3694
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6372955bb3562ba4ea71a7dc4dc90e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3483
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b05f0db8d7127a45ba32983d9eaf7b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3483
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd2237f6206c0d429350b8a76bf9d1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_18
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3483
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada698e7b4c6be4084ebb1a45a90382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_19
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3483
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1914c73ade15bec41b7a15efe705e39f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3483
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ee55b986b4214d8fcb269c1831ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3483
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4607e284666a6944a9908367c334a23a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3483
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e81710ddb9ebc445b96bc61dfbf9893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 3483
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc7c376411765e4ea33a7982701d71d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3272
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc6eefa1432fb74c92b57d8b92551e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3272
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575590836f1c58a40b83be49c590add6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3272
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dddece5afe712469ff21f46f8466af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_27
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3272
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6c42aa0d2445e48b2ea974883bae11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3272
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea2d79a85822344a839709141e11b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3272
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee761c78493b400438c52998cd434954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3272
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f56d15375a45944950148ba37e14bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 3272
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be079fb48e571d34eab1890e7e18fd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3061
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12614991c171b8041bf06937592d64d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3061
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6302233c7dfc92459f0b530d8e0495f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3061
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfa568be5a19ad469de4c0af6934e9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_35
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3061
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e038e5de7104bf4a96d2f6ba95131e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3061
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccac4e8f26613fe4a8e5dda6141b2866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_37
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3061
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465f975f667b6b4cb38d08754cb86bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3061
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c58a05d3598cc5499d537e188eca15e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 3061
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e959315ab0dd034b956e3ed852dcc64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2850
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8aaa8510e5e0c4b9b5fd163ba1e57b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2850
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd690c18f1217d40a80f291fa5c49fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_42
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2850
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a5190fa4187224ba166f9898c1c0f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_43
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2850
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49196fbb41b5dc448d28a02595cab83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_44
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2850
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ee66aba53addc46a6eb1ade2aae323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_45
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2850
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573bcfa3b94f319408ee59dd30ec46f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_46
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2850
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f494c291ee4cfda4ab21f3a6fc9a3ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_47
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2850
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c56aef59a4a7941812705fcc9d55e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2639
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f517f1c4b46f4eaf4b14ccce9cb1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_49
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2639
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e5d19bd0fb2ab4896b384a2314ea15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_50
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2639
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7a470cfdf4195468740318d61c6fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_51
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2639
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25abb5eaae976d34d9ca1757af2449bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_52
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2639
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c955868ea92c54fa863bfc742a3e9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_53
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2639
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126ede18fcf42f4fb4e184385f675fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_54
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2639
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bf6c72412dca046817246bc4c9dfac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_55
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2639
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609733371d4a7ad4e979281e454ea46f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2428
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810edafeab39b942bb86232bc872413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2428
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae79655cab7a0854ca3698a4a1840e39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2428
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aab9822a3a826468803d724a33fdf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_59
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2428
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39be7daa44149d44810789aed3f762b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_60
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2428
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6be482bf108d64bb4e71363d9352e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_61
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2428
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c39cc1cb2c614296920fd9a30ae32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_62
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2428
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472648e10d30a5f40b121037a70b4d6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_63
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2428
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c25e9cf74745f4cbbaa008b6ea400b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2217
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc8023422084b44b1fa4691adef336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_65
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2217
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1891b5a8a100c2e43b2b51572e27eb88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_66
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2217
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e568c9de8dd270a4a9dfd81f286fca17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_67
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2217
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0917ba0c39b232d4fa42ee34c78e1406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_68
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2217
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27a17ce2ac39246b84fac6ca500706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_69
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2217
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9d88dcabe2a954b969272b13da981e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_70
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2217
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb5cd49959030f4cb8a01f3e10a9ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_71
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2217
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e03d05aee244e0488371ec004277562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2006
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cdc86882dfe1c459e6574c7a2576b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_73
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2006
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a19fb791ea54047adc8c10b2c806a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_74
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2006
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1143654cd919eaa45ad98a994dd518fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_75
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2006
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e6cf09b0334d94f92bd07dc698853f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_76
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2006
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4752cfb96f01b848ba8fb186423851c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_77
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2006
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbcb39ed5f36d545aaa90c9c6c35734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_78
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2006
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d88876575b4594bbf287bac5f440d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_79
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2006
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb5facbd47b2943b9d26c0cc852d40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1795
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719848fd82d76a646897d56461b1924a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_81
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1795
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d5e50a6729766448ac050a31f36c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_82
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1795
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7bee9480e3b6f418c8d8b15a315173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_83
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1795
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7cb16f0a5b91c40b1cb059c3c77e03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_84
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1795
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1b0d12759f76c48bb3fe7e959f651d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_85
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1795
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658fc3665b35dd14289d5ecf230967e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_86
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1795
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7603e327dee0a4899a22bc5aab0d00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_87
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1795
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c4b744edc2ca74c88c51d3066071fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_88
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1584
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d3f686ad5891948949433292c21880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_89
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1584
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc7b1db2c3336b4797f6055caf85694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_90
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1584
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac678ec7c9b929429cb2b4c8174c432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_91
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1584
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d02380d69db3348ab2712f8cf81ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_92
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1584
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924e5faa537f764f95984d8f7ee7cc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_93
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1584
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f149681195484f86f8b439a9eadb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_94
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1584
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f128565184c0ae4c991f59b681571a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_95
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1584
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e14ed47ab48440a2585862f2dba7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1373
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680e703b347caf48b09010f40b97ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_97
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1373
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085aa4ec8e11d834da3a1f7aeef2bd89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_98
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1373
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1bd8ec307d77a478df60b4512e0c00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_99
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1373
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556a59b77fc85c0479074392c5cd5013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_100
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1373
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be689e654809b114485cac466cc88c3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_101
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1373
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9279be47441f4d14cb4bd92aa071ffd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_102
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1373
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358053f2f6b568446a86de95830674f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_103
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1373
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f29619d4bd166842bb014b5fbc70419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_104
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1162
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729344c3e3d141342a12114443a4068f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_105
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1162
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40d19c8fc621634fbd897781ba9fc7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_106
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1162
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1fe8184e2d44d4199bc7f3248b5294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_107
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1162
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94b7bca8177e31408d069dfa551fe9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_108
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1162
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ee0e29718da64d96475e7b4e9a45c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_109
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1162
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34ab1fb53b2f2d45883ab3d60441556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_110
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1162
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0f18ba66c152e42998c0e82b578dba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_111
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1162
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c600fb3d0180524285d6f71f5bf5618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_112
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 951
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397182425b13fb748a262100b14b7149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_113
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 951
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e994280f86bb34a992b62d2772ffb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_114
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 951
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8c131e1960c374387e0e4d5e49d950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_115
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 951
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ef0adda05ff7419ad182f338fca37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_116
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 951
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78a6f701e4206f4dae343ee9421e566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_117
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 951
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93bdb6ca0b86d04f9131809fec43062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_118
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 951
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48311c56e97d8e4ab48fb62204aea36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest hair Idle_119
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 951
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654d65dba4d2584199f76658748949d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0209ca01941fa074eb5a0c52c3be76f9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

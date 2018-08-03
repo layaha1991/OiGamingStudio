@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: 633add1e9abf3fc42af47a505a016aab
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: right arm idel_0
+    21300002: right arm idel_1
+    21300004: right arm idel_2
+    21300006: right arm idel_3
+    21300008: right arm idel_4
+    21300010: right arm idel_5
+    21300012: right arm idel_6
+    21300014: right arm idel_7
+    21300016: right arm idel_8
+    21300018: right arm idel_9
+    21300020: right arm idel_10
+    21300022: right arm idel_11
+    21300024: right arm idel_12
+    21300026: right arm idel_13
+    21300028: right arm idel_14
+    21300030: right arm idel_15
+    21300032: right arm idel_16
+    21300034: right arm idel_17
+    21300036: right arm idel_18
+    21300038: right arm idel_19
+    21300040: right arm idel_20
+    21300042: right arm idel_21
+    21300044: right arm idel_22
+    21300046: right arm idel_23
+    21300048: right arm idel_24
+    21300050: right arm idel_25
+    21300052: right arm idel_26
+    21300054: right arm idel_27
+    21300056: right arm idel_28
+    21300058: right arm idel_29
+    21300060: right arm idel_30
+    21300062: right arm idel_31
+    21300064: right arm idel_32
+    21300066: right arm idel_33
+    21300068: right arm idel_34
+    21300070: right arm idel_35
+    21300072: right arm idel_36
+    21300074: right arm idel_37
+    21300076: right arm idel_38
+    21300078: right arm idel_39
+    21300080: right arm idel_40
+    21300082: right arm idel_41
+    21300084: right arm idel_42
+    21300086: right arm idel_43
+    21300088: right arm idel_44
+    21300090: right arm idel_45
+    21300092: right arm idel_46
+    21300094: right arm idel_47
+    21300096: right arm idel_48
+    21300098: right arm idel_49
+    21300100: right arm idel_50
+    21300102: right arm idel_51
+    21300104: right arm idel_52
+    21300106: right arm idel_53
+    21300108: right arm idel_54
+    21300110: right arm idel_55
+    21300112: right arm idel_56
+    21300114: right arm idel_57
+    21300116: right arm idel_58
+    21300118: right arm idel_59
+    21300120: right arm idel_60
+    21300122: right arm idel_61
+    21300124: right arm idel_62
+    21300126: right arm idel_63
+    21300128: right arm idel_64
+    21300130: right arm idel_65
+    21300132: right arm idel_66
+    21300134: right arm idel_67
+    21300136: right arm idel_68
+    21300138: right arm idel_69
+    21300140: right arm idel_70
+    21300142: right arm idel_71
+    21300144: right arm idel_72
+    21300146: right arm idel_73
+    21300148: right arm idel_74
+    21300150: right arm idel_75
+    21300152: right arm idel_76
+    21300154: right arm idel_77
+    21300156: right arm idel_78
+    21300158: right arm idel_79
+    21300160: right arm idel_80
+    21300162: right arm idel_81
+    21300164: right arm idel_82
+    21300166: right arm idel_83
+    21300168: right arm idel_84
+    21300170: right arm idel_85
+    21300172: right arm idel_86
+    21300174: right arm idel_87
+    21300176: right arm idel_88
+    21300178: right arm idel_89
+    21300180: right arm idel_90
+    21300182: right arm idel_91
+    21300184: right arm idel_92
+    21300186: right arm idel_93
+    21300188: right arm idel_94
+    21300190: right arm idel_95
+    21300192: right arm idel_96
+    21300194: right arm idel_97
+    21300196: right arm idel_98
+    21300198: right arm idel_99
+    21300200: right arm idel_100
+    21300202: right arm idel_101
+    21300204: right arm idel_102
+    21300206: right arm idel_103
+    21300208: right arm idel_104
+    21300210: right arm idel_105
+    21300212: right arm idel_106
+    21300214: right arm idel_107
+    21300216: right arm idel_108
+    21300218: right arm idel_109
+    21300220: right arm idel_110
+    21300222: right arm idel_111
+    21300224: right arm idel_112
+    21300226: right arm idel_113
+    21300228: right arm idel_114
+    21300230: right arm idel_115
+    21300232: right arm idel_116
+    21300234: right arm idel_117
+    21300236: right arm idel_118
+    21300238: right arm idel_119
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right arm idel_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109bd9c8e8627d844a4714ba7d4febbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 7712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54edb6d660d475b48b6cbd546754b16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 7712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71677ddb728c204499b52025abb6b906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_3
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 7712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9d8f2893974f48baf44818dba8899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_4
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 7712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db928545de8c52f40aaa1c34894366b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_5
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 7712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51093b23fb457d44a8d6ff944694de6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_6
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 7712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c00f6f755a51144bcdf65097874cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_7
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 7712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abf333bb21ebb643a4b47b71e623001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84fea5a182c21e449af0089972e6ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 7212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2eee42e0fca4448aac82b0f1b8dec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 7212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707530933b197aa41847b867a1989481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_11
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 7212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c36759bbf9abb64f8d3c9c9ef81f051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_12
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 7212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b489a61bdff1782499ec1c64dd239e46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_13
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 7212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d73c96bd42fe6140aa24ff07e042432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_14
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 7212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba6889fa90f88489c7c03c4796e7be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_15
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 7212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5970cce8c8ea34eb8bfa205a9b5dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd07aaf5f374fd49845813f3069e4ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_17
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 6712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d336fa12026ff0049916599e5a152684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_18
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 6712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d1f7305b30224d890dec60b0aeda7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_19
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 6712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314aab6dabbe13d4aa0a260aab18ee85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_20
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 6712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3909b81de323ef4ca4579f622a67986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_21
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 6712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce66640d0ae6e1469a0c4fef77fcbcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_22
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 6712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b2c8fe2c8e0e4448115b8b71ea99a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_23
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 6712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1bcb0b1a9b5394b9e80790bfc64c62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17460bc51ac7c64bbbda5a47a860d8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_25
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 6212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7278f11e3c78648b8adce3812bb57d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_26
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 6212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb81278fe696740808d4afa6e760f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_27
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 6212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66b6717db8c1ac4399c8dd18f022637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_28
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 6212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bfdea875200f34eb1c2aa576ee5339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_29
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 6212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d041c16b56825f248b972cf0dd204dfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_30
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 6212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79377fc40f7155845bb855adf57d83f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_31
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 6212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90f3146a1b1fb3479513e90f2379d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff26a66b21d8748bb55c88d935b968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 5712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1ee95a13a94b44a7729bdfb7e1848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_34
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 5712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a9906b53c3d8428cd7fb61e94caea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_35
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 5712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a457888637174fafa7ae098987fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_36
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 5712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a8ec2bf316be46adf4f8e457516b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_37
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 5712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a93d27dd966a408ee68aa0aaacc84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_38
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 5712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1c27f7cb9f99946bbf347f2b538bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_39
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 5712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c3ed321c1803743b71420bfb28ab33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd084f110bb65a448e02baf87a9b1e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_41
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 5212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45837dff73422694d881fb1bd52219d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_42
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 5212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb585c7d92de841ab55b03f1bc75d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_43
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 5212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77584a6a4fe909c41b626e48f3cfab26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_44
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 5212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aa4f4a3398ac94d83c0c8c32d3876a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_45
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 5212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952378917766a284084454bcb4d60247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_46
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 5212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd87641f37fd57c4083ea5c9a0530c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_47
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 5212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdbecf2ded3be24b9c8190e6afdd5f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ddbbb2c7dd22f4d8c3da772e03987f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_49
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 4712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b161c8a79c6eb4c8c39297de6fd952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_50
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 4712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e25163636bdaf45bc537cd5a45ebf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_51
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 4712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e6c7236ae87454f9d08567d25064ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_52
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 4712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c65e81ba3d4f5547919f7acc7d1daad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_53
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 4712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a631b96c9b991a4193a27043275815f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_54
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 4712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00069f4cdd4c7fb45b11aed83979effe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_55
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 4712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2123ff19bb132b54684221d460d8d8f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf6181c24b7aa54e8383887437af6dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_57
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 4212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43b98d79576da1459c1b645a61a43d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_58
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 4212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc1de0e2ec7864d9a90673dde2f407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_59
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 4212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae6894a99af59448056a1b5adfe5fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_60
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 4212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a596694673f1784b8c2800e8315adef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_61
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 4212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31613a29103f78d4e9754bf5a7c14b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_62
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 4212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97252f93e9f1eec4e90288eaa9fdbbcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_63
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 4212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf3f54c7dca0504d93b92064f314ea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c72ee7b82cbf44e9696eb7141929e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_65
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819bc36a37da6bc4ea123d7b7c2a807b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_66
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 3712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9687e8d45b10946b426e658c7f82f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_67
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 3712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b29b3b7dd4e234fa83ade44d1a4a6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_68
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b055e37a02ca4c9578d94730d1139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_69
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 3712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1df46b1665e04db37a34b537fd3af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_70
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 3712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513834e0ab98d347ac4e6ad0561e949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_71
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 3712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b76d1a5b0db1d448b96d2c2e8f7c35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3e59cfad791b4c9f10f16717ab587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_73
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c52d3a761d37024a8cf214f5afe635c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_74
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 3212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b704e23d37fd43142b16870169c11aa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_75
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 3212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702caf1150fbfa4eb098cfeca37d44d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_76
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a47b07edf10a9b41af33ff4cfd8db78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_77
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 3212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c12ea60a4fc7e34f8627d27f7a93f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_78
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 3212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb790eb33552db44940d8060afdbb81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_79
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 3212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97f5b79f1d0b3640b4fafb4ba9503cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65822d453be8504e8a78101e6889198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_81
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca207d1d673ce846b449cd1878b2555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_82
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d581eadc20d20e44db73e8da28166583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_83
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75630d1624351be429edef33223c4abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_84
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeebfc5eccfd24544b4282490743d076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_85
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1a8865e647051409e7526050e5d7f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_86
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 2712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b0d4d7fef0b3f4f9b0d3ac7a5913fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_87
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 2712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fe60f2eb9fec44bb3e83ac4e51674e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_88
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b25b0f9d1801e742851bd0e4ae1fb5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_89
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91390a3166175b43a7948c3e6bc8f91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_90
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b170d0001e8b4390e1063f3f09af7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_91
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c81bb4af7f53d1489972fa49fc9c9c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_92
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c951e14d43c78df4a85a8c1fb5e7e474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_93
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7335db05fcee0b147ad6ef42c686a0d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_94
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 2212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68183ac7634a83e4e8c62c5663b859f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_95
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 2212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0dda910c94a2544a00af6ab962fd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_96
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b294e5bbff2424a906ab3874524f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_97
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad0337769be1a449b12ef5b0f94d9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_98
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b164ebba87d02ac41b508de20931c793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_99
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fed333685a22a43998c4ce6b9d41e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_100
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f872b3a9181ac4c9d38e4f9464c2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_101
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a280dd5fa367804798a41ba7d6f800a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_102
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d3d817ee0cefe4b926ec30c793a920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_103
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 1712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f08cc6dd64c5c418757143534edf87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_104
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101accdb04fcf945be98155dd2d5dc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_105
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c72beb5ecc9e44b574f54fb7d86d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_106
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a7b62bcba4ad44fab8c3f9cc0ecc08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_107
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d5964dfdfcca4cbcc0a568440da22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_108
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8239ec4c839cc74cbb974f1cf3b6174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_109
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7763d199532742646b72067443d87d39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_110
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6186d275ce71e408355acd5c17b0fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_111
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 1212
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b892647288db04c812c55ffa33bc14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_112
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634f8f960d5e01409f26de22c30ae57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_113
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2cd8853871c8e44916b735ac1366ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_114
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a54ad07aeffe541b16cc1ee7d044c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_115
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe639acc5dd4c96498de7960af518b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_116
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03221aec96252740bba627c001b854e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_117
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35407fbdba186c9489f0a355a905afb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_118
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efe0285a54cb1944a3d547e48669c7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arm idel_119
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 712
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c348684ec57c1794aba289f65dd36dae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11479b2d087548c4fb219cb0b9aaf6cf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
