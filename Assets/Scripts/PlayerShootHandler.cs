@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
 [ExecuteInEditMode]
 public class PlayerShootHandler : MonoBehaviour {
     [SerializeField]
@@ -44,7 +45,8 @@ public class PlayerShootHandler : MonoBehaviour {
     }
 
     IEnumerator SwingShootingLazerCoroutine() {
-        while (true) {
+        while (true) 
+        {
             switch (gunStates) {
                 case GunStates.Ready:
                     yield return new WaitForSeconds(readyTime);

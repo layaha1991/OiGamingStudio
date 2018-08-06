@@ -4,8 +4,12 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
+    private void Awake()
+    {
+       
+    }
+    // Use this for initialization
+    void Start () {
 		
 	}
 	
@@ -13,4 +17,12 @@ public class EnemyController : MonoBehaviour {
 	void Update () {
 		
 	}
+
+
+    private void DestroyEnemyAfterAnimation()
+    {
+        Destroy(this.gameObject);
+    }
+
+
 }
