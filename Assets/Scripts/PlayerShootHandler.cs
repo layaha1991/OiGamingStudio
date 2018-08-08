@@ -5,7 +5,7 @@ using UnityEngine;
 [ExecuteInEditMode]
 public class PlayerShootHandler : MonoBehaviour {
     [SerializeField]
-    private GunStates gunStates = GunStates.Ready;
+    private GunStates gunStates = GunStates.Stopped;
     private PlayerStatusManager playerStatusManager;
     public int maxAmmo;
     public int currentAmmo;
@@ -19,11 +19,9 @@ public class PlayerShootHandler : MonoBehaviour {
     public float rotateSpeed = 1;
     public Vector3 StoppedEulerangle;
     public Vector3 ReadyEulerangle;
-    private float readyTime = 1.5f;
-    private float stopTime = 1.5f;
-    private float resetTime =2f;
-
     public float shootSpeed = 10f;
+
+    TurnManager turnManager;
     private void Awake()
     {
         playerStatusManager = GetComponent<PlayerStatusManager>();
@@ -31,8 +29,14 @@ public class PlayerShootHandler : MonoBehaviour {
     }
     private void Start()
     {
+        turnManager = TurnManager.Instance;
+        turnManager.PlayerShoot.OnStart += OnPlayerShootHandler;
+    }
+
+    void OnPlayerShootHandler() {
         StartCoroutine(SwingShootingLazerCoroutine());
     }
+
     private void HandleTap(Vector2 tapPos) {
         if (gunStates == GunStates.Rotating) {
             if (currentAmmo>0) {
@@ -45,34 +49,23 @@ public class PlayerShootHandler : MonoBehaviour {
     }
 
     IEnumerator SwingShootingLazerCoroutine() {
-        while (true) 
+        gunStates = GunStates.Rotating;
+        Gun.rotation = Quaternion.Euler(ReadyEulerangle);
+        while (gunStates!=GunStates.Stopped) 
         {
             switch (gunStates) {
-                case GunStates.Ready:
-                    yield return new WaitForSeconds(readyTime);
-                    gunStates = GunStates.Rotating;
-                    break;
                 case GunStates.Rotating:
                     Gun.rotation = Quaternion.Slerp(Gun.rotation, Quaternion.Euler(StoppedEulerangle), Time.deltaTime * rotateSpeed);
                     if (Quaternion.Angle(Gun.rotation, Quaternion.Euler(StoppedEulerangle))<0.5f) {
                         gunStates = GunStates.Stopped;
                     }
                     break;
-                case GunStates.Stopped:
-                    yield return new WaitForSeconds(stopTime);
-                    gunStates = GunStates.Reseting;
-                    break;
-                case GunStates.Reseting:
-                    float elapsedTime = 0;
-                    while (elapsedTime < resetTime) {
-                        elapsedTime += Time.deltaTime;
-                        Gun.rotation = Quaternion.Slerp(Quaternion.Euler(StoppedEulerangle), Quaternion.Euler(ReadyEulerangle), elapsedTime / resetTime);
-                        yield return null;
-                    }
-                    gunStates = GunStates.Rotating;
-                    break;
             }
             yield return null;
+        }
+        if (turnManager.CurrentTurn == turnManager.PlayerShoot) 
+        {
+            turnManager.NextTurn();
         }
     }
 
@@ -82,5 +75,5 @@ public class PlayerShootHandler : MonoBehaviour {
         Gizmos.DrawLine(Gun.position, Gun.position + Gun.right*10f);
     }
 
-    public enum GunStates { Reseting,Rotating,Stopped,Ready }
+    public enum GunStates { Rotating,Stopped }
 }
