@@ -74,9 +74,9 @@
     <Compile Include="Assets\Scripts\PlayerShootHandler.cs" />
     <Compile Include="Assets\Scripts\PlayerStatusManager.cs" />
     <Compile Include="Assets\Scripts\PlayerStatusUIBehaviour.cs" />
-    <Compile Include="Assets\TurnManager.cs" />
-    <Compile Include="Assets\TurnManagerDebugUIBehaviour.cs" />
-    <Compile Include="Assets\TurnRemindingTextBehaviour.cs" />
+    <Compile Include="Assets\Scripts\TurnManager.cs" />
+    <Compile Include="Assets\Scripts\TurnManagerDebugUIBehaviour.cs" />
+    <Compile Include="Assets\Scripts\TurnRemindingTextBehaviour.cs" />
     <None Include="Assets\Fonts\Russo_One\OFL.txt" />
     <None Include="Assets\Fonts\Audiowide\OFL.txt" />
     <None Include="Assets\Fonts\Orbitron\OFL.txt" />
