@@ -30,7 +30,7 @@ public class PlayerShootHandler : MonoBehaviour {
     private void Start()
     {
         turnManager = TurnManager.Instance;
-        turnManager.PlayerShoot.OnStart += OnPlayerShootHandler;
+        //turnManager.PlayerShoot.OnStart += OnPlayerShootHandler;
     }
 
     void OnPlayerShootHandler() {

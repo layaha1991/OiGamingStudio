@@ -9,7 +9,7 @@ public class EnemyStatusManager : MonoBehaviour
     public float maxHealth = 100;
     public float currentHealth = 100;
     public float attackPower = 10;
-   
+
 
 
     //bool
@@ -21,8 +21,7 @@ public class EnemyStatusManager : MonoBehaviour
 
 
     //Animator
-    [SerializeField]
-    private Animator FluffyBlueAnimator;
+    private Animator enemyAnimator;
 
 
     private void Awake()
@@ -30,7 +29,11 @@ public class EnemyStatusManager : MonoBehaviour
         EnemyEventManager.OnDamage += OnHit;
     }
 
-    private void isEnemyDead()
+    private void Start()
+    {
+        enemyAnimator = gameObject.GetComponent<Animator>();
+    }
+    private void checkEnemyDead()
     {
         if (currentHealth <= 0 )
         {
@@ -40,15 +43,24 @@ public class EnemyStatusManager : MonoBehaviour
         {
             GameManager.instance._isEnemyDead = false;
         }
+
     }
 
     private void OnHit(float dmg)
     {
         currentHealth -= dmg;
-        isEnemyDead();
+        checkEnemyDead();
         if (GameManager.instance._isEnemyDead == true)
         {
-            FluffyBlueAnimator.Play("EnemyDead"); // destory object at the end of this Animation
+            if(enemyAnimator != null)
+            {
+                enemyAnimator.Play("EnemyDead");
+                GameManager.instance.level++;// destory object at the end of this Animation
+            } else 
+            {
+                return;
+            }
+             
         } else 
         {
             return;
@@ -57,6 +69,6 @@ public class EnemyStatusManager : MonoBehaviour
 
 
 
-   
+
 
 }

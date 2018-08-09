@@ -21,7 +21,8 @@ public class TurnManager : MonoBehaviour {
 
 
     public KeyCode DemoStartKey;
-    // Use this for initialization
+  
+
 
     private void Awake()
     {
@@ -75,6 +76,11 @@ public class TurnManager : MonoBehaviour {
             CurrentTurn = Overviewing;
             StartCoroutine(TurnHandlingCO());
         }
+           
+        if(Input.GetKeyDown (KeyCode.A))
+        {
+            
+        }
 	}
 
     IEnumerator TurnHandlingCO() {
@@ -106,7 +112,8 @@ public class TurnManager : MonoBehaviour {
 }
 
 
-public enum TurnType {
+public enum TurnType 
+{
     Default,Overviewing,PlayerReady,PlayerShoot,PlayerBulletTracing, EnemyReady,EnemyReceiveDamage, EnemyShoot,EnemyBulletTracing,PlayerPerry
 }
 
@@ -134,3 +141,5 @@ public class Turn {
 }
 
 public delegate void VoidEvent();
+
+

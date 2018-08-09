@@ -25,8 +25,8 @@ GameObject:
   - component: {fileID: 114560572514876554}
   - component: {fileID: 114267775229856390}
   m_Layer: 0
-  m_Name: Enemy
-  m_TagString: Untagged
+  m_Name: Enemy_normal
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -211,9 +211,6 @@ MonoBehaviour:
   maxHealth: 100
   currentHealth: 100
   attackPower: 10
-  _enemyIsDead: 0
-  Enemy: {fileID: 1003965639792572}
-  FluffyBlueAnimator: {fileID: 95565543417166494}
 --- !u!114 &114578370638530692
 MonoBehaviour:
   m_ObjectHideFlags: 1

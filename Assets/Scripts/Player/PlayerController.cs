@@ -15,7 +15,8 @@ public class PlayerController : MonoBehaviour {
 	}
 
     void HandleInput() {
-        if (Input.GetKeyDown(pcTapKey)) {
+        if (Input.GetKeyDown(pcTapKey)) 
+        {
             playerEventManager.CallOnTap(new Vector2(0,0));
         }
     }
