@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{C6CF58AA-A61B-C002-DAFA-4A62E00E701B}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy/EnemyStatusManager.cs">
     <Files>
-      <File FileName="Assets/Scripts/EnemyController.cs" Line="24" Column="9" />
-      <File FileName="Assets/Scripts/EnemyStatusManager.cs" Line="53" Column="13" />
-      <File FileName="Assets/Scripts/EnemyDamageReceiver.cs" Line="26" Column="41" />
-      <File FileName="Assets/Scripts/EnemyStatusUIBehaviour.cs" Line="11" Column="40" />
-      <File FileName="Assets/Scripts/Bullet.cs" Line="13" Column="31" />
-      <File FileName="Assets/Scripts/GameManager.cs" Line="26" Column="13" />
-      <File FileName="Assets/Scripts/EnemyEventManager.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="32" Column="32" />
+      <File FileName="Assets/Scripts/GeneralUI.cs" Line="14" Column="9" />
+      <File FileName="Assets/Scripts/UX/fireScript.cs" Line="8" Column="31" />
+      <File FileName="Assets/Scripts/Object/shield.cs" Line="17" Column="42" />
+      <File FileName="Assets/Scripts/Object/Bullet.cs" Line="11" Column="33" />
+      <File FileName="Assets/Scripts/Enemy/EnemyDamageReceiver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyStatusUIBehaviour.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyEventManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyStatusManager.cs" Line="58" Column="46" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
