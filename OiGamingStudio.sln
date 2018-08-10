@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OiGamingStudio", "Assembly-CSharp.csproj", "{C6CF58AA-A61B-C002-DAFA-4A62E00E701B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OiGamingStudio", "Assembly-CSharp-Editor.csproj", "{DAEA0C78-3742-B5BB-4B9A-73C5E4472524}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{C6CF58AA-A61B-C002-DAFA-4A62E00E701B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6CF58AA-A61B-C002-DAFA-4A62E00E701B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6CF58AA-A61B-C002-DAFA-4A62E00E701B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAEA0C78-3742-B5BB-4B9A-73C5E4472524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEA0C78-3742-B5BB-4B9A-73C5E4472524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEA0C78-3742-B5BB-4B9A-73C5E4472524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEA0C78-3742-B5BB-4B9A-73C5E4472524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

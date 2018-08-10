@@ -21,8 +21,8 @@ public class TurnManager : MonoBehaviour {
 
     public KeyCode DemoStartTestKey;
     public KeyCode DemoNextTurnKey;
-  
 
+    public bool _isEnemyReady;
 
     private void Awake()
     {
@@ -65,13 +65,29 @@ public class TurnManager : MonoBehaviour {
         if (CurrentTurn != null)
         {
             CurrentTurn = CurrentTurn.nextTurn;
+            CheckEnemyReady();
+            GameObject.FindGameObjectWithTag("Enemy").GetComponent<EnemyEventManager>().CallOnEnemyTurn(_isEnemyReady);
+
         }
         else {
             Debug.LogWarning("Trying to call NextTurn() when there is no Current Turn yet.");
         }
     }
-	// Update is called once per frame
-	void Update () {
+
+    private void CheckEnemyReady()
+    {
+        if (CurrentTurn == EnemyShoot)
+        {
+            _isEnemyReady = true;
+        }
+        else
+        {
+            _isEnemyReady = false;
+        }
+    }
+
+    // Update is called once per frame
+    void Update () {
         if (Input.GetKeyDown(DemoStartTestKey)) {
             CurrentTurn = Overviewing;
         }

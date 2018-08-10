@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour 
+public class GameManager : MonoBehaviour
 {
     // float
     public float timeToSpawnEnemy = 3f;
@@ -25,10 +25,10 @@ public class GameManager : MonoBehaviour
     public bool _isEnemyDead;
     public bool spawnOnceCount;
     //Event
-    public delegate void Event (bool isEnemyDead);
+    public delegate void Event(bool isEnemyDead);
     public static event Event OnEnemyDead;
 
-    public delegate void levelUpHandler();
+    public delegate void levelUpHandler(int level);
     public static event levelUpHandler OnLevelUp;
 
 
@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        
+
         OnEnemyDead += SpawnNewEnemy;
 
 
@@ -47,25 +47,26 @@ public class GameManager : MonoBehaviour
         {
             instance = this;
         }
-     
+
         else if (instance != this)
         {
             Destroy(gameObject);
         }
-       
+
     }
 
     private void Start()
     {
-        //enemy = new GameObject[3];
+
         level = 1;
     }
+
     private void Update()
     {
         OnEnemyDead(_isEnemyDead);
     }
 
-
+    #region Event
     public void CallOnEnemyDead(bool isEnemyDead)
     {
         if (OnEnemyDead != null)
@@ -74,17 +75,18 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public static void CallOnLevelUp()
+    public void CallOnLevelUp(int level)
     {
         if (OnLevelUp != null)
         {
-            OnLevelUp();
+            OnLevelUp(level);
         }
     }
+    #endregion
 
 
 
-
+    #region Enemy Spawing
     private void SpawnNewEnemy(bool isEnemyDead)
 
     {
@@ -94,12 +96,12 @@ public class GameManager : MonoBehaviour
             spawnOnceCount = true;
         }
     }
-  
+
 
     private IEnumerator SpawnEnemyRoutine()
     {
         yield return new WaitForSeconds(timeToSpawnEnemy);
-        OnSpawn(enemy[level-1]);
+        OnSpawn(enemy[level - 1]);
         _isEnemyDead = false;
         spawnOnceCount = false;
         StopCoroutine(SpawnEnemyRoutine());
@@ -111,6 +113,19 @@ public class GameManager : MonoBehaviour
     }
 
 
+    #endregion
+
+    #region Enemy Attack
+
+    private void FindEnemy()
+    {
+        if(GameObject.FindGameObjectWithTag("Enemy")!=null)
+        {
+            
+         
+        }
+    }
+#endregion
     /**public void GetEnemyStatusManager()
     {
         EnemyStatusManager enemyStatusManager = new EnemyStatusManager();

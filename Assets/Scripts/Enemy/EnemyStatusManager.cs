@@ -55,7 +55,8 @@ public class EnemyStatusManager : MonoBehaviour
             if(enemyAnimator != null)
             {
                 enemyAnimator.Play("EnemyDead");
-                GameManager.instance.level++;// destory object at the end of this Animation
+                GameManager.instance.level++;
+                GameManager.instance.CallOnLevelUp(GameManager.instance.level); // destory object at the end of this Animation
             } else 
             {
                 return;

@@ -14,14 +14,14 @@ public class GeneralUI : MonoBehaviour {
         GameManager.OnLevelUp += CallOnLevelUp;
     }
 
-    private void CallOnLevelUp()
+    private void CallOnLevelUp(int level)
     {
-        LevelTextFunction();
+        LevelTextFunction(level);
     }
 
-    private void LevelTextFunction()
+    private void LevelTextFunction(int level)
     {
-        _levelText.text = "Level: 1- " + GameManager.instance.level;
+        _levelText.text = "Level: " + level;
     }
 
 	

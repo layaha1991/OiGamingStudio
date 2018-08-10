@@ -21,7 +21,7 @@ public class PlayerAnimationHandler : MonoBehaviour {
     }
 
     void ClearEvents() {
-        turnManager.PlayerShoot.OnStart += RiseArmAndAim;
+        turnManager.PlayerShoot.OnStart -= RiseArmAndAim;
     }
     private void OnDestroy()
     {
