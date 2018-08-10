@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 1703deb4c004d7241801548eded68c4f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rise arm aimming left hand0000
+    21300002: rise arm aimming left hand0001
+    21300004: rise arm aimming left hand0002
+    21300006: rise arm aimming left hand0003
+    21300008: rise arm aimming left hand0004
+    21300010: rise arm aimming left hand0005
+    21300012: rise arm aimming left hand0006
+    21300014: rise arm aimming left hand0007
+    21300016: rise arm aimming left hand0008
+    21300018: rise arm aimming left hand0009
+    21300020: rise arm aimming left hand0010
+    21300022: rise arm aimming left hand0011
+    21300024: rise arm aimming left hand0012
+    21300026: rise arm aimming left hand0013
+    21300028: rise arm aimming left hand0014
+    21300030: rise arm aimming left hand0015
+    21300032: rise arm aimming left hand0016
+    21300034: rise arm aimming left hand0017
+    21300036: rise arm aimming left hand0018
+    21300038: rise arm aimming left hand0019
+    21300040: rise arm aimming left hand0020
+    21300042: rise arm aimming left hand0021
+    21300044: rise arm aimming left hand0022
+    21300046: rise arm aimming left hand0023
+    21300048: rise arm aimming left hand0024
+    21300050: rise arm aimming left hand0025
+    21300052: rise arm aimming left hand0026
+    21300054: rise arm aimming left hand0027
+    21300056: rise arm aimming left hand0028
+    21300058: rise arm aimming left hand0029
+    21300060: rise arm aimming left hand0030
+    21300062: rise arm aimming left hand0031
+    21300064: rise arm aimming left hand0032
+    21300066: rise arm aimming left hand0033
+    21300068: rise arm aimming left hand0034
+    21300070: rise arm aimming left hand0035
+    21300072: rise arm aimming left hand0036
+    21300074: rise arm aimming left hand0037
+    21300076: rise arm aimming left hand0038
+    21300078: rise arm aimming left hand0039
+    21300080: rise arm aimming left hand0040
+    21300082: rise arm aimming left hand0041
+    21300084: rise arm aimming left hand0042
+    21300086: rise arm aimming left hand0043
+    21300088: rise arm aimming left hand0044
+    21300090: rise arm aimming left hand0045
+    21300092: rise arm aimming left hand0046
+    21300094: rise arm aimming left hand0047
+    21300096: rise arm aimming left hand0048
+    21300098: rise arm aimming left hand0049
+    21300100: rise arm aimming left hand0050
+    21300102: rise arm aimming left hand0051
+    21300104: rise arm aimming left hand0052
+    21300106: rise arm aimming left hand0053
+    21300108: rise arm aimming left hand0054
+    21300110: rise arm aimming left hand0055
+    21300112: rise arm aimming left hand0056
+    21300114: rise arm aimming left hand0057
+    21300116: rise arm aimming left hand0058
+    21300118: rise arm aimming left hand0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rise arm aimming left hand0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1805
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48527def2fca094408c2a9ca6875dcf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0001
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1805
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d1dcacf3c4b9b40afa1b559c586d67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0002
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1805
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a3e6dec8324bb47a1d09ff0da19fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0003
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1805
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecea260edf529644ac7943d08640898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0004
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1805
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeb348d150094441b3bd311a09d1904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0005
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1805
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6964fe8adab993546ac389e2612a60ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0006
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1805
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8910475d66eea4c9c1a633862e0e50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0007
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1582
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3685421a7381c84478c0beec410d3bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0008
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1582
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e834e45d1a73f4e99c7027408857e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0009
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1582
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ff045d9f9dc724f895ac826de64c37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0010
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1582
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c15b3dbf98e2ab44b4f27d539787723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0011
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1582
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d85a319e2c27b45930bb1bd7dace28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0012
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1582
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da621ef383362834099354015635c65e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0013
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1582
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2daa2139c6f92f4f964d156229905a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0014
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1359
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4781bdb3e763f449b2120b3808b7b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0015
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1359
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3c458b89d658144b77b7f004c829a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0016
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1359
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce2c2f500abe6d4086b73bec8581def
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0017
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1359
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b6f67b64b3b64bbb4659d42d6c20a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0018
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1359
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2867e975a85304389430a3fb53f729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0019
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1359
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046fd3bfba1ddbd4788dca6f0421b97a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0020
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1359
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2b37eefc621b409fa42efdde09dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0021
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1136
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493849604664adb4ca3d1028d56076a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0022
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1136
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f42a329a977f924ba62880e304142ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0023
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1136
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5ad7b236c2a344b95281e5225b717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0024
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1136
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e515d1d68e9d8ff41a794bc02c6b2b85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0025
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1136
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e17e52d25ab34f80ad947324092d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0026
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1136
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41fa169ef821ab438ee077feccc17a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0027
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1136
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e283daaae725b74a85714eca51a5ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0028
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 913
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8a02ff9aca388478899ed5a7b11d24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0029
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 913
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493771d8001ad5d41902eabefe1c3809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0030
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 913
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd20f6b11d0238a46a2de1ab042990fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0031
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 913
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9b9411983e6d64994b38fff9b27cb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0032
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 913
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e747944b9843a9143983da641f939f8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0033
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 913
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8c38697377b7545a8489aea512932c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0034
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 913
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cf3d22bc97c1d4db327588f8d36023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0035
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 690
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2a6fc698b59904ba3034fa8e8dbe74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0036
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 690
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71bfffbb71e37c4890d35d1de6e9831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0037
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 690
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf776c1c1d2ca394b8287eac431a1fa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0038
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 690
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80731d2e43196941b59cfdddbf4aa0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0039
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 690
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a87eafa75bd240419b95839f73591d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0040
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 690
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036d1035e47e63a42bccd0da276e7c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0041
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 690
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8300f02d7c5036345a1a66977167ad6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0042
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 467
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c0823926da40d44a8a5755c685d278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0043
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 467
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba69231ee43b764385f3750fe6f34a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0044
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 467
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71c374d3463dea46be4d3cd33c68dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0045
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 467
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd41cde2e441b042af93fe3e8334337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0046
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 467
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab28f131dce4c3349ade56fcfa5f2aca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0047
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 467
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a611f4921ef8f4ab9753904342284e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0048
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 467
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca592b5fcf9687e42a70a71c9c37eaf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0049
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 244
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79119c4ce841f2541b91ad52a80299c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0050
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 244
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fc0d6b17d9f25488e0be42bc239c0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0051
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 244
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1abee8f05b289043b8a292cc725fd02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0052
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 244
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0173b02b0037574a898ee5433ae8112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0053
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 244
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c21598de022e5e42a18f2d360104141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0054
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 244
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ed1046b1dac54286b767d5f119a42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0055
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 244
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fef4f13d618cab41986726ff14ccc84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0056
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489b078eff78a394cac9bd47aa6e3555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0057
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 21
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a537fedf5e7fb4a92b6a2e452b8601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0058
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 21
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a44f2eb7bcaa4b92bde5de3126a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming left hand0059
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 21
+        width: 261
+        height: 223
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a36f485a13e4f469f5471d6c613d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 17bb949f3253d734aa2a8178011f372b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

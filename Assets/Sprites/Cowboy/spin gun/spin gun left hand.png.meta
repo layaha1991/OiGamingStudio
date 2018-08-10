@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 33ac72f063448ef40aef510e70427e53
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spin gun left hand0000
+    21300002: spin gun left hand0001
+    21300004: spin gun left hand0002
+    21300006: spin gun left hand0003
+    21300008: spin gun left hand0004
+    21300010: spin gun left hand0005
+    21300012: spin gun left hand0006
+    21300014: spin gun left hand0007
+    21300016: spin gun left hand0008
+    21300018: spin gun left hand0009
+    21300020: spin gun left hand0010
+    21300022: spin gun left hand0011
+    21300024: spin gun left hand0012
+    21300026: spin gun left hand0013
+    21300028: spin gun left hand0014
+    21300030: spin gun left hand0015
+    21300032: spin gun left hand0016
+    21300034: spin gun left hand0017
+    21300036: spin gun left hand0018
+    21300038: spin gun left hand0019
+    21300040: spin gun left hand0020
+    21300042: spin gun left hand0021
+    21300044: spin gun left hand0022
+    21300046: spin gun left hand0023
+    21300048: spin gun left hand0024
+    21300050: spin gun left hand0025
+    21300052: spin gun left hand0026
+    21300054: spin gun left hand0027
+    21300056: spin gun left hand0028
+    21300058: spin gun left hand0029
+    21300060: spin gun left hand0030
+    21300062: spin gun left hand0031
+    21300064: spin gun left hand0032
+    21300066: spin gun left hand0033
+    21300068: spin gun left hand0034
+    21300070: spin gun left hand0035
+    21300072: spin gun left hand0036
+    21300074: spin gun left hand0037
+    21300076: spin gun left hand0038
+    21300078: spin gun left hand0039
+    21300080: spin gun left hand0040
+    21300082: spin gun left hand0041
+    21300084: spin gun left hand0042
+    21300086: spin gun left hand0043
+    21300088: spin gun left hand0044
+    21300090: spin gun left hand0045
+    21300092: spin gun left hand0046
+    21300094: spin gun left hand0047
+    21300096: spin gun left hand0048
+    21300098: spin gun left hand0049
+    21300100: spin gun left hand0050
+    21300102: spin gun left hand0051
+    21300104: spin gun left hand0052
+    21300106: spin gun left hand0053
+    21300108: spin gun left hand0054
+    21300110: spin gun left hand0055
+    21300112: spin gun left hand0056
+    21300114: spin gun left hand0057
+    21300116: spin gun left hand0058
+    21300118: spin gun left hand0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spin gun left hand0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3748
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b2d359d0d3db409b03c451d01b861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0001
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3748
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27285172d99afbf4abd8bf5f3683e658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0002
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3748
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001e55b0c78c01e489800e76c48bf3be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0003
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3748
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecc29cd418850c42ba7eb74f3baf7b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0004
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3748
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd70cc67b4f81408095b7a3ed43053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0005
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 3748
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd8fdfd8c51eb544ad5454ddd491941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0006
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3420
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077af53052bbe8c41abfb865cb59ddd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0007
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3420
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b3b8ef11b22f4da925b037c6275fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0008
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3420
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310e64bbdc90eac48a03c41b5eed4949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0009
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3420
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e4fa1bae81a9848920a451d0c9ea0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0010
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3420
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa79faa52e27e0478aad8aca99465ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0011
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 3420
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d983f7efd60424c8a82bd95c2ca056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0012
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3092
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa423252c7deab4a937cc326dd4a758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0013
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3092
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14379a21c5de5d44a01c0c8ce78ea7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0014
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3092
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f253b6e08f5eef4891a21aa664bfb61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0015
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3092
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae75252a00bc844283f02f4470fd9db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0016
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3092
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca87b078893b2a0429acbcd95854f57c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0017
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 3092
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd488861f1f1d4a80011f4f50e5643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0018
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2764
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6df4766cd8c1c499998d9fa9d45f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0019
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2764
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e277a2fb4c181e6408ff4fd3e6418b42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0020
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2764
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673ed3a8cd887834786cd43ef5b1b422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0021
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2764
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3bfb8a67c020a40ba28a50d08ff081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0022
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2764
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a86d116ac15847b020e9fe86ae7c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0023
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2764
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a5c281524ef724eb339d1016ac32ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0024
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2436
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb2203359afee240833c8ada6855634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0025
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2436
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3bf7797de02824cb8eebf1e1ca29d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0026
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2436
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9fe899f8c7b542a13df0992254272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0027
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2436
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb12ee4127d296240840f465e72d6b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0028
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2436
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e9f3ed85fbb924f8f1c925618f7983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0029
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2436
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f11c36750b54478ec4e634b5a1e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0030
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2108
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe964a822abf19d499be793625b653a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0031
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2108
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcc03f43737e854e8adaf64f3fdae7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0032
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2108
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed30f38f5ec9d284381df2fbeb6db7ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0033
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2108
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe88dd46894f2f241837251e2c3d6f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0034
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2108
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f644be36a180740afcfab0bb60d108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0035
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2108
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98b130f60d0d5741a7ff7b607702a2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0036
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1780
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6edd566adf738240b1f2ab9e277cb58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0037
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1780
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b372189cbafa2fb4d87560e15ce59c94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0038
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1780
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c1e55bec4b9244a6d8ea295319be6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0039
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1780
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4a8e446f714b044bdaf6bbc066bf54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0040
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1780
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c52c5f282da4c34b9c651877704f9c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0041
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1780
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bc0a006de29f41bc7005cf1ed8ab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0042
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1452
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e65911fe2848d4ba641b2dae636f90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0043
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1452
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc30848fdf8d244788e7b6b52559aed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0044
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1452
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b2b72c12212714191254015b58d718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0045
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1452
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17c908d03a21a041a0d89f7ef1191ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0046
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1452
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e4dee2e10995945b03500388a9d8f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0047
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1452
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362801993ea7e5e41822c1dca1dbc43a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0048
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1124
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db09abf2a6af0484badf36c138496d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0049
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1124
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266c11c5020839d4592be4bfe3342291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0050
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1124
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1bbc76720b07e4aa656afcf69a7d43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0051
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1124
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c64572b1ea08ce418901d9acb147ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0052
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1124
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74ed07cb2e4ab46a027c7c7236dad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0053
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1124
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23b02caab748b741afc10beb658c873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0054
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 796
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5b6e643753c354988c7060efbb0257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0055
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 796
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e09d57d8a4d346b242422e1ba7c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0056
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 796
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57c1c212a22b124b8f3d233db7bac7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0057
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 796
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e822e6390b82dbf429563bfc73c21391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0058
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 796
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a0aacd3ed3c994ba8fccdf9c77b09e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun left hand0059
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 796
+        width: 315
+        height: 328
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852e12a2bef9c7e489a1207aac2a7100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a273ccf64ec7699409c970222ea15a1f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: ee865cf7d14a3c74fbbdb1c4cc3cd9e1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rise arm aimming head0000
+    21300002: rise arm aimming head0001
+    21300004: rise arm aimming head0002
+    21300006: rise arm aimming head0003
+    21300008: rise arm aimming head0004
+    21300010: rise arm aimming head0005
+    21300012: rise arm aimming head0006
+    21300014: rise arm aimming head0007
+    21300016: rise arm aimming head0008
+    21300018: rise arm aimming head0009
+    21300020: rise arm aimming head0010
+    21300022: rise arm aimming head0011
+    21300024: rise arm aimming head0012
+    21300026: rise arm aimming head0013
+    21300028: rise arm aimming head0014
+    21300030: rise arm aimming head0015
+    21300032: rise arm aimming head0016
+    21300034: rise arm aimming head0017
+    21300036: rise arm aimming head0018
+    21300038: rise arm aimming head0019
+    21300040: rise arm aimming head0020
+    21300042: rise arm aimming head0021
+    21300044: rise arm aimming head0022
+    21300046: rise arm aimming head0023
+    21300048: rise arm aimming head0024
+    21300050: rise arm aimming head0025
+    21300052: rise arm aimming head0026
+    21300054: rise arm aimming head0027
+    21300056: rise arm aimming head0028
+    21300058: rise arm aimming head0029
+    21300060: rise arm aimming head0030
+    21300062: rise arm aimming head0031
+    21300064: rise arm aimming head0032
+    21300066: rise arm aimming head0033
+    21300068: rise arm aimming head0034
+    21300070: rise arm aimming head0035
+    21300072: rise arm aimming head0036
+    21300074: rise arm aimming head0037
+    21300076: rise arm aimming head0038
+    21300078: rise arm aimming head0039
+    21300080: rise arm aimming head0040
+    21300082: rise arm aimming head0041
+    21300084: rise arm aimming head0042
+    21300086: rise arm aimming head0043
+    21300088: rise arm aimming head0044
+    21300090: rise arm aimming head0045
+    21300092: rise arm aimming head0046
+    21300094: rise arm aimming head0047
+    21300096: rise arm aimming head0048
+    21300098: rise arm aimming head0049
+    21300100: rise arm aimming head0050
+    21300102: rise arm aimming head0051
+    21300104: rise arm aimming head0052
+    21300106: rise arm aimming head0053
+    21300108: rise arm aimming head0054
+    21300110: rise arm aimming head0055
+    21300112: rise arm aimming head0056
+    21300114: rise arm aimming head0057
+    21300116: rise arm aimming head0058
+    21300118: rise arm aimming head0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rise arm aimming head0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7613
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33018beb92244784191bb5443aa0f299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0001
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 7613
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff615d8c392c464a92c9e2f81e06730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0002
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 7613
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cefc9e26f63ec419b92737fc3a4c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0003
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 7613
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615d1445bc25fc8409eac6222b762c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0004
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 7613
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d4e5354ba44d346a1f9aa889b8dc3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0005
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 7613
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bffa9fa7572e464b909b9832fc41c87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0006
+      rect:
+        serializedVersion: 2
+        x: 5378
+        y: 7613
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763be36a92c638e458302cdc1fdf8698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0007
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 7613
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd5075fcbd681b4081e37d8eae0201d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0008
+      rect:
+        serializedVersion: 2
+        x: 7164
+        y: 7613
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1f8f6d56ccc2e4baeac7ec949dec0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0009
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7054
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff36de4ac7c27348904352e955bb7c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0010
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 7054
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0748e5737426fbb4ead7940cfc7ca649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0011
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 7054
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0266981a03b67f545a5a13d67a603b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0012
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 7054
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20c0286d30e07439ed9e8a8195f0ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0013
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 7054
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2356aa5dbbdc7584ea130cdcad999df2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0014
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 7054
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac380b45dac0ef4e8d6cd2ed86e2a25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0015
+      rect:
+        serializedVersion: 2
+        x: 5378
+        y: 7054
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3572eae4a9d3694da3791eb4ce607d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0016
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 7054
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3c06594e236c8448c663876c5af473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0017
+      rect:
+        serializedVersion: 2
+        x: 7164
+        y: 7054
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9891e7a97f643488d9f9cd891f4e0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0018
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6495
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c16e7cd9b68c74995f63a43d7e33ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0019
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 6495
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815c7a50d7802814aae4e1e1d1d7fe02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0020
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 6495
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f4a36496d1d0142b219b46cb8e33e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0021
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 6495
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833e3fb459f406e438745e303ad5daab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0022
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 6495
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423e28076ad6e0e45845546e4d9db6a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0023
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 6495
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397a28c501bc4dc49b6f1afa3d408e20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0024
+      rect:
+        serializedVersion: 2
+        x: 5378
+        y: 6495
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3420697fb944d74d94ecca2ae28bc86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0025
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 6495
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cb36cb40bb740418bf7a760cda32b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0026
+      rect:
+        serializedVersion: 2
+        x: 7164
+        y: 6495
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df45986f5359442a9e3fea234d2fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0027
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5936
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8607e115fb56e341873c41d6c6835cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0028
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 5936
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8000621bbcbb16142b34aa63eee65a89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0029
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 5936
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe53164dac42184a9a1f010720eaab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0030
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 5936
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9769e465bf84af64c81e5287e34109f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0031
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 5936
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d4d6096e887c746ae4cf25748be10e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0032
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 5936
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69af9602190e7bb4d8e2147d3c81720d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0033
+      rect:
+        serializedVersion: 2
+        x: 5378
+        y: 5936
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0111e80eddeb367498832772458dc912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0034
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 5936
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a227e7c3820a1cc479d68e7f1e72256d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0035
+      rect:
+        serializedVersion: 2
+        x: 7164
+        y: 5936
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8121de932656408060904ff7220d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0036
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5377
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d76d8d8293154c4b9ee11802926a131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0037
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 5377
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca79b1f72bc94cf45833c6d539a52480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0038
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 5377
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7482bc13128e874f9030d507e4405f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0039
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 5377
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b1d2f67c0df5a4e886fc67ebd0e781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0040
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 5377
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3458e4e9c9031149b20d5f92685b534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0041
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 5377
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6901b23f4b7d2e4d8079d2aba26d0b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0042
+      rect:
+        serializedVersion: 2
+        x: 5378
+        y: 5377
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ceb4d59f6b124d890e3c62e676d33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0043
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 5377
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e32ae98c14a3a74a9388db55ce0806a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0044
+      rect:
+        serializedVersion: 2
+        x: 7164
+        y: 5377
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7e42a056a09cd4c89074eb7ff431f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0045
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4818
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88c28d5afae8544cb1ed1fb25c82916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0046
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 4818
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78042c9c7a1a32e44b0bad87dc085d40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0047
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 4818
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb45598fe997e4f987f78986201162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0048
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 4818
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99504cfb30a829b40aae19e4aadfe43e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0049
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 4818
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbc9326d74fc7c418da030a55d978a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0050
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 4818
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f135fa6a42e0624e972f44fc2394992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0051
+      rect:
+        serializedVersion: 2
+        x: 5378
+        y: 4818
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7424140320efb6d459438191a382f7a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0052
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 4818
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f2823f0033b5f42bc8e495af7bf3d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0053
+      rect:
+        serializedVersion: 2
+        x: 7164
+        y: 4818
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17168520c9ae3c444b426b9cfc629924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0054
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4259
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2ed58965c14884aa879669822f3037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0055
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 4259
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfbddc2b67779e428dd26b630f53921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0056
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 4259
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d045318eb787b449171b4317bd7d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0057
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 4259
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b8521274c41f4099a7765c9285ce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0058
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 4259
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b3ad5b11b1cb540b91d4f6e00c6822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming head0059
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 4259
+        width: 893
+        height: 559
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c085fa36aaa50b844814b0dc233e8c37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: edb50822e3d1b7f40806ee1f35d52893
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

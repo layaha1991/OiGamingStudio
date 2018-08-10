@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 536a204db162b75488b234497cd1fb33
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rise arm aimming crouch and legs0000
+    21300002: rise arm aimming crouch and legs0001
+    21300004: rise arm aimming crouch and legs0002
+    21300006: rise arm aimming crouch and legs0003
+    21300008: rise arm aimming crouch and legs0004
+    21300010: rise arm aimming crouch and legs0005
+    21300012: rise arm aimming crouch and legs0006
+    21300014: rise arm aimming crouch and legs0007
+    21300016: rise arm aimming crouch and legs0008
+    21300018: rise arm aimming crouch and legs0009
+    21300020: rise arm aimming crouch and legs0010
+    21300022: rise arm aimming crouch and legs0011
+    21300024: rise arm aimming crouch and legs0012
+    21300026: rise arm aimming crouch and legs0013
+    21300028: rise arm aimming crouch and legs0014
+    21300030: rise arm aimming crouch and legs0015
+    21300032: rise arm aimming crouch and legs0016
+    21300034: rise arm aimming crouch and legs0017
+    21300036: rise arm aimming crouch and legs0018
+    21300038: rise arm aimming crouch and legs0019
+    21300040: rise arm aimming crouch and legs0020
+    21300042: rise arm aimming crouch and legs0021
+    21300044: rise arm aimming crouch and legs0022
+    21300046: rise arm aimming crouch and legs0023
+    21300048: rise arm aimming crouch and legs0024
+    21300050: rise arm aimming crouch and legs0025
+    21300052: rise arm aimming crouch and legs0026
+    21300054: rise arm aimming crouch and legs0027
+    21300056: rise arm aimming crouch and legs0028
+    21300058: rise arm aimming crouch and legs0029
+    21300060: rise arm aimming crouch and legs0030
+    21300062: rise arm aimming crouch and legs0031
+    21300064: rise arm aimming crouch and legs0032
+    21300066: rise arm aimming crouch and legs0033
+    21300068: rise arm aimming crouch and legs0034
+    21300070: rise arm aimming crouch and legs0035
+    21300072: rise arm aimming crouch and legs0036
+    21300074: rise arm aimming crouch and legs0037
+    21300076: rise arm aimming crouch and legs0038
+    21300078: rise arm aimming crouch and legs0039
+    21300080: rise arm aimming crouch and legs0040
+    21300082: rise arm aimming crouch and legs0041
+    21300084: rise arm aimming crouch and legs0042
+    21300086: rise arm aimming crouch and legs0043
+    21300088: rise arm aimming crouch and legs0044
+    21300090: rise arm aimming crouch and legs0045
+    21300092: rise arm aimming crouch and legs0046
+    21300094: rise arm aimming crouch and legs0047
+    21300096: rise arm aimming crouch and legs0048
+    21300098: rise arm aimming crouch and legs0049
+    21300100: rise arm aimming crouch and legs0050
+    21300102: rise arm aimming crouch and legs0051
+    21300104: rise arm aimming crouch and legs0052
+    21300106: rise arm aimming crouch and legs0053
+    21300108: rise arm aimming crouch and legs0054
+    21300110: rise arm aimming crouch and legs0055
+    21300112: rise arm aimming crouch and legs0056
+    21300114: rise arm aimming crouch and legs0057
+    21300116: rise arm aimming crouch and legs0058
+    21300118: rise arm aimming crouch and legs0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7620
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e81b470623adfd498ae60e12c1ef1d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0001
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 7620
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016eb3911da1790409541cc15d6826c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0002
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 7620
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ae4adbe46ae604ba5e122737df0f0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0003
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 7620
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f2eb7f82f363c4da0b1ee18c16abab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0004
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 7620
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b642f5642fb8f754c863dc820f48820f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0005
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 7620
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e741167953c5040a2b4bed37ea6512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0006
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7068
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50121b53fabd2da40b1e95b3cf2369fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0007
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 7068
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549bbf2ed5448e74d96c298021008f5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0008
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 7068
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc28100e391c34bac37319a1640125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0009
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 7068
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d30cfa8ef7ae478b9cf346c261d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0010
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 7068
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bfbe3316cca7c4283d543fed9d2a81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0011
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 7068
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5aa1c723bea6040b62bf31866ae926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0012
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6516
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2590c0deef1c44899a7f5c9308fa7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0013
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 6516
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d72fe05a15a3b43b72ab311c235404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0014
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 6516
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c49571c10d5d84591b8a0d89a034e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0015
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 6516
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42fe95f281414d4d89dec690cdfe127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0016
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 6516
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faccde54a5af40d4397fd6ae7fafac8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0017
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 6516
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c331e218c62d4fb96708a0844b990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0018
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5964
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78671a3ce4841a43b0b6a09440dfbad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0019
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 5964
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dc995bc2798b945b73366181418ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0020
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 5964
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac97f3eef0ba2ef4fa96d4b5fdc97153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0021
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 5964
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aeae67c7e7d3544a3b4eecc87ea8bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0022
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 5964
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89167eecb7685c4cb8b1e354d11e1c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0023
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 5964
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375dc3957ef646f4fba1f4bb5a5bc549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0024
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5412
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651bbcb29776f70488f215bf3a4cd902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0025
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 5412
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a27defe6da01c479b86c319a595e6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0026
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 5412
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbb4840b705ba14cb6052cee899e855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0027
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 5412
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b4ec22cc5bfd84d90f834d59ae60ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0028
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 5412
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b649d1c678cd14cbf8a43e996f194a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0029
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 5412
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309076cc7d864e04a96c8b8fed2e5fe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0030
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4860
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caeb1410093d3b4eb770eb5540fcdf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0031
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 4860
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13deb7d4ba410946a6f227cb71046a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0032
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 4860
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab336c85efec9e94691214b6d0e49dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0033
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 4860
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f92035198465343ae6687a3ada2bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0034
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 4860
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de9612de6d10984a97a991b41dc3524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0035
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 4860
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac88d63d4d6254e40ba829d985c7e7d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0036
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4308
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a821d019306e2c448ed44a0a7ad82a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0037
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 4308
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a62122035181748823c4ee2d0dba63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0038
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 4308
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87967fe7fb83b4f4e855fe4ee2f33232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0039
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 4308
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cabbee26eadb0c4fbc517e6f3b8e2bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0040
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 4308
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec30b53dcb143724daed68079ad4bf49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0041
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 4308
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7027e8aadbe30c4f91d83739f9e5ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0042
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3756
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab28d4e610b54f408e39c3085e25823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0043
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3756
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1326d96054d27418a09faa03abe532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0044
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3756
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4c7898f20fe0d4f85eb737fed76ef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0045
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 3756
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40669420215f664ca5696acc79ee801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0046
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3756
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ee8f994f946d94c8eba6275a733ce4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0047
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 3756
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028f8456848f1e74db8d3d83c8c05b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0048
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3204
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a455de646b9642ae29e959769abd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0049
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3204
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79bb7ab2170cb7498ac154e274674c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0050
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3204
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ba59a30696f2c4dbcb61acd7fc764a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0051
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 3204
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ce3a465cb05b7468f44a40f0674f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0052
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3204
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27579f33f8ca13840a6a2b5b549c0291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0053
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 3204
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1508ea0a1d6c24d9d7871b0661bced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0054
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2652
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ab824fea2972642996350dc0219ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0055
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2652
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796a5668acbd3214e9835a1ee5d5124e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0056
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2652
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6571cda4872e1c54ca536bcaa0596e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0057
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 2652
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a81623f903a3744b937dfb1b4d109a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0058
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2652
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699fac05f0bbf024c82f1da3ffd29f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rise arm aimming crouch and legs0059
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 2652
+        width: 589
+        height: 552
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4545d137371fbdc49b17c55e177c375a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 92c827e3beb9fdd46964c052b5c08518
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,6 +10,7 @@ public class TurnRemindingTextBehaviour : MonoBehaviour {
 	void Start () {
         turnManager = TurnManager.Instance;
         anim = GetComponent<Animator>();
+        SetupEvents();
 	}
 
     void SetupEvents() {

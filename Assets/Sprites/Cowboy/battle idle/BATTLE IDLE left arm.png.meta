@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 2770ba7a59d53664fbbaaaa32442db29
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BATTLE IDLE left arm0000
+    21300002: BATTLE IDLE left arm0001
+    21300004: BATTLE IDLE left arm0002
+    21300006: BATTLE IDLE left arm0003
+    21300008: BATTLE IDLE left arm0004
+    21300010: BATTLE IDLE left arm0005
+    21300012: BATTLE IDLE left arm0006
+    21300014: BATTLE IDLE left arm0007
+    21300016: BATTLE IDLE left arm0008
+    21300018: BATTLE IDLE left arm0009
+    21300020: BATTLE IDLE left arm0010
+    21300022: BATTLE IDLE left arm0011
+    21300024: BATTLE IDLE left arm0012
+    21300026: BATTLE IDLE left arm0013
+    21300028: BATTLE IDLE left arm0014
+    21300030: BATTLE IDLE left arm0015
+    21300032: BATTLE IDLE left arm0016
+    21300034: BATTLE IDLE left arm0017
+    21300036: BATTLE IDLE left arm0018
+    21300038: BATTLE IDLE left arm0019
+    21300040: BATTLE IDLE left arm0020
+    21300042: BATTLE IDLE left arm0021
+    21300044: BATTLE IDLE left arm0022
+    21300046: BATTLE IDLE left arm0023
+    21300048: BATTLE IDLE left arm0024
+    21300050: BATTLE IDLE left arm0025
+    21300052: BATTLE IDLE left arm0026
+    21300054: BATTLE IDLE left arm0027
+    21300056: BATTLE IDLE left arm0028
+    21300058: BATTLE IDLE left arm0029
+    21300060: BATTLE IDLE left arm0030
+    21300062: BATTLE IDLE left arm0031
+    21300064: BATTLE IDLE left arm0032
+    21300066: BATTLE IDLE left arm0033
+    21300068: BATTLE IDLE left arm0034
+    21300070: BATTLE IDLE left arm0035
+    21300072: BATTLE IDLE left arm0036
+    21300074: BATTLE IDLE left arm0037
+    21300076: BATTLE IDLE left arm0038
+    21300078: BATTLE IDLE left arm0039
+    21300080: BATTLE IDLE left arm0040
+    21300082: BATTLE IDLE left arm0041
+    21300084: BATTLE IDLE left arm0042
+    21300086: BATTLE IDLE left arm0043
+    21300088: BATTLE IDLE left arm0044
+    21300090: BATTLE IDLE left arm0045
+    21300092: BATTLE IDLE left arm0046
+    21300094: BATTLE IDLE left arm0047
+    21300096: BATTLE IDLE left arm0048
+    21300098: BATTLE IDLE left arm0049
+    21300100: BATTLE IDLE left arm0050
+    21300102: BATTLE IDLE left arm0051
+    21300104: BATTLE IDLE left arm0052
+    21300106: BATTLE IDLE left arm0053
+    21300108: BATTLE IDLE left arm0054
+    21300110: BATTLE IDLE left arm0055
+    21300112: BATTLE IDLE left arm0056
+    21300114: BATTLE IDLE left arm0057
+    21300116: BATTLE IDLE left arm0058
+    21300118: BATTLE IDLE left arm0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3840
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b2173f8b635c84ea2e2b0561b09d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0001
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3840
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d0f5a802e93334c9d969d20e10a215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0002
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3840
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b65e55e6c0bf34c872c6efc38b0bf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0003
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3840
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b212a7b705991d946990248ab2b57141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0004
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3840
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de95e48ffe70ca648b27786cb0e1d827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0005
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3840
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcb50151d7ad5540b99519900464f06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0006
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3604
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e526f8ca7eeea34b9e21649537ff6bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0007
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3604
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d263487f7defbc9428ee2d57a9049816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0008
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3604
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef7fa5a7ef0c0e4da8cd2e3d00f934c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0009
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3604
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed9c23d844deba41ae8b04199fb2b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0010
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3604
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a659b89abf1537468649dadb963dbdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0011
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3604
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8f8996356da6e42a0e1b592f6200f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0012
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3368
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6da1fa60706f8c4685ff057c51a8172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0013
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3368
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0f26a96e29daf4eb5cd155b8e85424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0014
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3368
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e574a843fbb5c94a9ae87ba66de13d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0015
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3368
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2f7c66488c134082ca0859cf19923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0016
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3368
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207a8ce1127897045a1653d467add332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0017
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3368
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0232395399492a44be1f9efe4b36b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0018
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3132
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c12427a4c5b084d8ff59595eed4a6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0019
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3132
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfd40ac37a392141a4cfa0c25db7b7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0020
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3132
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26d82e1f77634a449f8c9504a505ff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0021
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3132
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b7b3dfd5acfaf4ea85d8d1c912cf0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0022
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3132
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a88cc5e745bf64d810dee846f096a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0023
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3132
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7c6845712b286478cd33c85866ed36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0024
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2896
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6122a272b172582429fca4705b3711dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0025
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2896
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb341f9fcf9f2741a05147012c689d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0026
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2896
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00da993b4b69e5341a94c285695b0675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0027
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2896
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c93d95fed29a5f49bb8fd9f47c8eaef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0028
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2896
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04ef0dccda137b4b9c031411acf00ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0029
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2896
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b2ba59ac591640a33fa6f50ff0138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0030
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2660
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e02ba032f8c144b8114603c33243a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0031
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2660
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaa1c2faf2742341a52b2325216ccc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0032
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2660
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7752bd6217e09fa449a5924071f8ef6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0033
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2660
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1865044d85327f549ac808169ee55417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0034
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2660
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6154e2e58178349b6d0f765edda942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0035
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2660
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab54785ab095f444ae246c9b48813af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0036
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2424
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310a460a0aee28c41a0d99aef191da48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0037
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2424
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ed20456ab87df448efbedf77fcfe5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0038
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2424
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc271bd8ccad094daf43bfe1f82d878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0039
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2424
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b169ecb0f55b4696c3d419e2be16f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0040
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2424
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de3dd84d185ac64b9b35c893efc871f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0041
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2424
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1186d2014296979489639034efaaf29e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0042
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2188
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b21ae443f40b34bbb13b223a6f48cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0043
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2188
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eee6082fd2a2341a9ee1b8db8414da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0044
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2188
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bfb34dd923501449aa1c2818232085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0045
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2188
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a8a743655855345936cbe2d17ef4df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0046
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2188
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6132378a206b184bad222f3506253da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0047
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2188
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e7bb5309a49084380a4966fe394f3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0048
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1952
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c3ac5160198f549996649edd00bb3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0049
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1952
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469b6f3c4a96c4b41a00458fa0d067c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0050
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1952
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6954d99a3ca3d174f9f1b02c6710b64b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0051
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1952
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8673ea033daedb46873638b2eb5d8c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0052
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1952
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8130043008fa8c049a667f38865f1997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0053
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1952
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed221106b9e77ec44a4cbcc5fae083dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0054
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1716
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df4ad30fd9c95442b2975bd6153e916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0055
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1716
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6758e11525e014fb823929363e05eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0056
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1716
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0c874d6f06e0c44902a393f5e765d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0057
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1716
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fbb5af71a7e1840be3b9afad6f0813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0058
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1716
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38efc85d558b4964ead650158244c955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left arm0059
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1716
+        width: 292
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d5f9727fce7154e9fa5878d7ac4ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c80ac04d9f24ac647880b90896da7f86
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

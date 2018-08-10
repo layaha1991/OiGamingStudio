@@ -13,9 +13,12 @@ public class TurnManagerDebugUIBehaviour : MonoBehaviour
 	}
 	
 	void Update () {
-
-
-        debugText.text = turnManager.CurrentTurn.ToString();
-
+        if (turnManager.CurrentTurn != null)
+        {
+            debugText.text = "Current Turn : " + turnManager.CurrentTurn.type.ToString();
+        }
+        else {
+            debugText.text = "Unknown Current Turn";
+        }
     }
 }

@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 43145ea230bcb9b429b6be8580b06e2c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spin gun crouch and legs0000
+    21300002: spin gun crouch and legs0001
+    21300004: spin gun crouch and legs0002
+    21300006: spin gun crouch and legs0003
+    21300008: spin gun crouch and legs0004
+    21300010: spin gun crouch and legs0005
+    21300012: spin gun crouch and legs0006
+    21300014: spin gun crouch and legs0007
+    21300016: spin gun crouch and legs0008
+    21300018: spin gun crouch and legs0009
+    21300020: spin gun crouch and legs0010
+    21300022: spin gun crouch and legs0011
+    21300024: spin gun crouch and legs0012
+    21300026: spin gun crouch and legs0013
+    21300028: spin gun crouch and legs0014
+    21300030: spin gun crouch and legs0015
+    21300032: spin gun crouch and legs0016
+    21300034: spin gun crouch and legs0017
+    21300036: spin gun crouch and legs0018
+    21300038: spin gun crouch and legs0019
+    21300040: spin gun crouch and legs0020
+    21300042: spin gun crouch and legs0021
+    21300044: spin gun crouch and legs0022
+    21300046: spin gun crouch and legs0023
+    21300048: spin gun crouch and legs0024
+    21300050: spin gun crouch and legs0025
+    21300052: spin gun crouch and legs0026
+    21300054: spin gun crouch and legs0027
+    21300056: spin gun crouch and legs0028
+    21300058: spin gun crouch and legs0029
+    21300060: spin gun crouch and legs0030
+    21300062: spin gun crouch and legs0031
+    21300064: spin gun crouch and legs0032
+    21300066: spin gun crouch and legs0033
+    21300068: spin gun crouch and legs0034
+    21300070: spin gun crouch and legs0035
+    21300072: spin gun crouch and legs0036
+    21300074: spin gun crouch and legs0037
+    21300076: spin gun crouch and legs0038
+    21300078: spin gun crouch and legs0039
+    21300080: spin gun crouch and legs0040
+    21300082: spin gun crouch and legs0041
+    21300084: spin gun crouch and legs0042
+    21300086: spin gun crouch and legs0043
+    21300088: spin gun crouch and legs0044
+    21300090: spin gun crouch and legs0045
+    21300092: spin gun crouch and legs0046
+    21300094: spin gun crouch and legs0047
+    21300096: spin gun crouch and legs0048
+    21300098: spin gun crouch and legs0049
+    21300100: spin gun crouch and legs0050
+    21300102: spin gun crouch and legs0051
+    21300104: spin gun crouch and legs0052
+    21300106: spin gun crouch and legs0053
+    21300108: spin gun crouch and legs0054
+    21300110: spin gun crouch and legs0055
+    21300112: spin gun crouch and legs0056
+    21300114: spin gun crouch and legs0057
+    21300116: spin gun crouch and legs0058
+    21300118: spin gun crouch and legs0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spin gun crouch and legs0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7615
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f42b10a53831c24b8b53f95cb132cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0001
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 7615
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b055396bfb3d754882deca524f271df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0002
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 7615
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31d9ce71cefe49418722f03f6dd0dba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0003
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 7615
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93218c8594d3d1a42b33c97a4bfb4c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0004
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 7615
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3445ac6bc0aa68e4d9dc50bad91aea80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0005
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 7615
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0387c93e4c24843a525bc7df7ab87b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0006
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7058
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806cd32d1e828914dbc879748cadd711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0007
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 7058
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b3be568c2adf2488290f934ebdae5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0008
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 7058
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac90fba0670958941b27ebb48412edec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0009
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 7058
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d1e72168c457d4fb7ebd87b2dbdfc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0010
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 7058
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09fca24697e71141af9e65feca1064f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0011
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 7058
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4425d64625d206f4482f4a737cf674ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0012
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6501
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631d1f5104a25ab4088be1ed742fd7d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0013
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 6501
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f870ec86cf9afba48875a3783c05554f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0014
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 6501
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36cbdcb6657fcb40b6ec3b8ec2ba23a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0015
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 6501
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444b20b1487d9d24498dbdf84458f863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0016
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 6501
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8434544316c359b4a8877ce41dff5073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0017
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 6501
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc8801ca30db174eb3aad68abcba094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0018
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5944
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84afb87bb3490734293dc80b3eb8fe8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0019
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 5944
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f39224ab0f634a46ba51d44ccace034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0020
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 5944
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17ce1cf82f67fa40888e375ac942fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0021
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 5944
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2cebf6ec4ca884f89929fbc5418e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0022
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 5944
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf791f0218d2d5488d57e7fdfaafd27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0023
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 5944
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4aef847b454764d9e88e4d3821751f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0024
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5387
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bb6873e3f4058489f7abcf6df53b76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0025
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 5387
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e319bd72b6afab044addc5d1ee9d095d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0026
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 5387
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9a4c47b50f70b4cbdddf13cd7d2c62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0027
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 5387
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19444ff807a62fe45bbfa5e84fa4e7c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0028
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 5387
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d9acc122f2efc419ab9c4928a58b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0029
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 5387
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da7034ad8f075f43b02792cceed4f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0030
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4830
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2f9022eae07944d8d3ae1806c89472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0031
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 4830
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6fed645078a1a4a9b1996d9d399efb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0032
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 4830
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70bd98847a464344a68ec97381d3ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0033
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 4830
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d77f8607a9d5af4bb68c77436298dc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0034
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 4830
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ce32a02ff068b47a5ff9785982fe82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0035
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 4830
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfaf449bb20cfb499959739f507d4ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0036
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4273
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9828e112835c904fb43ba1a34098182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0037
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 4273
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d95e436184a714c8466aeadde18a07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0038
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 4273
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e2efcc54910ce4ba83b639d956f80e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0039
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 4273
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac256ca8ae7a3644aa1839c20d4abeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0040
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 4273
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa4cb97b708d83468cf84b1760cd671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0041
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 4273
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14e651e51e96934bb78162a3823f4ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0042
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3716
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11947414555e88c4dbde37f058f91923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0043
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3716
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fdc447989d0bb45b6d7dc606e8f492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0044
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3716
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd6381b7a21a4147902ffffcc1fac79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0045
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 3716
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a249a5cdd928a42b9ac6f31965a5d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0046
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3716
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ad023abad717c4fb656ebc795b291f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0047
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 3716
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffa3bce3b6fd7544a507f697458c507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0048
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3159
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4a277f15fd08f48937ddcb363c184e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0049
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3159
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333adca086a8e14cb959ee34c4a8f1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0050
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3159
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba83b1a07fe3dc459527d608fce24c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0051
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 3159
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640b3e92d2f1a0f4784f636c146010f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0052
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3159
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca58b2c72131e1e4f8a81d5aef1fe0a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0053
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 3159
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3748e5602d15249bd0f4993d900a92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0054
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2602
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4f34ecd5d7c4241a9433f74d1ba310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0055
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2602
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db46efd5018b8294cb57a8d987d7230d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0056
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2602
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3221b176b312e4c8ad1493b4252687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0057
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 2602
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e53893fd60d614fab131c1973ba3b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0058
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2602
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d9c1165645ddf4bbadef937847238b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun crouch and legs0059
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 2602
+        width: 589
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481dde5191ad8bf4596df1245652b94a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fe03d9c57b242874c886e3c51ca26034
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

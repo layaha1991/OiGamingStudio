@@ -12,15 +12,15 @@ public class TurnManager : MonoBehaviour {
     public Turn Overviewing;
     public Turn PlayerReady;
     public Turn PlayerShoot;
-    public Turn PlayerBulletTracing;
+    public Turn PlayerBulletTracking;
     public Turn EnemyReceiveDamage;
     public Turn EnemyReady;
     public Turn EnemyShoot;
-    public Turn EnemyBulletTracing;
+    public Turn EnemyBulletTracking;
     public Turn PlayerPerry;
 
-
-    public KeyCode DemoStartKey;
+    public KeyCode DemoStartTestKey;
+    public KeyCode DemoNextTurnKey;
   
 
 
@@ -33,31 +33,32 @@ public class TurnManager : MonoBehaviour {
         else {
             Instance = this;
         }
+        InitTurns();
     }
 
     void Start () {
-
+        CurrentTurn = Overviewing;
 	}
 
     void InitTurns(){
         Overviewing = new Turn(TurnType.Overviewing);
         PlayerReady = new Turn(TurnType.PlayerReady);
         PlayerShoot = new Turn(TurnType.PlayerShoot);
-        PlayerBulletTracing = new Turn(TurnType.PlayerBulletTracing);
+        PlayerBulletTracking = new Turn(TurnType.PlayerBulletTracing);
         EnemyReceiveDamage = new Turn(TurnType.EnemyReceiveDamage);
         EnemyReady = new Turn(TurnType.EnemyReady);
         EnemyShoot = new Turn(TurnType.EnemyShoot);
-        EnemyBulletTracing = new Turn(TurnType.EnemyBulletTracing);
+        EnemyBulletTracking = new Turn(TurnType.EnemyBulletTracing);
         PlayerPerry = new Turn(TurnType.PlayerPerry);
 
         Overviewing.nextTurn = PlayerReady;
         PlayerReady.nextTurn = PlayerShoot;
-        PlayerShoot.nextTurn = PlayerBulletTracing;
-        PlayerBulletTracing.nextTurn = EnemyReceiveDamage;
+        PlayerShoot.nextTurn = PlayerBulletTracking;
+        PlayerBulletTracking.nextTurn = EnemyReceiveDamage;
         EnemyReceiveDamage.nextTurn = EnemyReady;
         EnemyReady.nextTurn = EnemyShoot;
-        EnemyShoot.nextTurn = EnemyBulletTracing;
-        EnemyBulletTracing.nextTurn = PlayerPerry;
+        EnemyShoot.nextTurn = EnemyBulletTracking;
+        EnemyBulletTracking.nextTurn = PlayerPerry;
         PlayerPerry.nextTurn = PlayerReady;
     }
     public void NextTurn() {
@@ -71,27 +72,15 @@ public class TurnManager : MonoBehaviour {
     }
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetKeyDown(DemoStartKey)) {
-            StopCoroutine(TurnHandlingCO());
+        if (Input.GetKeyDown(DemoStartTestKey)) {
             CurrentTurn = Overviewing;
-            StartCoroutine(TurnHandlingCO());
         }
            
-        if(Input.GetKeyDown (KeyCode.A))
+        if(Input.GetKeyDown (DemoNextTurnKey))
         {
-            
+            NextTurn();
         }
-	}
-
-    IEnumerator TurnHandlingCO() {
-        while (true) {
-            HandleTurnEvents();
-            yield return null;
-        }
-    }
-
-    void UpdateTurnState() {
-
+        HandleTurnEvents();
     }
 
     void HandleTurnEvents() {

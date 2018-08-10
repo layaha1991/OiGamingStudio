@@ -22,6 +22,8 @@ public class PlayerShootHandler : MonoBehaviour {
     public float shootSpeed = 10f;
 
     TurnManager turnManager;
+
+    public bool ableToShoot = false;
     private void Awake()
     {
         playerStatusManager = GetComponent<PlayerStatusManager>();
@@ -30,15 +32,23 @@ public class PlayerShootHandler : MonoBehaviour {
     private void Start()
     {
         turnManager = TurnManager.Instance;
-        //turnManager.PlayerShoot.OnStart += OnPlayerShootHandler;
+        turnManager.PlayerShoot.OnStart += OnPlayerShootStartHandler;
+        turnManager.PlayerShoot.OnFinish += OnPlayerShootFinishHandler;
     }
 
-    void OnPlayerShootHandler() {
+    void OnPlayerShootStartHandler() {
+        ableToShoot = true;
+        StopCoroutine(SwingShootingLazerCoroutine());
         StartCoroutine(SwingShootingLazerCoroutine());
+    }
+    void OnPlayerShootFinishHandler()
+    {
+        ableToShoot = false;
+        StopCoroutine(SwingShootingLazerCoroutine());
     }
 
     private void HandleTap(Vector2 tapPos) {
-        if (gunStates == GunStates.Rotating) {
+        if (ableToShoot) {
             if (currentAmmo>0) {
                 currentAmmo--;
                 GameObject bullet = Instantiate(BulletPrefab,Gun.position,Gun.rotation);
@@ -51,11 +61,13 @@ public class PlayerShootHandler : MonoBehaviour {
     IEnumerator SwingShootingLazerCoroutine() {
         gunStates = GunStates.Rotating;
         Gun.rotation = Quaternion.Euler(ReadyEulerangle);
+        float lerpValue = 0;
         while (gunStates!=GunStates.Stopped) 
         {
+            lerpValue += Time.deltaTime * rotateSpeed;
             switch (gunStates) {
                 case GunStates.Rotating:
-                    Gun.rotation = Quaternion.Slerp(Gun.rotation, Quaternion.Euler(StoppedEulerangle), Time.deltaTime * rotateSpeed);
+                    Gun.rotation = Quaternion.Lerp(Quaternion.Euler(ReadyEulerangle), Quaternion.Euler(StoppedEulerangle), lerpValue);
                     if (Quaternion.Angle(Gun.rotation, Quaternion.Euler(StoppedEulerangle))<0.5f) {
                         gunStates = GunStates.Stopped;
                     }

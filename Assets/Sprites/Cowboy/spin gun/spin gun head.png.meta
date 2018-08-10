@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 996146078a176d540bde01f328ac4e47
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spin gun head0000
+    21300002: spin gun head0001
+    21300004: spin gun head0002
+    21300006: spin gun head0003
+    21300008: spin gun head0004
+    21300010: spin gun head0005
+    21300012: spin gun head0006
+    21300014: spin gun head0007
+    21300016: spin gun head0008
+    21300018: spin gun head0009
+    21300020: spin gun head0010
+    21300022: spin gun head0011
+    21300024: spin gun head0012
+    21300026: spin gun head0013
+    21300028: spin gun head0014
+    21300030: spin gun head0015
+    21300032: spin gun head0016
+    21300034: spin gun head0017
+    21300036: spin gun head0018
+    21300038: spin gun head0019
+    21300040: spin gun head0020
+    21300042: spin gun head0021
+    21300044: spin gun head0022
+    21300046: spin gun head0023
+    21300048: spin gun head0024
+    21300050: spin gun head0025
+    21300052: spin gun head0026
+    21300054: spin gun head0027
+    21300056: spin gun head0028
+    21300058: spin gun head0029
+    21300060: spin gun head0030
+    21300062: spin gun head0031
+    21300064: spin gun head0032
+    21300066: spin gun head0033
+    21300068: spin gun head0034
+    21300070: spin gun head0035
+    21300072: spin gun head0036
+    21300074: spin gun head0037
+    21300076: spin gun head0038
+    21300078: spin gun head0039
+    21300080: spin gun head0040
+    21300082: spin gun head0041
+    21300084: spin gun head0042
+    21300086: spin gun head0043
+    21300088: spin gun head0044
+    21300090: spin gun head0045
+    21300092: spin gun head0046
+    21300094: spin gun head0047
+    21300096: spin gun head0048
+    21300098: spin gun head0049
+    21300100: spin gun head0050
+    21300102: spin gun head0051
+    21300104: spin gun head0052
+    21300106: spin gun head0053
+    21300108: spin gun head0054
+    21300110: spin gun head0055
+    21300112: spin gun head0056
+    21300114: spin gun head0057
+    21300116: spin gun head0058
+    21300118: spin gun head0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spin gun head0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7466
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36061d6dc2497e047b95b66ec3fbed9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0001
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 7466
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24467843da49524eb6c084141ec8538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0002
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 7466
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f694de09ef8579e4d86c5d28c70f0da5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0003
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 7466
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ab6dc8716d5ba4696f41e9fb593e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0004
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 7466
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f8dbd0ddeb0964ababafde3b34d4f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0005
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 7466
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669ca946ee8c8294abfb24bad288db7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0006
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 7466
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7af6f82c671084f86e3ee8c3bc3a24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0007
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6760
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f972e823674082d4a98b6af2a87d69ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0008
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 6760
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9c5d7824ba3b3498119339feab8c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0009
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 6760
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fedc2515befba46aa67c2d6673710b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0010
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 6760
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08f8e6b4f795c6479ae883b0e2e3ec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0011
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 6760
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfb73ef7d30b2b45b1c44743e628eb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0012
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 6760
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f510a7ca5b557264da97bbc57c381f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0013
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 6760
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e7c6795148499498eef6f649f2a3f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0014
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6054
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2eb8e99dfebb243b49f23983939e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0015
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 6054
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fc6f82f8b4de647bb1e8c7cc9ccf4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0016
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 6054
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74c15db7b48ea042b9cc31461673d33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0017
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 6054
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435fadfc331c2314b865c7ba2b3fd91c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0018
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 6054
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7e45ae1bfc204429cde0135d8c4931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0019
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 6054
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0b1aa4bc3ea7344a6b1b61c8b09554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0020
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 6054
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1efb6ddaa77e1849bd56ac56abd296b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0021
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5348
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e07d342958ae914bbebad362e6065d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0022
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 5348
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67def9700ab0d3c4aa9471683c5333fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0023
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 5348
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5df1481f5c16d4989f59a0ac3f96a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0024
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 5348
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825a16d0475538c4ead52241501f505f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0025
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 5348
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f9b759d3f5947499eac81090eda19e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0026
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 5348
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4206082e43c13d44a972fb21db18975f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0027
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 5348
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f5e5c6968fd1048bb6d6e1f25d5904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0028
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4642
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1950c17e10bf544ab039ddce6b869b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0029
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 4642
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c873ce3585d5d2e4fa02cf35fa151836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0030
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 4642
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652afa3a3d6d7a847b0b99abde4aad30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0031
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 4642
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336211dc19fc0ad4588b5c7e64257c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0032
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 4642
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf0f3ebc2306354490b5acdaf3a1771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0033
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 4642
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233052ebd879adb4294edc76773e54f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0034
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 4642
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754bc008deec8ea4b859887f60a177eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0035
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3936
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba6437c7cc012e4fb6a7e82c8bebcde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0036
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 3936
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f52945a1b9c24f9973bee38ba478c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0037
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3936
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff1d9dab7254f8468d37de669572d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0038
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 3936
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9303d0e9eb8a6d4bac279ea85af3493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0039
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 3936
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac23a225e9730843aec3f12764e7e6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0040
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 3936
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43ad97977ce78c4fa99ea83242bcf15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0041
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 3936
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c68c0272f8c76a4ea153aa2ca9776a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0042
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3230
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e5ea342830eaa41a9ed6a8605ae17d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0043
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 3230
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5381db87c605f42a04af4e510536e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0044
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3230
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f7f91bd30a213428f163d4a1b9e55c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0045
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 3230
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f20c7c7bffb54c4d98b67e1ba775d40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0046
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 3230
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01400df33e5eb494f93bbe7de3a9f612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0047
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 3230
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f505f8e1b8f37df45b6c359635d99e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0048
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 3230
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e32692ab17fc64091787903c10ea5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0049
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2524
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a2be7552cc3b64e9d61b47842b87ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0050
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2524
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e9dd6aa9be5f945a989f7c236c2a56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0051
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2524
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc016422d3e9bce449be3a46d035bfc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0052
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 2524
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5703b2ab986e71f429ae1d8881c3e8df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0053
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 2524
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e246680583b1c244b063ec58d86fce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0054
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 2524
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167c19471db483c4d85f3f16bd303810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0055
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 2524
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ae220a7814674d82e475ba3dd3e52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0056
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1818
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00648c45da044f24f9b9cd991b18294e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0057
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1818
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed365c6fd951aab478ea1a4cc4e8c21c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0058
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1818
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c05f9f8e49cd749b095e5e57171c28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin gun head0059
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 1818
+        width: 1066
+        height: 706
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807778c5e58267147bb1d672aff8afe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c00e2ac04af405c41854f1ad10449fbe
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

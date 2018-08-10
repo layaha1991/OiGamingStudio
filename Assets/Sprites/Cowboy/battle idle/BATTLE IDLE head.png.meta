@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: a3170064a5678de49a39dd3f05176588
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BATTLE IDLE head0000
+    21300002: BATTLE IDLE head0001
+    21300004: BATTLE IDLE head0002
+    21300006: BATTLE IDLE head0003
+    21300008: BATTLE IDLE head0004
+    21300010: BATTLE IDLE head0005
+    21300012: BATTLE IDLE head0006
+    21300014: BATTLE IDLE head0007
+    21300016: BATTLE IDLE head0008
+    21300018: BATTLE IDLE head0009
+    21300020: BATTLE IDLE head0010
+    21300022: BATTLE IDLE head0011
+    21300024: BATTLE IDLE head0012
+    21300026: BATTLE IDLE head0013
+    21300028: BATTLE IDLE head0014
+    21300030: BATTLE IDLE head0015
+    21300032: BATTLE IDLE head0016
+    21300034: BATTLE IDLE head0017
+    21300036: BATTLE IDLE head0018
+    21300038: BATTLE IDLE head0019
+    21300040: BATTLE IDLE head0020
+    21300042: BATTLE IDLE head0021
+    21300044: BATTLE IDLE head0022
+    21300046: BATTLE IDLE head0023
+    21300048: BATTLE IDLE head0024
+    21300050: BATTLE IDLE head0025
+    21300052: BATTLE IDLE head0026
+    21300054: BATTLE IDLE head0027
+    21300056: BATTLE IDLE head0028
+    21300058: BATTLE IDLE head0029
+    21300060: BATTLE IDLE head0030
+    21300062: BATTLE IDLE head0031
+    21300064: BATTLE IDLE head0032
+    21300066: BATTLE IDLE head0033
+    21300068: BATTLE IDLE head0034
+    21300070: BATTLE IDLE head0035
+    21300072: BATTLE IDLE head0036
+    21300074: BATTLE IDLE head0037
+    21300076: BATTLE IDLE head0038
+    21300078: BATTLE IDLE head0039
+    21300080: BATTLE IDLE head0040
+    21300082: BATTLE IDLE head0041
+    21300084: BATTLE IDLE head0042
+    21300086: BATTLE IDLE head0043
+    21300088: BATTLE IDLE head0044
+    21300090: BATTLE IDLE head0045
+    21300092: BATTLE IDLE head0046
+    21300094: BATTLE IDLE head0047
+    21300096: BATTLE IDLE head0048
+    21300098: BATTLE IDLE head0049
+    21300100: BATTLE IDLE head0050
+    21300102: BATTLE IDLE head0051
+    21300104: BATTLE IDLE head0052
+    21300106: BATTLE IDLE head0053
+    21300108: BATTLE IDLE head0054
+    21300110: BATTLE IDLE head0055
+    21300112: BATTLE IDLE head0056
+    21300114: BATTLE IDLE head0057
+    21300116: BATTLE IDLE head0058
+    21300118: BATTLE IDLE head0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BATTLE IDLE head0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7624
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceab4f57df9dd549b3345711b1d27b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0001
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 7624
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889c20d874d5241469183b5d89f7e245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0002
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 7624
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5d39e75f267cd45b5257496e2a0fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0003
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 7624
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bb376eaa8500a49bc5113d982bb521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0004
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 7624
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f435ff41794d24baed225e9e80441f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0005
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 7624
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185d5f73c1dc28444aaac159dc5775af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0006
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 7624
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109640ffd46412c40a0917a640bf52e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0007
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 7624
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77db811f1538bb4ba5dc51af053edd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0008
+      rect:
+        serializedVersion: 2
+        x: 6884
+        y: 7624
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4313276c182e7468318d14bce1e878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0009
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7076
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea8bd509bf52a54bb376ea93e460b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0010
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 7076
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e456ec07c6a8843a4e6faf75137c1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0011
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 7076
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf63c9db640f0447b98fb8d67f6b8e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0012
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 7076
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f0357b02eb1dd4dab599a03e673c85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0013
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 7076
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af3627e9c10d5146b2aa56f79ca2a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0014
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 7076
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc22a9ee5412dd41869f2b23f7c4849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0015
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 7076
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45455c2982c27b4297c8141cd0a0ab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0016
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 7076
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a278fd1f0b3c3e34a90b6a8359224bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0017
+      rect:
+        serializedVersion: 2
+        x: 6884
+        y: 7076
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e153d8d76c46c3541a24a8a16bd8e988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0018
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6528
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974ddf00500fcd4459f7801ba8c3dfd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0019
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 6528
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dd2d48184a90b46874359d4e61cc22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0020
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 6528
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d50694595467b44ab3a921d49b9d55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0021
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 6528
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d31e0525a48cf4b8bdfd24c3f542e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0022
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 6528
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3917450f173954d94f3aedb1d12519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0023
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 6528
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a475393393294d885b0c289963a03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0024
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 6528
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95a2a1eac558b641add442f524ef672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0025
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 6528
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca22786d9c871c246963cfe9c1fd2562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0026
+      rect:
+        serializedVersion: 2
+        x: 6884
+        y: 6528
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ac2da030740c4db5dd8ab8331ca9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0027
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5980
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525ef6187ffd454b93086619f4a7548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0028
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 5980
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f253714893fb6dd40b33775fc6711249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0029
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 5980
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe535ee93c074b41ad7bdb0fbe65383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0030
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 5980
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7927632336814574ebd66a49116c0971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0031
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 5980
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33de9b48a2ae63c448e2dca0911cc9b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0032
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 5980
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420e1e01ec256f344b40cceae90fe203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0033
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 5980
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87fe7e8ffb802545b0923d32aa3e686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0034
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 5980
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ee9c8328da9ac41a1e76fb0942a32f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0035
+      rect:
+        serializedVersion: 2
+        x: 6884
+        y: 5980
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce4b85d2469b1c40a2896a2da642543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0036
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5432
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f71470bb73fa741b928573fb9f447d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0037
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 5432
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0d827fa46a69d4898ef187dc6cb5ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0038
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 5432
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7d632fe68025a4d9b529c015b41914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0039
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 5432
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303f266bde102284caede7ea5755a6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0040
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 5432
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d70ac08f50aec48a7fa579ae23d270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0041
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 5432
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5082ec691f6df4db86f0af2b21f551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0042
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 5432
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eaef47fbab74c45bb6ddffd8f24409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0043
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 5432
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e14bded8401cca40a27fc028d0c8cba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0044
+      rect:
+        serializedVersion: 2
+        x: 6884
+        y: 5432
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29372ba0e010a974fba1e21c8b165e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0045
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4884
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9304511ff0dda58478b03cb73e0ab84e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0046
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 4884
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77655bc883171146875912de68afb97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0047
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 4884
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f2dfe501aa9dc4982f1589272f05f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0048
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 4884
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119d4f3236fdcdf4ca996d39b1a09646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0049
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 4884
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861b3a6da18b897449d25712bc13626e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0050
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 4884
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6662c9175264e54e819c143e9b44e88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0051
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 4884
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca280b0624dd794f89dddecfdda147e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0052
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 4884
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2778ecb3cc7c1954b9d37e0cb2b9b255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0053
+      rect:
+        serializedVersion: 2
+        x: 6884
+        y: 4884
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19418cb77c7ac74fae0c6823a4ec664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0054
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4336
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6947842c74df0444c89992adb912ddef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0055
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 4336
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749fe9f8f854be5488b2406dd0992002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0056
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 4336
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae0595dd131f3f4697ce09759fcad7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0057
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 4336
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51314350e00ac340b57b57b67fd3e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0058
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 4336
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8977284d47a62244f8e02aff83298f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE head0059
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 4336
+        width: 858
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a69cdaf624c5d2458cac749dfb82eb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 531ea84c57e441d439c8970b0c468005
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 614698efef24d3a4f8aa7ddaaf753653
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skull cowboy idle0000
+    21300002: skull cowboy idle0001
+    21300004: skull cowboy idle0002
+    21300006: skull cowboy idle0003
+    21300008: skull cowboy idle0004
+    21300010: skull cowboy idle0005
+    21300012: skull cowboy idle0006
+    21300014: skull cowboy idle0007
+    21300016: skull cowboy idle0008
+    21300018: skull cowboy idle0009
+    21300020: skull cowboy idle0010
+    21300022: skull cowboy idle0011
+    21300024: skull cowboy idle0012
+    21300026: skull cowboy idle0013
+    21300028: skull cowboy idle0014
+    21300030: skull cowboy idle0015
+    21300032: skull cowboy idle0016
+    21300034: skull cowboy idle0017
+    21300036: skull cowboy idle0018
+    21300038: skull cowboy idle0019
+    21300040: skull cowboy idle0020
+    21300042: skull cowboy idle0021
+    21300044: skull cowboy idle0022
+    21300046: skull cowboy idle0023
+    21300048: skull cowboy idle0024
+    21300050: skull cowboy idle0025
+    21300052: skull cowboy idle0026
+    21300054: skull cowboy idle0027
+    21300056: skull cowboy idle0028
+    21300058: skull cowboy idle0029
+    21300060: skull cowboy idle0030
+    21300062: skull cowboy idle0031
+    21300064: skull cowboy idle0032
+    21300066: skull cowboy idle0033
+    21300068: skull cowboy idle0034
+    21300070: skull cowboy idle0035
+    21300072: skull cowboy idle0036
+    21300074: skull cowboy idle0037
+    21300076: skull cowboy idle0038
+    21300078: skull cowboy idle0039
+    21300080: skull cowboy idle0040
+    21300082: skull cowboy idle0041
+    21300084: skull cowboy idle0042
+    21300086: skull cowboy idle0043
+    21300088: skull cowboy idle0044
+    21300090: skull cowboy idle0045
+    21300092: skull cowboy idle0046
+    21300094: skull cowboy idle0047
+    21300096: skull cowboy idle0048
+    21300098: skull cowboy idle0049
+    21300100: skull cowboy idle0050
+    21300102: skull cowboy idle0051
+    21300104: skull cowboy idle0052
+    21300106: skull cowboy idle0053
+    21300108: skull cowboy idle0054
+    21300110: skull cowboy idle0055
+    21300112: skull cowboy idle0056
+    21300114: skull cowboy idle0057
+    21300116: skull cowboy idle0058
+    21300118: skull cowboy idle0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skull cowboy idle0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3659
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b942d0ec92d6fb94f8b4e3f17da35f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0001
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3659
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9f9f1839603aa4eb8c3340e1b07781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0002
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3659
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c6f4402ca6884693a3b445efe218a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0003
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3659
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4761263bdf019439beb36218d67330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0004
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 3659
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1ab48ca5596e48a6d86fc562275fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0005
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3659
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82e6f26066f02e459bdb63d344a0a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0006
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 3659
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a331512e43c548419b2f5eb221ac54b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0007
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 3659
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bc2a81baaf89a4f87203f42455c1e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0008
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 3659
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaffd96f8671604baae6feb2511d046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0009
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3242
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206e3e81d562ac24e8f9f2f2f08243b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0010
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3242
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3440ac399cdb458fe2e14796ec4c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0011
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3242
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96475476cbb5f17428ee27073dd7fe0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0012
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3242
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c233055a588af42891cb8c8b0d703a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0013
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 3242
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aadc1199a136548b340dbed652cd84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0014
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3242
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c7b6f12a96d404db6d5f54643afa17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0015
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 3242
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e28621b949fb047bb36f6b1f35d5ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0016
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 3242
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66434cb142410e745be491a1915b06c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0017
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 3242
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875c471b77b454049b4c5ffca275a4e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0018
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2825
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e1a7f6588422840811ea8ca9f2739c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0019
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2825
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bbedf1a050e1849b95be775a35cdfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0020
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2825
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562ca3b7370337e4592fc0984ed63e0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0021
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2825
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8382dddf103ad14c97c092c0ede18ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0022
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2825
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5b8596494b5854c8e964596d95a73f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0023
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2825
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b6c11ec786d543b4ad6f4b2906d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0024
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2825
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc17bb0191b4e4099b2968c815f649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0025
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 2825
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0da872756f86da4496fef7ba397530d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0026
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2825
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e31c0b02526984a9dfdb1b7d8a2f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0027
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2408
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3688500a0a3f68f4e95fe54f1482e63e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0028
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2408
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf0d7aa4fc11364fa8a684c88721083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0029
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2408
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb21aaefab6477842b356871ed2609d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0030
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2408
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5296bc1385f2e0948970c2530621cf12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0031
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2408
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1383734a74f0f70498962bd61fb5ed61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0032
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2408
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7002ca6f977bf0d4d99cb32801de0c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0033
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2408
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13387059cfa81a4c9c7d6226df1fc91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0034
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 2408
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871b76f8ccdd56347918ad99dad611a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0035
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2408
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ab328c26026ce4c81212b711458ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0036
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1991
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa340ca2a827246419c6e8f6ec7b4756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0037
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1991
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc7547fdb11ffb4cb9fb6db84f971c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0038
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1991
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6af964b961d2884a83723481eef225c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0039
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1991
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd253f7eeffc4b49b8a3840d6657f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0040
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1991
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956cee9fd50d9ef418bef52197ee2226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0041
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1991
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5be70b1b2131142ace5f0f5c974e43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0042
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1991
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4081c26ed44c3478d3cfa90047f2cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0043
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 1991
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9ddd89328ea944898430829273aab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0044
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1991
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270876df11940c449aa8e655fd61bf3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0045
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1574
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a890f7d0c5163b04fa925ea108526066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0046
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1574
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fe2d06f204000499c97bba9b3af388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0047
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1574
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59472c4de908f7a44939bd701e8ca3fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0048
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1574
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6608b49585be03548b8dd751bc14a64d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0049
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1574
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab21b9cc9d9cef847b582aa3a28b390d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0050
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1574
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da53f84fd0f0b74784b126edd5c887f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0051
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1574
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9394b18e239a28a41b2be719c37bd88d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0052
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 1574
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a8f22a1d51c846b98257c1a7e31a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0053
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1574
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2360bbe0f8ed8646b6b9486e5450e1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0054
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1157
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c9ea73dea6b73429e33e3dc35f53aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0055
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1157
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16e2261d40a438429a00b2c15210f17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0056
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1157
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58f155c8973dea42a7b3a945a50dded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0057
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1157
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eff03397b1d78b408e9c50b4b8bfb8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0058
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1157
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e14be3f9f04e5b4d8dd7384e1df0c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy idle0059
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1157
+        width: 416
+        height: 417
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db5d305b30dd3c4db665262bfaa43c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a347cc6f7ef4d024eaa06b299556b0dc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

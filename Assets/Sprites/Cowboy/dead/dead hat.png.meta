@@ -1,0 +1,1252 @@
+fileFormatVersion: 2
+guid: d5425809c1707ad4c974042273acdbaf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hat yuanjian0000
+    21300002: hat yuanjian0001
+    21300004: hat yuanjian0002
+    21300006: hat yuanjian0003
+    21300008: hat yuanjian0004
+    21300010: hat yuanjian0005
+    21300012: hat yuanjian0006
+    21300014: hat yuanjian0007
+    21300016: hat yuanjian0008
+    21300018: hat yuanjian0009
+    21300020: hat yuanjian0010
+    21300022: hat yuanjian0011
+    21300024: hat yuanjian0012
+    21300026: hat yuanjian0013
+    21300028: hat yuanjian0014
+    21300030: hat yuanjian0015
+    21300032: hat yuanjian0016
+    21300034: hat yuanjian0017
+    21300036: hat yuanjian0018
+    21300038: hat yuanjian0019
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat yuanjian0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6527
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947f12b9d6a1d194bbc28701c43be189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0001
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 6527
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a040e3b8350c34bb974fdae4108015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0002
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 6527
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9effd26fa6edff54e8a8480a19425de9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0003
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 6527
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a11640f653fe9479439a3a824240e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0004
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 6527
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772a1be29a8179c47a7bc308d76d7c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0005
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4882
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c345f02784c87947858601019a26a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0006
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 4882
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200aa367c24f48c4986eace10e457be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0007
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 4882
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3248f185188651242a6fcff8d0879953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0008
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 4882
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a058885d8696f3489b15ca4cedd4b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0009
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 4882
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e862aba439764744cb9125c692c15d06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0010
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3237
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bbb9a2dbb8ae549805a69a0e1679e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0011
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 3237
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca532a7c5a609845876c1a99d9bc067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0012
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 3237
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c00ca09fa81fa346bc229935c647e94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0013
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 3237
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c174335d1b48b8e4baf6f769643f335f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0014
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 3237
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a54dacbd1c27459b3fc40162b31ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0015
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1592
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d5baa053b9e2f41a49403ab258e3a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0016
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1592
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2aae0d3f1fdda4fa08131d40f05779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0017
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 1592
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bf64f7cad5d674db3374302468f3f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0018
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 1592
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a01f051fa28474c9d3e1bd19a6ece1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0019
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 1592
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45b656491598274983cf22a078d5246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0020
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: -53
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e55b2253552f042aef98b58c5dcbd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0021
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: -53
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6614d41160e11ba4dbf1c306c19ad4c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0022
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: -53
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce397125c0f64c40a02fcff9ab1d36e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0023
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: -53
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4808aae1c1f98146ab8439ba3ef5804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0024
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: -53
+        width: 1439
+        height: 1645
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c949fb72fb3e35845868d2252b5165f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0025
+      rect:
+        serializedVersion: 2
+        x: 875704400
+        y: -1.7177153e+9
+        width: 544743500
+        height: 875704400
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3317faa1aeb5942b1fa02712af1dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0026
+      rect:
+        serializedVersion: 2
+        x: 1.02709306e+9
+        y: -1.4834776e+9
+        width: 842080400
+        height: 942932030
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0d41840ef9ac34b93cbc5798618f3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0027
+      rect:
+        serializedVersion: 2
+        x: -277580480
+        y: 823301700
+        width: -193642180
+        height: -378331040
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd442d6e54b191446802bbeb433f06e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0028
+      rect:
+        serializedVersion: 2
+        x: 909717570
+        y: -1.8691698e+9
+        width: 544743500
+        height: 909717570
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e768e8f0b4a94d84481e88fd060d6da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0029
+      rect:
+        serializedVersion: 2
+        x: -193759940
+        y: 176796160
+        width: -277580930
+        height: 842596500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21162fcaeec49bd48890b56aa8f2576f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0030
+      rect:
+        serializedVersion: 2
+        x: 942944300
+        y: -1.81851e+9
+        width: 544743500
+        height: 942944300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc1d5b65c33ddf46ba24ac757ead453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0031
+      rect:
+        serializedVersion: 2
+        x: -193759940
+        y: 176796160
+        width: -277580930
+        height: 842596500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d93df4fe6979741a355d5e5d5704e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0032
+      rect:
+        serializedVersion: 2
+        x: -379314080
+        y: -661546430
+        width: -210866320
+        height: 872423500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e9fad28bd2b54494c4e113183bf92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0033
+      rect:
+        serializedVersion: 2
+        x: 842608960
+        y: -1.8021277e+9
+        width: 544743500
+        height: 842608960
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3289c5573d6eb564e9c06a41a528c555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0034
+      rect:
+        serializedVersion: 2
+        x: 942944300
+        y: -1.81851e+9
+        width: 544743500
+        height: 942944300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e077c09c57666642a5f5e07faa27075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0035
+      rect:
+        serializedVersion: 2
+        x: 1.0266996e+9
+        y: -1.4830842e+9
+        width: 825565300
+        height: 942932030
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482bee96983cf3f4a86962227a079565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0036
+      rect:
+        serializedVersion: 2
+        x: 909717570
+        y: -1.8691698e+9
+        width: 544743500
+        height: 909717570
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d3b789e6699664da89da798c9e7acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0037
+      rect:
+        serializedVersion: 2
+        x: 1.02709306e+9
+        y: -1.383142e+9
+        width: 842080400
+        height: 842596400
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7a64a068f420648975e22a5aaa4240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0038
+      rect:
+        serializedVersion: 2
+        x: 1.02696275e+9
+        y: -1.4501206e+9
+        width: 892477600
+        height: 909705300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a0bbcb54cb82f4295a651f79e2e125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0039
+      rect:
+        serializedVersion: 2
+        x: 1.0266996e+9
+        y: -1.4158442e+9
+        width: 825565300
+        height: 875692100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fc63206bb690f43a0cd5a730845104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0040
+      rect:
+        serializedVersion: 2
+        x: 1.02696275e+9
+        y: -1.4161074e+9
+        width: 892477600
+        height: 875692100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d593c3ec5338f49a90fdfdc6bf68db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0041
+      rect:
+        serializedVersion: 2
+        x: 942944300
+        y: -1.81851e+9
+        width: 544743500
+        height: 942944300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08300b09f67eea4d9dce1477f877499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0042
+      rect:
+        serializedVersion: 2
+        x: 1.02709306e+9
+        y: -1.4834776e+9
+        width: 842080400
+        height: 942932030
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749eb5d878b30034c961302e6fa8dc2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0043
+      rect:
+        serializedVersion: 2
+        x: 909717570
+        y: -1.8691698e+9
+        width: 544743500
+        height: 909717570
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ae79cce925a84e8cda334df8b0fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0044
+      rect:
+        serializedVersion: 2
+        x: 875704400
+        y: -1.7177153e+9
+        width: 544743500
+        height: 875704400
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3053955bc821e92448de4cb2c4c3002b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0045
+      rect:
+        serializedVersion: 2
+        x: 909717570
+        y: -1.8691698e+9
+        width: 544743500
+        height: 909717570
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dcb43cffdbfce4ea95d42957ce39bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0046
+      rect:
+        serializedVersion: 2
+        x: 1.02696275e+9
+        y: -1.4501206e+9
+        width: 892477600
+        height: 909705300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f409c9fbd74cee49beab3159d4ea05e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0047
+      rect:
+        serializedVersion: 2
+        x: 875704400
+        y: -1.7177153e+9
+        width: 544743500
+        height: 875704400
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0054b325290334195f235693f9ba4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0048
+      rect:
+        serializedVersion: 2
+        x: -379314080
+        y: -695100860
+        width: -210866320
+        height: 905977900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8105ac6b239f66441af96a59d503f284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0049
+      rect:
+        serializedVersion: 2
+        x: -193759940
+        y: 176796160
+        width: -277580930
+        height: 842596500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e323f9d54ccfeff45aeab425ed9ac115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0050
+      rect:
+        serializedVersion: 2
+        x: 942944300
+        y: -1.81851e+9
+        width: 544743500
+        height: 942944300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a713c1fab967214fa40f6a9b6b2fbb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0051
+      rect:
+        serializedVersion: 2
+        x: -193759940
+        y: 1.0193925e+9
+        width: -277580930
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b364f60682bb9a1489a218f476ed75bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0052
+      rect:
+        serializedVersion: 2
+        x: 1.0266996e+9
+        y: -540152200
+        width: 825565300
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749fe4165e44cc64db0d78e62fc49520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0053
+      rect:
+        serializedVersion: 2
+        x: 1.02709306e+9
+        y: -162206340
+        width: 842080400
+        height: -378339260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e4541636747744ca215d8c39afc9dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat yuanjian0054
+      rect:
+        serializedVersion: 2
+        x: 1.02709306e+9
+        y: -540545660
+        width: 842080400
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3d827e1cd4935409870664ad3f07d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ba93eff596dcc3440b4baaa01192adf1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

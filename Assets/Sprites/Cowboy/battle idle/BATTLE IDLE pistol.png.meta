@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 2c97e71985bd99b41b9db69aa5e87337
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BATTLE IDLE pistol0000
+    21300002: BATTLE IDLE pistol0001
+    21300004: BATTLE IDLE pistol0002
+    21300006: BATTLE IDLE pistol0003
+    21300008: BATTLE IDLE pistol0004
+    21300010: BATTLE IDLE pistol0005
+    21300012: BATTLE IDLE pistol0006
+    21300014: BATTLE IDLE pistol0007
+    21300016: BATTLE IDLE pistol0008
+    21300018: BATTLE IDLE pistol0009
+    21300020: BATTLE IDLE pistol0010
+    21300022: BATTLE IDLE pistol0011
+    21300024: BATTLE IDLE pistol0012
+    21300026: BATTLE IDLE pistol0013
+    21300028: BATTLE IDLE pistol0014
+    21300030: BATTLE IDLE pistol0015
+    21300032: BATTLE IDLE pistol0016
+    21300034: BATTLE IDLE pistol0017
+    21300036: BATTLE IDLE pistol0018
+    21300038: BATTLE IDLE pistol0019
+    21300040: BATTLE IDLE pistol0020
+    21300042: BATTLE IDLE pistol0021
+    21300044: BATTLE IDLE pistol0022
+    21300046: BATTLE IDLE pistol0023
+    21300048: BATTLE IDLE pistol0024
+    21300050: BATTLE IDLE pistol0025
+    21300052: BATTLE IDLE pistol0026
+    21300054: BATTLE IDLE pistol0027
+    21300056: BATTLE IDLE pistol0028
+    21300058: BATTLE IDLE pistol0029
+    21300060: BATTLE IDLE pistol0030
+    21300062: BATTLE IDLE pistol0031
+    21300064: BATTLE IDLE pistol0032
+    21300066: BATTLE IDLE pistol0033
+    21300068: BATTLE IDLE pistol0034
+    21300070: BATTLE IDLE pistol0035
+    21300072: BATTLE IDLE pistol0036
+    21300074: BATTLE IDLE pistol0037
+    21300076: BATTLE IDLE pistol0038
+    21300078: BATTLE IDLE pistol0039
+    21300080: BATTLE IDLE pistol0040
+    21300082: BATTLE IDLE pistol0041
+    21300084: BATTLE IDLE pistol0042
+    21300086: BATTLE IDLE pistol0043
+    21300088: BATTLE IDLE pistol0044
+    21300090: BATTLE IDLE pistol0045
+    21300092: BATTLE IDLE pistol0046
+    21300094: BATTLE IDLE pistol0047
+    21300096: BATTLE IDLE pistol0048
+    21300098: BATTLE IDLE pistol0049
+    21300100: BATTLE IDLE pistol0050
+    21300102: BATTLE IDLE pistol0051
+    21300104: BATTLE IDLE pistol0052
+    21300106: BATTLE IDLE pistol0053
+    21300108: BATTLE IDLE pistol0054
+    21300110: BATTLE IDLE pistol0055
+    21300112: BATTLE IDLE pistol0056
+    21300114: BATTLE IDLE pistol0057
+    21300116: BATTLE IDLE pistol0058
+    21300118: BATTLE IDLE pistol0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fbe97dd94cdcc48a2ca80ff5c927d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0001
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971230b31d5f6c4bbd3d4dab12551f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0002
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e878ab65096234ca78481a566404e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0003
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a259998c73f5a4f4b9de9425752985e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0004
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3f517d17805db44b3fd6e3fd2f4805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0005
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff8973363a1814598534f4fa791182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0006
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500b1d72199a92840804db1d65882a71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0007
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac296355ba31714fbc1fe1d19b164c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0008
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2353964732c9e6438c42e2481c63722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0009
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 3618
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9f6ea963e87d443a15227d21f0d2b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0010
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77692a196e3cceb43b30179bbd6e676e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0011
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621e5ee37dce261408672296920448f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0012
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7a0d3548837df4ea1b9222323c8b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0013
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec445c50ebeada4da63e5f5accf40dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0014
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27c673900bab4b4486d1bc7dc9f9529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0015
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eff1c28d9dd5b4f98ff8fba5afaf37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0016
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90bc5da38b78c54a9281e981b565d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0017
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5cfa108f6f3cd4b835fdc5d757c056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0018
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89ae5b75af33ad49a150d0ebbc0c1dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0019
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 3160
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df134323a69cf67409d3c0619f4155a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0020
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60605bf24ea3a714daa945318101d86b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0021
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7d483bec75b284696f5ed8bed743c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0022
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1332fd52b6da104abec114b882745d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0023
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40cc5c071777f142b6201725ee05320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0024
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f0512817013ff4eab52286ba5afbba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0025
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d132aabb6809d74187079450c182a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0026
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc411d967ad96549851d517ab8df6e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0027
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61720490e6a5eb44cbeddf6a6855be1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0028
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff8f3974f693e547a272d5da741284f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0029
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2702
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cff95a071aff57448fde524c824de75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0030
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45ae74a2830ba74ba6bc9922f63b366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0031
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e364ffa3cdf9e439cf85a0fc22784b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0032
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6863c7c38e961f488b0bb2d1e6346e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0033
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484470dedde505418b22b645a94f4f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0034
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed0dacef796398469c9a662ef44b9ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0035
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7067477841a0d9043b950e4e131088f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0036
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65562fb364214349a390e26b8dfea98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0037
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3070db0ca3cc346bd337014e96e9e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0038
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d8ce6e1e1dac74a8d48b20303efd9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0039
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2244
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d0abd559aa5124aa836894740f1b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0040
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb255d6a7d11f041ac031d5837275d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0041
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e914ec557f4bf654182b2d2482e95d55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0042
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687980fecda551547bf4d8146f8ff949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0043
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a07b843556d7ab469cd6603a40faf74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0044
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282758feda794324aab2d4fea11c2ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0045
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53402862121963d46a1b80f5dabdfa68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0046
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9f71ab541084245ad5ee02c1cbfbc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0047
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19e85bf00b39b245a6ce451db49fb26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0048
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd03e949b749e04bb3a5ad36b1e4fcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0049
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1786
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9437bbc09d9eac41b89f157c295ea4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0050
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62cce8ad62f8244b811815c36710e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0051
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932c564b1e476d84c944e648c52b6da6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0052
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d19c61327d0fa4c87c03bb975cf3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0053
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501647600270057489ce7bbf5af55f08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0054
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fb61f062736904c8d39151f9d87729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0055
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efdbfba5b3613f42b5d30dac873537d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0056
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899e73776b396c8418276439f0a5ddfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0057
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407e063fbf123b7478cd6140ee69ccb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0058
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a7de3d5eb40974084531b320afd6bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE pistol0059
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1328
+        width: 372
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300f3468abbb484696b7faa0b262e8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c144ac03f7be0d4abcfc0bb32ed6cba
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

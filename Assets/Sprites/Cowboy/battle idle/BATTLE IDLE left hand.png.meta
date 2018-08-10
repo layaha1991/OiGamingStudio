@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: c6806a8a1e396644da0f4cce30ba6599
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BATTLE IDLE left hand0000
+    21300002: BATTLE IDLE left hand0001
+    21300004: BATTLE IDLE left hand0002
+    21300006: BATTLE IDLE left hand0003
+    21300008: BATTLE IDLE left hand0004
+    21300010: BATTLE IDLE left hand0005
+    21300012: BATTLE IDLE left hand0006
+    21300014: BATTLE IDLE left hand0007
+    21300016: BATTLE IDLE left hand0008
+    21300018: BATTLE IDLE left hand0009
+    21300020: BATTLE IDLE left hand0010
+    21300022: BATTLE IDLE left hand0011
+    21300024: BATTLE IDLE left hand0012
+    21300026: BATTLE IDLE left hand0013
+    21300028: BATTLE IDLE left hand0014
+    21300030: BATTLE IDLE left hand0015
+    21300032: BATTLE IDLE left hand0016
+    21300034: BATTLE IDLE left hand0017
+    21300036: BATTLE IDLE left hand0018
+    21300038: BATTLE IDLE left hand0019
+    21300040: BATTLE IDLE left hand0020
+    21300042: BATTLE IDLE left hand0021
+    21300044: BATTLE IDLE left hand0022
+    21300046: BATTLE IDLE left hand0023
+    21300048: BATTLE IDLE left hand0024
+    21300050: BATTLE IDLE left hand0025
+    21300052: BATTLE IDLE left hand0026
+    21300054: BATTLE IDLE left hand0027
+    21300056: BATTLE IDLE left hand0028
+    21300058: BATTLE IDLE left hand0029
+    21300060: BATTLE IDLE left hand0030
+    21300062: BATTLE IDLE left hand0031
+    21300064: BATTLE IDLE left hand0032
+    21300066: BATTLE IDLE left hand0033
+    21300068: BATTLE IDLE left hand0034
+    21300070: BATTLE IDLE left hand0035
+    21300072: BATTLE IDLE left hand0036
+    21300074: BATTLE IDLE left hand0037
+    21300076: BATTLE IDLE left hand0038
+    21300078: BATTLE IDLE left hand0039
+    21300080: BATTLE IDLE left hand0040
+    21300082: BATTLE IDLE left hand0041
+    21300084: BATTLE IDLE left hand0042
+    21300086: BATTLE IDLE left hand0043
+    21300088: BATTLE IDLE left hand0044
+    21300090: BATTLE IDLE left hand0045
+    21300092: BATTLE IDLE left hand0046
+    21300094: BATTLE IDLE left hand0047
+    21300096: BATTLE IDLE left hand0048
+    21300098: BATTLE IDLE left hand0049
+    21300100: BATTLE IDLE left hand0050
+    21300102: BATTLE IDLE left hand0051
+    21300104: BATTLE IDLE left hand0052
+    21300106: BATTLE IDLE left hand0053
+    21300108: BATTLE IDLE left hand0054
+    21300110: BATTLE IDLE left hand0055
+    21300112: BATTLE IDLE left hand0056
+    21300114: BATTLE IDLE left hand0057
+    21300116: BATTLE IDLE left hand0058
+    21300118: BATTLE IDLE left hand0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1813
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b87afecebae7fe4fa1ad233a87fdd3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0001
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1813
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba450cca3fae36a498577dcb05f98dc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0002
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1813
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf47871f6aefd143a40ee63558e46c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0003
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1813
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e5adcedfb4923459cbfed13067d5ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0004
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1813
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d252a9989d283144ca99f2b458434666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0005
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1813
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e552cd542492ad4eaac551b95bcce26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0006
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1813
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cac10a4b99d3d498ff0c5d8c8ac106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0007
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1813
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02722d6094f99fd4d90c16c70a149a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0008
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1813
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594983dcb7252b247b54d9c1bbc1b667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0009
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1598
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf943a2e49560e479be467a7f5865e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0010
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1598
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3841392df4842e4ca32de5948f609d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0011
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1598
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e1d209a2faca947b7448c6831b90c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0012
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1598
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f68f5cf9663504fa80cc472a86ad22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0013
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1598
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cfcf89e1f6732479e5fa16c001368b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0014
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1598
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed17f466cfc5c3478ac4f3353646d8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0015
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1598
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13713c02a4a1daa41926ea5fbd5138ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0016
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1598
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a8ef9100d2a054e9792522fd4cfe97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0017
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1598
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f104ee009726a499bcac47a05bac20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0018
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1383
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b54a282f8711624c887d007c0765bd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0019
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1383
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02461a9d584dbc4c8a2baac7f156532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0020
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1383
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1363d196661f25b459b70aeb7bcf623c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0021
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1383
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e88301bb1a041f419edd3cfcc63d2bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0022
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1383
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd045be45446b34c9cb0800af252b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0023
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1383
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b0d861ab1547a4cabcc5ff07661d0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0024
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1383
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d188013d12acf44a8ddd929020c1e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0025
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1383
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69393ee55ad493a45bd3b87748b0d618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0026
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1383
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43bd1fcc972d444cb6bfbbeee5e9762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0027
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1168
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb33f091782869439989d4a73214c08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0028
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1168
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec9e10273a7f447a5cb26288d1e3a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0029
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1168
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e84fa65e77de44db393191a14c7247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0030
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1168
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2332fd52a31514b980e68e853c48ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0031
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1168
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b59abf397cd17c42bb488a85d09fe79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0032
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1168
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee6f8508755e9743840cd974f5ea7f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0033
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1168
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2db7d4c6f9d81e45bf4544315413d47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0034
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1168
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86772aa8514dea9479e241a32a3e3173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0035
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1168
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22f327846635794980d7b607a2eaabd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0036
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 953
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b2d85d052ab064cb6670b372719328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0037
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 953
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb5ee3bc7c6b34b8af120702cdbedd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0038
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 953
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c863650fdd26478a4245cffc98d24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0039
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 953
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09c9f348723bc149b89c08e90ea9f5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0040
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 953
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638b0e418420e1489b0eb3d909b2f6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0041
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 953
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b5525628eedd646a261756091a5a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0042
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 953
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec42d59f0c01894b8cee0f7ba8d78de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0043
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 953
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f351978644eb0f4a8958df9640748be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0044
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 953
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab164bcd16f41944da37075bfbd9f179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0045
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 738
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599e7b818787f8640a2a5cecc85db996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0046
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 738
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9da16d3ace3e8408af4cd93fbd4623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0047
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 738
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdc517375b3f3f46a315e24646a28f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0048
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 738
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122a25f1eeed89448b3402436000ea0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0049
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 738
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116b77cecd0d36443a44efebd1b77e35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0050
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 738
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ffbd552c782ac4cb3ad34b7f8b5078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0051
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 738
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4358711025227408c95b097376aaf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0052
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 738
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34df0fa510dfe374f884fb06d8fd2ce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0053
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 738
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee96ef5f06d3094c95999e74c3746ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0054
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 523
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef15d7d9068ba748b7ab233210dcf15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0055
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 523
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45631ca4ef6812b46909f96a556d5fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0056
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 523
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee8bc4e0504d5849af6182fb2d24ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0057
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 523
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8695763c8a6edae49bb848fb181297b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0058
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 523
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461628920fca26b4693babdb9b26d748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BATTLE IDLE left hand0059
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 523
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f3750813e6bbb4bbd52f0846270543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dafc00df87bfa8446bf9a91c647d62db
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

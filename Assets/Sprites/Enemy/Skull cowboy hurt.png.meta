@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 4a38a62a07ae87943b5a62594a48d73f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skull cowboy hurt0000
+    21300002: skull cowboy hurt0001
+    21300004: skull cowboy hurt0002
+    21300006: skull cowboy hurt0003
+    21300008: skull cowboy hurt0004
+    21300010: skull cowboy hurt0005
+    21300012: skull cowboy hurt0006
+    21300014: skull cowboy hurt0007
+    21300016: skull cowboy hurt0008
+    21300018: skull cowboy hurt0009
+    21300020: skull cowboy hurt0010
+    21300022: skull cowboy hurt0011
+    21300024: skull cowboy hurt0012
+    21300026: skull cowboy hurt0013
+    21300028: skull cowboy hurt0014
+    21300030: skull cowboy hurt0015
+    21300032: skull cowboy hurt0016
+    21300034: skull cowboy hurt0017
+    21300036: skull cowboy hurt0018
+    21300038: skull cowboy hurt0019
+    21300040: skull cowboy hurt0020
+    21300042: skull cowboy hurt0021
+    21300044: skull cowboy hurt0022
+    21300046: skull cowboy hurt0023
+    21300048: skull cowboy hurt0024
+    21300050: skull cowboy hurt0025
+    21300052: skull cowboy hurt0026
+    21300054: skull cowboy hurt0027
+    21300056: skull cowboy hurt0028
+    21300058: skull cowboy hurt0029
+    21300060: skull cowboy hurt0030
+    21300062: skull cowboy hurt0031
+    21300064: skull cowboy hurt0032
+    21300066: skull cowboy hurt0033
+    21300068: skull cowboy hurt0034
+    21300070: skull cowboy hurt0035
+    21300072: skull cowboy hurt0036
+    21300074: skull cowboy hurt0037
+    21300076: skull cowboy hurt0038
+    21300078: skull cowboy hurt0039
+    21300080: skull cowboy hurt0040
+    21300082: skull cowboy hurt0041
+    21300084: skull cowboy hurt0042
+    21300086: skull cowboy hurt0043
+    21300088: skull cowboy hurt0044
+    21300090: skull cowboy hurt0045
+    21300092: skull cowboy hurt0046
+    21300094: skull cowboy hurt0047
+    21300096: skull cowboy hurt0048
+    21300098: skull cowboy hurt0049
+    21300100: skull cowboy hurt0050
+    21300102: skull cowboy hurt0051
+    21300104: skull cowboy hurt0052
+    21300106: skull cowboy hurt0053
+    21300108: skull cowboy hurt0054
+    21300110: skull cowboy hurt0055
+    21300112: skull cowboy hurt0056
+    21300114: skull cowboy hurt0057
+    21300116: skull cowboy hurt0058
+    21300118: skull cowboy hurt0059
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skull cowboy hurt0000
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3631
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe1f3c98dbc5a3468d1ac5999df260f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0001
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3631
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66a3eb844b66424b808a6e16601cdaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0002
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 3631
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fbd4fac186c5946a3d2475d9a960f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0003
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3631
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66046327822d62847a230f9084325e52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0004
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 3631
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588bba3b02971c04aac11c4cb265b7de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0005
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3631
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a36ad2bddbb46a4da140383416d26a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0006
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3631
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c99f51153505d41a8d171b5c312e50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0007
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 3631
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1096b34ee3ea747b177606330d3600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0008
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3186
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6f545da3ae8e3409053ec28806a12e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0009
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3186
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b58431c752ab51488ad55125625dfc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0010
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 3186
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0426e5105c0db3f47835ba795f948bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0011
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3186
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c4ec22e04f0645b3ebd9827346741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0012
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 3186
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95feff7f28edf74c9196c730a68bebb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0013
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3186
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b991c76d60f1849a101aeaa024d9ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0014
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3186
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069db314d1337bf4e82a611f4f1c968b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0015
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 3186
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc424bbc04ad0de41a85cd2b3f8df25c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0016
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2741
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9242417a7cb1d9b46af6e2480de4d76e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0017
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2741
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f108e9ddf842e48911ff58bdfdf23f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0018
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2741
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c1cfde232c77a448cb56723e70c330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0019
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2741
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16123e211ffd4414c8af5de4e198bbc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0020
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2741
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b47d6587e5c5af40b5e090740e5c1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0021
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2741
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b181e51eb9ecd45aa5c3f08f3d80fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0022
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2741
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdd2e4c41bda6d4ea40bc61588e9f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0023
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 2741
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f0a659436488548a5a2c733b6d9dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0024
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2296
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5ed25065356ef47b02b1d8b6cd450f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0025
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2296
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acfa3b3790a50f4a8f456f95e47a693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0026
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2296
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4859615ea9cdcf34da26b60e28248a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0027
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2296
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad91e18697baf241a7f0f5d2cf7b656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0028
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2296
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e5ba0ae29bfa047a6a17b6c238eaf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0029
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2296
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd7aa6297bee474dae74480994b85ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0030
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2296
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3b6d518e5f7a442a45e1bbe9ecc007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0031
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 2296
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d6b08b1b8c664a98451e461f9ae20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0032
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1851
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43de59d15fda5d6478ac14a1ff1ccb57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0033
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1851
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffde35b2494d0444b84d7dda29222f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0034
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1851
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339fdf182b0bf4144ae3cdbadee3e290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0035
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1851
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cacd30c83fe80d4ab5d015bc0195726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0036
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1851
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9a108d006e0943aea18aed3ee7fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0037
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1851
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8badaca659f48478492cf3f9acf10f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0038
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1851
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5956797bd8861c40b58384db03df5aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0039
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 1851
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6f581016e074e41b40d04677e416ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0040
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1406
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452213b7cc3266b49bef17437a877282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0041
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1406
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65d4f83054c88046949c3fa518b4735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0042
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1406
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec91ce2fbab04314c8292e73234bbca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0043
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1406
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c055e43b3121b1c4783fe5ef4241879c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0044
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1406
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09554d5b6341ec947912d1c4a8a54c9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0045
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1406
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03ec00b468b89e41b8e4d175abbece8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0046
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1406
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00b86ad52880754190b8b40f8e84c97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0047
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 1406
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b53042469d0994a82c8a1d3eb94b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0048
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 961
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27b75ce9b634c6479d00d881f474298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0049
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 961
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376966b427fb8dd45b45068d4ca9ebd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0050
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 961
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7c9cd0916a75f44acecb424246179a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0051
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 961
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e3426742d6db543a4fafbc391fad69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0052
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 961
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7355e58c5d352da4d817529d29c93899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0053
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 961
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557152ee4dcd3c2448cd0ff23c0abe9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0054
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 961
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5d4f184a72307499f27e94ae6289cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0055
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 961
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdd45ef99bad0f40a74078365c33378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0056
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 516
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fb9decadf651c4ca23b8b0cfa96f1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0057
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 516
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdca9600fe42b414e8584ee3141dcfbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0058
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 516
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942e9f0b7e12cbb4186b9868793c2154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull cowboy hurt0059
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 516
+        width: 456
+        height: 445
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc3621251ecbae428916405ca4b64bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c25ad9f3085f57b4d811c4e0c004a3dd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
