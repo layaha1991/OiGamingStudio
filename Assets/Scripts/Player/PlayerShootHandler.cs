@@ -24,10 +24,14 @@ public class PlayerShootHandler : MonoBehaviour {
     TurnManager turnManager;
 
     public bool ableToShoot = false;
+    public bool ableToParry = false;
+
+
     private void Awake()
     {
         playerStatusManager = GetComponent<PlayerStatusManager>();
         PlayerEventManager.OnTap += HandleTap;
+        PlayerEventManager.OnParry += HandleParry;
     }
     private void Start()
     {
@@ -57,7 +61,35 @@ public class PlayerShootHandler : MonoBehaviour {
             }
         }
     }
+    private void CheckAbleToParry()
+    {
+        if (playerStatusManager.Energy >= 10f && TurnManager.Instance.CurrentTurn == TurnManager.Instance.PlayerParry)
+        {
 
+            ableToParry = true;
+        } else
+        {
+            ableToParry = false;
+        }
+    }
+    private void HandleParry()
+    {
+        CheckAbleToParry();
+        if(ableToParry == true)
+        {
+            playerStatusManager.Energy -= 10f;     
+            for (int i = 0; i < this.gameObject.transform.childCount - 1; i++)
+            {
+                if (this.gameObject.transform.GetChild(i).transform.name == "ParryCollider")
+                {
+                    Transform parryCollider = this.gameObject.transform.GetChild(i);
+                    parryCollider.gameObject.SetActive(true);
+                    Debug.Log("Parry On");
+                }
+            }
+
+        }
+    }
     IEnumerator SwingShootingLazerCoroutine() {
         gunStates = GunStates.Rotating;
         Gun.rotation = Quaternion.Euler(ReadyEulerangle);

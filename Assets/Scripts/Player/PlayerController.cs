@@ -19,5 +19,10 @@ public class PlayerController : MonoBehaviour {
         {
             playerEventManager.CallOnTap(new Vector2(0,0));
         }
+        else if (Input.GetKeyDown(pcTapKey))
+        {
+            playerEventManager.CallOnParry();
+            Debug.Log("detect space");
+        }
     }
 }

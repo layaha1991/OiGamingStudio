@@ -15,15 +15,14 @@ public class Bullet : MonoBehaviour {
     {
         if (collision.gameObject.tag == "shield")
         {
-            Debug.Log("it is a shield");
-// the fire will be disable by the animation event
+            Debug.Log("it is a shield");  // the fire will be disable by the animation event
             Destroy(gameObject);
         }
         if (IsDamagableLayer(collision.gameObject.layer))
         {
             
             EnemyDamageReceiver receiver = collision.gameObject.GetComponent<EnemyDamageReceiver>();
-            if (receiver != null) 
+            if (receiver != null && GameManager.instance._isEnemyDead == false) 
             {
                 receiver.ReceiveDamage(damage);
                 Destroy(gameObject);

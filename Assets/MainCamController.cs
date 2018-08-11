@@ -14,7 +14,7 @@ public class MainCamController : MonoBehaviour {
 
     void SetupEvents() {
         turnManager.PlayerReady.OnStart += FocusPlayer;
-        turnManager.PlayerPerry.OnStart += FocusPlayer;
+        turnManager.PlayerParry.OnStart += FocusPlayer;
         turnManager.PlayerBulletTracking.OnStart += TrackBullets;
         turnManager.EnemyBulletTracking.OnStart += TrackBullets;
         turnManager.EnemyReceiveDamage.OnStart += FocusEnemy;
@@ -24,7 +24,7 @@ public class MainCamController : MonoBehaviour {
     void ClearEvents()
     {
         turnManager.PlayerReady.OnStart -= FocusPlayer;
-        turnManager.PlayerPerry.OnStart -= FocusPlayer;
+        turnManager.PlayerParry.OnStart -= FocusPlayer;
         turnManager.PlayerBulletTracking.OnStart -= TrackBullets;
         turnManager.EnemyBulletTracking.OnStart -= TrackBullets;
         turnManager.EnemyReceiveDamage.OnStart -= FocusEnemy;

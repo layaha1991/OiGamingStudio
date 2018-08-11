@@ -4,39 +4,35 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // float
-    public float timeToSpawnEnemy = 3f;
+
 
     [Header("Enemy Prefab")]
     [SerializeField]
     private GameObject[] enemy;
-
-    /**[SerializeField]
-    private GameObject enemy_normal;
-    [SerializeField]
-    private GameObject enemy_shield;
-    [SerializeField]
-    private GameObject enemy_normal_fly;**/
-
     [SerializeField]
     private GameObject enemyPos;
 
-    // bool
+
+
+    //bool
     public bool _isEnemyDead;
     public bool spawnOnceCount;
+
     //Event
     public delegate void Event(bool isEnemyDead);
     public static event Event OnEnemyDead;
-
     public delegate void levelUpHandler(int level);
     public static event levelUpHandler OnLevelUp;
 
 
-
-    public static GameManager instance;
-
+    // Numbers
+    public float timeToSpawnEnemy = 3f;
     public int level;
 
+    //GameState
+    private EnumGameState gameState;
+  
+    public static GameManager instance;
     private void Awake()
     {
 
@@ -57,8 +53,10 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        gameState = EnumGameState.Main;
 
         level = 1;
+        _isEnemyDead = true;
     }
 
     private void Update()

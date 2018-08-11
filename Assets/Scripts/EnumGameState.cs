@@ -4,8 +4,7 @@ using UnityEngine;
 
 public enum EnumGameState{
 
-	PlayerTurn,
-    EnemyTurn,
-    Transfer
-
+	Main,
+    Bounty,
+    Battle
 }

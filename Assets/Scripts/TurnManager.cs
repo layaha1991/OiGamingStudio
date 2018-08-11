@@ -17,7 +17,7 @@ public class TurnManager : MonoBehaviour {
     public Turn EnemyReady;
     public Turn EnemyShoot;
     public Turn EnemyBulletTracking;
-    public Turn PlayerPerry;
+    public Turn PlayerParry;
 
     public KeyCode DemoStartTestKey;
     public KeyCode DemoNextTurnKey;
@@ -49,7 +49,7 @@ public class TurnManager : MonoBehaviour {
         EnemyReady = new Turn(TurnType.EnemyReady);
         EnemyShoot = new Turn(TurnType.EnemyShoot);
         EnemyBulletTracking = new Turn(TurnType.EnemyBulletTracing);
-        PlayerPerry = new Turn(TurnType.PlayerPerry);
+        PlayerParry = new Turn(TurnType.PlayerParry);
 
         Overviewing.nextTurn = PlayerReady;
         PlayerReady.nextTurn = PlayerShoot;
@@ -58,15 +58,19 @@ public class TurnManager : MonoBehaviour {
         EnemyReceiveDamage.nextTurn = EnemyReady;
         EnemyReady.nextTurn = EnemyShoot;
         EnemyShoot.nextTurn = EnemyBulletTracking;
-        EnemyBulletTracking.nextTurn = PlayerPerry;
-        PlayerPerry.nextTurn = PlayerReady;
+        EnemyBulletTracking.nextTurn = PlayerParry;
+        PlayerParry.nextTurn = PlayerReady;
     }
     public void NextTurn() {
         if (CurrentTurn != null)
         {
             CurrentTurn = CurrentTurn.nextTurn;
             CheckEnemyReady();
-            GameObject.FindGameObjectWithTag("Enemy").GetComponent<EnemyEventManager>().CallOnEnemyTurn(_isEnemyReady);
+
+            if(GameObject.FindGameObjectWithTag("Enemy") !=null)
+            {
+                GameObject.FindGameObjectWithTag("Enemy").GetComponent<EnemyEventManager>().CallOnEnemyTurn(_isEnemyReady); 
+            }
 
         }
         else {
@@ -119,7 +123,7 @@ public class TurnManager : MonoBehaviour {
 
 public enum TurnType 
 {
-    Default,Overviewing,PlayerReady,PlayerShoot,PlayerBulletTracing, EnemyReady,EnemyReceiveDamage, EnemyShoot,EnemyBulletTracing,PlayerPerry
+    Default,Overviewing,PlayerReady,PlayerShoot,PlayerBulletTracing, EnemyReady,EnemyReceiveDamage, EnemyShoot,EnemyBulletTracing,PlayerParry
 }
 
 public class Turn {

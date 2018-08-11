@@ -37,7 +37,6 @@ public class EnemyController_normal: MonoBehaviour {
         if (isEnemyReady == true)
         {
             Instantiate(_bullet_enemy_normal, _bullet_enemy_normalSpawnPos.transform.position, Quaternion.identity);
-            Debug.Log("enemyFire");
             isEnemyReady = false;
         }
     

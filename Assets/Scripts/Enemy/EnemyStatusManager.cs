@@ -10,7 +10,7 @@ public class EnemyStatusManager : MonoBehaviour
     public float currentHealth = 100;
     public float attackPower = 10;
 
-
+    private Transform _blood;
 
     //bool
 
@@ -32,23 +32,14 @@ public class EnemyStatusManager : MonoBehaviour
     private void Start()
     {
         enemyAnimator = gameObject.GetComponent<Animator>();
+        _blood = this.gameObject.transform.GetChild(0);
     }
-    private void checkEnemyDead()
-    {
-        if (currentHealth <= 0 )
-        {
-            GameManager.instance._isEnemyDead = true;
-        }
-        else
-        {
-            GameManager.instance._isEnemyDead = false;
-        }
-
-    }
+   
 
     private void OnHit(float dmg)
     {
         currentHealth -= dmg;
+        OnHitAnimation();
         checkEnemyDead();
         if (GameManager.instance._isEnemyDead == true)
         {
@@ -56,6 +47,7 @@ public class EnemyStatusManager : MonoBehaviour
             {
                 enemyAnimator.Play("EnemyDead");
                 GameManager.instance.level++;
+                Debug.Log("Level up");
                 GameManager.instance.CallOnLevelUp(GameManager.instance.level); // destory object at the end of this Animation
             } else 
             {
@@ -67,9 +59,44 @@ public class EnemyStatusManager : MonoBehaviour
             return;
         }
     }
+    private void checkEnemyDead()
+    {
+        if (currentHealth <= 0)
+        {
+            GameManager.instance._isEnemyDead = true;
+        }
+        else
+        {
+            GameManager.instance._isEnemyDead = false;
+        }
 
+    }
+    private void OnHitAnimation()
+    {
+        if (_blood != null)
+        {
+            _blood.gameObject.SetActive(true);
+            StartCoroutine(TurnRedRoutine());
+        }
+        else 
+        {
+            return;
+        }
 
+        //color change
+        //Spawn animation
+    }
+    private IEnumerator TurnRedRoutine()
+    {
+        var sprite = GetComponent<SpriteRenderer>();
+        sprite.color = new Color(255, 0, 0, 255);
+        yield return new WaitForSeconds(0.1f);
+        sprite.color = new Color(255, 255, 255, 255);
+        StopCoroutine(TurnRedRoutine());
 
+    }
+
+ 
 
 
 }

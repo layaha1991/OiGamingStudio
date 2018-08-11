@@ -83,6 +83,7 @@
     <Compile Include="Assets\Scripts\TurnManager.cs" />
     <Compile Include="Assets\Scripts\TurnManagerDebugUIBehaviour.cs" />
     <Compile Include="Assets\Scripts\TurnRemindingTextBehaviour.cs" />
+    <Compile Include="Assets\Scripts\UX\bloodScript.cs" />
     <Compile Include="Assets\Scripts\UX\fireScript.cs" />
     <None Include="Assets\Sprites\Cowboy\dead\dead head.xml" />
     <None Include="Assets\Sprites\Cowboy\hurt1\hurt1 left arm.xml" />

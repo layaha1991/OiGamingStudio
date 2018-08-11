@@ -14,15 +14,20 @@ public class EnemyStatusUIBehaviour : MonoBehaviour {
     {
         
     }
+
     private void Update () 
     {
         GetEnemyStatusManager();
-        HealthText.text = "Health : " + enemyStatusManager.currentHealth + " / " + enemyStatusManager.maxHealth;
+        if (GameObject.FindGameObjectWithTag("Enemy") != null)
+        {
+            HealthText.text = "Health : " + enemyStatusManager.currentHealth + " / " + enemyStatusManager.maxHealth;
+        }
+     
     }
 
     private void GetEnemyStatusManager()
     {
-        if(GameObject.FindGameObjectWithTag("Enemy") != null)
+        if(GameObject.FindGameObjectWithTag("Enemy")!= null)
         {
             enemyStatusManager = GameObject.FindGameObjectWithTag("Enemy").GetComponent<EnemyStatusManager>();
         }
