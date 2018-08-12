@@ -26,22 +26,22 @@ public class bullet_Enemy_Normal : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("collision happened");
+
         if (collision.gameObject.tag == "Player")
         {
-            Debug.Log("Hit player");
+
             PlayerStatusManager playerStatusManager = collision.gameObject.GetComponent<PlayerStatusManager>();
             if (playerStatusManager != null)
             {
-                Debug.Log("Decrease HP");
                 playerStatusManager.currentHealth -= dmg;
                 Destroy(gameObject);
             }
-            else if (collision.gameObject.tag == "Parry")
-            {
-                Debug.Log("Parry");
-                Destroy(gameObject);
-            }
+  
+        }
+        else if (collision.gameObject.tag == "ParryCollider")
+        {
+            Debug.Log("The bullet is Parried");
+            Destroy(gameObject);
         }
     }
 }

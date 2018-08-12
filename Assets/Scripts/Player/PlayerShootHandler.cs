@@ -63,13 +63,14 @@ public class PlayerShootHandler : MonoBehaviour {
     }
     private void CheckAbleToParry()
     {
-        if (playerStatusManager.Energy >= 10f && TurnManager.Instance.CurrentTurn == TurnManager.Instance.PlayerParry)
+        if (playerStatusManager.Energy >= 10f)
         {
-
             ableToParry = true;
+
         } else
         {
             ableToParry = false;
+
         }
     }
     private void HandleParry()
@@ -77,17 +78,9 @@ public class PlayerShootHandler : MonoBehaviour {
         CheckAbleToParry();
         if(ableToParry == true)
         {
-            playerStatusManager.Energy -= 10f;     
-            for (int i = 0; i < this.gameObject.transform.childCount - 1; i++)
-            {
-                if (this.gameObject.transform.GetChild(i).transform.name == "ParryCollider")
-                {
-                    Transform parryCollider = this.gameObject.transform.GetChild(i);
-                    parryCollider.gameObject.SetActive(true);
-                    Debug.Log("Parry On");
-                }
-            }
-
+            playerStatusManager.Energy -= 10f;
+            Transform parryCollider = transform.Find("ParryCollider");
+            parryCollider.gameObject.SetActive(true);
         }
     }
     IEnumerator SwingShootingLazerCoroutine() {

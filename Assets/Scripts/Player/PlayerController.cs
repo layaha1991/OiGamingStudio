@@ -17,12 +17,15 @@ public class PlayerController : MonoBehaviour {
     void HandleInput() {
         if (Input.GetKeyDown(pcTapKey)) 
         {
-            playerEventManager.CallOnTap(new Vector2(0,0));
+            if (TurnManager.Instance.CurrentTurn == TurnManager.Instance.PlayerShoot)
+            {
+                playerEventManager.CallOnTap(new Vector2(0, 0));
+            }
+            else if (TurnManager.Instance.CurrentTurn == TurnManager.Instance.PlayerParry)
+            {
+                playerEventManager.CallOnParry();
+            }
         }
-        else if (Input.GetKeyDown(pcTapKey))
-        {
-            playerEventManager.CallOnParry();
-            Debug.Log("detect space");
-        }
+
     }
 }

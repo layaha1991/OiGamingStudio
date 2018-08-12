@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\GeneralUI.cs" />
     <Compile Include="Assets\Scripts\Object\EnemyBullet\bullet_Enemy_Normal.cs" />
+    <Compile Include="Assets\Scripts\Object\ParryCollider.cs" />
     <Compile Include="Assets\Scripts\Object\Player\Bullet.cs" />
     <Compile Include="Assets\Scripts\Object\shield.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />

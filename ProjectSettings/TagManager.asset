@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - shield
   - Bullet
+  - ParryCollider
   layers:
   - Default
   - TransparentFX
