@@ -2,15 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[ExecuteInEditMode]
 public class PlayerShootHandler : MonoBehaviour {
     [SerializeField]
     private GunStates gunStates = GunStates.Stopped;
     private PlayerStatusManager playerStatusManager;
     public int maxAmmo;
     public int currentAmmo;
-    public Transform Gun;
-    public Transform GunPivot;
+    public Transform GunLazer;
     public GameObject BulletPrefab;
     //Shoot Direction is the gun forward
 
@@ -19,14 +17,14 @@ public class PlayerShootHandler : MonoBehaviour {
     public float rotateSpeed = 1;
     public Vector3 StoppedEulerangle;
     public Vector3 ReadyEulerangle;
-    public float shootSpeed = 10f;
+    public float shootSpeed = 20f;
 
     TurnManager turnManager;
-
     public bool ableToShoot = false;
     public bool ableToParry = false;
-
-
+    [Space]
+    [Header("Turn settings")]
+    public float postTurnWaitPeriod = 1f;
     private void Awake()
     {
         playerStatusManager = GetComponent<PlayerStatusManager>();
@@ -55,9 +53,10 @@ public class PlayerShootHandler : MonoBehaviour {
         if (ableToShoot) {
             if (currentAmmo>0) {
                 currentAmmo--;
-                GameObject bullet = Instantiate(BulletPrefab,Gun.position,Gun.rotation);
-                bullet.GetComponent<Rigidbody2D>().velocity = Gun.right*shootSpeed;
-                bullet.GetComponent<Bullet>().damage *= playerStatusManager.attackPower;
+                Bullet bullet = Instantiate(BulletPrefab,GunLazer.position,GunLazer.rotation).GetComponent<Bullet>();
+                bullet.velocity = GunLazer.right*shootSpeed;
+                bullet.damage *= playerStatusManager.attackPower;
+                bullet.owner = "Player";
             }
         }
     }
@@ -85,21 +84,24 @@ public class PlayerShootHandler : MonoBehaviour {
     }
     IEnumerator SwingShootingLazerCoroutine() {
         gunStates = GunStates.Rotating;
-        Gun.rotation = Quaternion.Euler(ReadyEulerangle);
+        GunLazer.rotation = Quaternion.Euler(ReadyEulerangle);
+        GunLazer.gameObject.SetActive(true);
         float lerpValue = 0;
         while (gunStates!=GunStates.Stopped) 
         {
             lerpValue += Time.deltaTime * rotateSpeed;
             switch (gunStates) {
                 case GunStates.Rotating:
-                    Gun.rotation = Quaternion.Lerp(Quaternion.Euler(ReadyEulerangle), Quaternion.Euler(StoppedEulerangle), lerpValue);
-                    if (Quaternion.Angle(Gun.rotation, Quaternion.Euler(StoppedEulerangle))<0.5f) {
+                    GunLazer.rotation = Quaternion.Lerp(Quaternion.Euler(ReadyEulerangle), Quaternion.Euler(StoppedEulerangle), lerpValue);
+                    if (Quaternion.Angle(GunLazer.rotation, Quaternion.Euler(StoppedEulerangle))<0.5f) {
                         gunStates = GunStates.Stopped;
                     }
                     break;
             }
             yield return null;
         }
+        yield return new WaitForSeconds(postTurnWaitPeriod);
+        GunLazer.gameObject.SetActive(false);
         if (turnManager.CurrentTurn == turnManager.PlayerShoot) 
         {
             turnManager.NextTurn();
@@ -109,7 +111,7 @@ public class PlayerShootHandler : MonoBehaviour {
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawLine(Gun.position, Gun.position + Gun.right*10f);
+        Gizmos.DrawLine(GunLazer.position, GunLazer.position + GunLazer.right*10f);
     }
 
     public enum GunStates { Rotating,Stopped }

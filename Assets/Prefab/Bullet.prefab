@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 61143897062382398}
   - component: {fileID: 50352053497682196}
   - component: {fileID: 95895651714972734}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bullet
   m_TagString: Bullet
   m_Icon: {fileID: 0}
@@ -122,6 +122,9 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   damage: 1
+  velocity: {x: 0, y: 0, z: 0}
+  timeScale: 1
+  owner: Nobody
 --- !u!212 &212755753916592066
 SpriteRenderer:
   m_ObjectHideFlags: 1

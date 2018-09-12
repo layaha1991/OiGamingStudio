@@ -7,7 +7,7 @@ public class TurnManager : MonoBehaviour {
     public static TurnManager Instance;
     
     public Turn CurrentTurn;
-    Turn OldTurn;
+    Turn LastTurn;
 
     public Turn Overviewing;
     public Turn PlayerReady;
@@ -39,6 +39,17 @@ public class TurnManager : MonoBehaviour {
     void Start () {
         CurrentTurn = Overviewing;
 	}
+
+    private void RegisterEvents() {
+        
+    }
+    private void RemoveEvents() {
+
+    }
+    private void OnDestroy()
+    {
+        
+    }
 
     void InitTurns(){
         Overviewing = new Turn(TurnType.Overviewing);
@@ -89,8 +100,7 @@ public class TurnManager : MonoBehaviour {
             _isEnemyReady = false;
         }
     }
-
-    // Update is called once per frame
+    
     void Update () {
         if (Input.GetKeyDown(DemoStartTestKey)) {
             CurrentTurn = Overviewing;
@@ -104,10 +114,10 @@ public class TurnManager : MonoBehaviour {
     }
 
     void HandleTurnEvents() {
-        if (OldTurn != CurrentTurn) {
-            if (OldTurn != null)
+        if (LastTurn != CurrentTurn) {
+            if (LastTurn != null)
             {
-                OldTurn.Finish();
+                LastTurn.Finish();
             }
 
             if (CurrentTurn != null)
@@ -116,14 +126,23 @@ public class TurnManager : MonoBehaviour {
             }
         }
         
-        OldTurn = CurrentTurn;
+        LastTurn = CurrentTurn;
     }
 }
 
 
 public enum TurnType 
 {
-    Default,Overviewing,PlayerReady,PlayerShoot,PlayerBulletTracing, EnemyReady,EnemyReceiveDamage, EnemyShoot,EnemyBulletTracing,PlayerParry
+    Default,
+    Overviewing,
+    PlayerReady,
+    PlayerShoot,
+    PlayerBulletTracing,
+    EnemyReady,
+    EnemyReceiveDamage,
+    EnemyShoot,
+    EnemyBulletTracing,
+    PlayerParry
 }
 
 public class Turn {
@@ -140,7 +159,7 @@ public class Turn {
         }
         Debug.Log("Turn " + type.ToString() + " has finished.");
     }
-    public void Start()
+    public void Start() 
     {
         Debug.Log("Turn " + type.ToString() + " is Starting.");
         if (OnStart != null) {
